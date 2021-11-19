@@ -1,0 +1,51 @@
+
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link href="styles/styles-confirmh.css" rel="stylesheet" />
+
+</head>
+</html>
+<body>
+<script id="handlebars-demo" type="text/x-handlebars-template">
+<div class="nav-wrap">
+    <div class="nav">
+        Wiley Transfer Desk
+    </div>
+</div>
+<div class="body-wrap">
+    <h3>Your transfer request has been confirmed</h3>
+    <p>We will transfer your manuscript files and details to a new submission in <strong>{{journaltitle}}</strong>.
+
+    <p>Within 24-48 hours, you will be notified when your submission is completed. If you need to make additional changes to your submission, you will have the opportunity to do so after your submission has been received.    </p>
+
+    <p>If your manuscript was sent out for peer review at your previous journal, any completed reviewer reports will be shared with the {{journaltitle}}'s editorial office.</p>
+
+    <p>If you have any concerns about your transfer selection, contact the <a href="mailto:wileytransferdesk@wiley.com">Wiley Transfer Desk</a>.</p>
+    <div style="border-top:1px solid #ddd;">
+    <h4>Transfer details:</h4>
+    <ul>
+        <li><strong>Title:</strong> {{manuscriptTitle}}</li>
+        <li><strong>Previous Manuscript ID:</strong> {{MSID}}</li>
+        <li><strong>Previous Journal:</strong> {{feederJournal}}</li>
+        <li><strong>Destination Journal:</strong> {{journaltitle}}</li>
+    </ul>
+    </div>
+    <p style="margin-top:100px;">
+        <a href="confirm-inboxh.html?userid={{participantid}}&journaltitle={{journaltitle}}">Back to inbox</a>
+    </p>
+    
+</div>
+</script>
+
+
+<script src="https://unpkg.com/@popperjs/core@2.9.1/dist/umd/popper.min.js"></script>
+<script src="https://unpkg.com/tippy.js@6.3.1/dist/tippy-bundle.umd.min.js"></script>
+<script src="scripts/scripts-confirmh.js"></script>
+</body>
+</html>

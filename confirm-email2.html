@@ -1,0 +1,100 @@
+
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="config.json"></script>
+    <link href="styles/styles-confirm-email2.css" rel="stylesheet" />
+    
+</head>
+</html>
+<body>
+<script id="handlebars-demo" type="text/x-handlebars-template">
+<div class="gmail-email">
+    
+    <div id="subjectline">Action Required: Finish your transferred submission to {{journaltitle}}</div>
+    <div id="fromLine">{{journaltitle}} <span>&lt;submissionhelp@wiley.com&gt;</span></div>
+    <div id="emailBody">
+        <div class="emailContent">
+            <p>Dear {{authorName}},</p>
+
+            <p>You recently requested we transfer your submission:</p>
+       
+               <p style="margin-left:40px; margin-right:40px; font-size:0.9em;">
+                Longitudinal sequencing of TCR and circulating tumor DNA reveal radiotherapeutic
+                efficacy and prognosis in non-small cell lung cancer patients with brain metastasis<br><br>
+                   <strong>Destination journal:</strong> {{journaltitle}}<br>
+                   <strong>Destination reference code:</strong> abc123-fed456-aed8d
+                  
+               </p>
+               
+           <p>Your manuscript files and details have all been transferred to a new submission at your selected journal.</p>
+
+           <p>To complete your transfer:</p>
+               
+           <ul>
+                <li>Carefully review the destination journal's author guidelines and ensure your submission meets the journal’s scope and requirements</li>
+                <li>If you received feedback on your previous submission, consider revising as appropriate</li>
+                <li>Log in to the Research Exchange submission portal using the link below</li>
+                <li>Specify your article type</li>
+                <li>Review your submission files – you may provide a revised manuscript, cover letter, or accompanying files as necessary</li>
+                <li>Answer any newly required questions</li>
+            </ul>
+            
+            
+            
+            
+            
+           
+           <div style="margin:20px; padding:10px 20px 10px 20px; border:1px solid #ccc;">
+               <p style="text-align:center">You will be asked to log in or register for a Wiley Research ID to use this service</p>
+               
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                 <tr>
+                   <td>
+                     <table border="0" cellspacing="0" cellpadding="0" align=center>
+                       <tr>
+                         <td align="center" style="border-radius: 3px;" bgcolor="#005274">
+                            <a href="https://submission.wiley.com/submissionBoard/1/{{Submission.id}}" target="_blank" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; text-decoration: none; text-decoration: none;border-radius: 3px; padding: 12px 18px; border: 1px solid #005274; display: inline-block; text-align:center;">Complete submission</a>
+                         </td>
+                       </tr>
+                     </table>
+                   </td>
+                 </tr>
+               </table>
+               
+               
+               <p style="text-align: center;">Note: this link is unique to you.  Please don't forward or share with others.</p>
+           </div>
+           
+           <p>Completed peer review reports from your previous submission (if any) will be shared with {{journaltitle}}’s editorial office.</p>
+
+           <p>Once submitted, you can track your manuscript’s status using the above link.</p>
+           <p>Need more help?</p>
+
+           <ul>
+               <li>For questions regarding your transfer, contact <a href="mailto:transferdeskassistant@wiley.com">transferdeskassistant@wiley.com</a></li>
+               <li>For support with your Wiley Researcher account or the Research Exchange submission portal, contact <a href="mailto:submissionhelp@wiley.com">submissionhelp@wiley.com</a></li>
+               <li>If you contact support, please include the destination journal reference code <strong>qwer1234</strong></li>
+           </ul>
+           
+            
+            
+          </div>
+          <div class="data-privacy">
+             <p>By submitting a manuscript to or reviewing for this publication, your name, email address, and affiliation, and other contact details the publication might require, will be used for the regular operations of the publication, including, when necessary, sharing with the publisher (Wiley) and partners for production and publication. The publication and the publisher recognize the importance of protecting the personal information collected from users in the operation of these services and have practices in place to ensure that steps are taken to maintain the security, integrity, and privacy of the personal data collected and processed. You can learn more by reading our <a href="#">data protection policy</a>. In case you don’t want to be contacted by this publication again, please send an email to <a href="mailto:{{Journal.contactEmail}}">{{Journal.contactEmail}}</a>.</p>
+          </div>
+    </div>
+
+
+</div>
+</script>
+<script src="scripts/scripts-confirm-email2.js"></script>
+
+
+</body>
+</html>

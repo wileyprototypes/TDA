@@ -1,0 +1,48 @@
+
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link href="styles/styles-proto.css" rel="stylesheet" />
+
+</head>
+</html>
+<body>
+<script id="handlebars-demo" type="text/x-handlebars-template">
+<div class="nav-wrap">
+    <div class="nav">
+        Wiley Transfer Desk
+    </div>
+</div>
+<div class="body-wrap">
+    <p>
+        <a href="#">&lt; Back to all journal recommendations for your manuscript</a>
+    </p>
+    <div class="intro">
+        <h2>Confirm your selection:</h2>
+        <ul>
+            <li><strong>Manuscript Title:</strong> {{manuscriptTitle}}</li>
+            <li><strong>Destination Journal:</strong> {{journaltitle}}</li>
+        </ul>
+        <a href="confirm.html?userid={{participantid}}&journaltitle={{journaltitle}}" class="button">Confirm</a>
+    </div>
+
+    <p> After you confirm your selection, we will transfer your manuscript files and details to a new submission in your chosen journal.</p>
+
+    <p>You will be notified when your new submission is ready for you to review. You will have the opportunity to make any changes required before completing your submission.</p>
+
+    <p>If your manuscript was sent out for peer review at your previous journal, any completed reviewer reports will be shared with the {{journaltitle}}'s editorial office.</p>
+   
+    
+</div>
+</script>
+
+<script src="https://unpkg.com/@popperjs/core@2.9.1/dist/umd/popper.min.js"></script>
+<script src="https://unpkg.com/tippy.js@6.3.1/dist/tippy-bundle.umd.min.js"></script>
+<script src="scripts/scripts-proto.js"></script>
+</body>
+</html>

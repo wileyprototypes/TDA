@@ -1,0 +1,267 @@
+body{
+    margin:0;
+    padding:0;
+    width:100%;
+    height:100;
+    background:no-repeat url('../img/email.png') ;
+    font-family:'Roboto', Helvetica, Arial, sans-serif;
+}
+#fromLine{
+    font-size:13px;
+    position: absolute;
+    top:198px;
+    left:325px;
+    font-weight:bold;
+}
+#fromLine span{
+    font-weight:400;
+    color:#888;
+}
+#subjectline{
+    font-size:18px;
+    position: absolute;
+    top:123px;
+    left:325px;
+    width:800px;
+    
+}
+#subjectline a{
+    color:#000;
+    text-decoration:none;
+    
+}
+#emailBody{
+    position:absolute;
+    left:350px;
+    top:250px;
+    width:800px;
+    
+}
+.data-privacy { max-width:580px; padding:20px; margin:0 auto; font-size: 80%; color:#333; }
+
+body{
+    color:#1c1d1e;
+    margin:0;
+    font-size:14px;
+}
+.nav-wrap{
+    border-bottom:1px solid #ddd;
+}
+.nav{
+    padding:30px 0;
+    font-family:'Open Sans', Helvetica, sans-serif;
+    color:rgb(0, 82, 116);
+    max-width:1140px;
+    margin:0 auto;
+    font-size:20px;
+}
+.body-wrap{
+    margin: 0 auto 20px auto;
+    max-width:800px;
+    font-family:'Open Sans', Sans-serif;
+}
+.body-wrap a{
+    text-decoration: none;
+    color: #006894;
+}
+.body-wrap a:hover{
+    color:#0092d1;
+}
+p{
+    line-height: 24px;
+    font-size: 1rem;
+    margin:1.5em 0;
+}
+.intro{
+    background:#eee;
+    padding:30px;
+    font-size:0.85em;
+    margin-bottom:2em;
+}
+.intro h2{
+    margin-top:0;
+}
+.left-details{
+    float:left;
+    width:65%;
+    margin-right:5%;
+}
+.right-details{
+    float:right;
+    width:30%;
+    text-align:right;
+}
+.details{
+    overflow:auto;
+    clear:both;
+}
+.journal-suggestion{
+    border:1px solid #eee;
+    padding:20px 5%;
+
+}
+.journal-suggestion.last{
+    border-bottom:none;
+}
+.journal-suggestion h2{
+    font-size:1.5em;
+    font-weight:600;
+    margin:0 0 0.5em 0;
+}
+.journal-suggestion h2 a{
+    color:#2e2e2e;
+}
+.journal-suggestion h2 a:hover{  
+    color: #0092d1;
+}
+.journal-links-row{
+    font-size:0.9em;
+}
+.journal-links-row a{
+    padding:0 8px;
+    border-left:1px solid #eee;
+}
+.journal-links-row a:first-child{
+    border-left:0; padding-left:0;
+}
+.society-line{
+    margin:0.5em 0;
+    font-size:0.85em;
+    color:#717171;
+    font-style: italic;
+}
+p.journal-description{
+    color:#1c1d1e;
+    font-size:0.95em;
+    padding:0;
+    line-height:1.4em;
+}
+.journal-pills span{
+    display:inline-block;
+    padding:4px 9px;
+    border-radius:5px;
+    margin:5px;
+    font-size:0.85em;
+}
+
+.journal-pills span a{
+    color:#1c1d1e;
+}
+.journal-pills span a:hover{
+    color:#000  
+}
+.journal-pills span:first-child{
+    margin-left:0;
+}
+.journal-pills span.impact{
+    background:rgba(0, 250, 217, 0.3);
+    border:rgba(0, 250, 217,1) 1px solid;
+}
+.journal-pills span.oa-hybrid{
+    background:rgba(172,9,193, 0.3);
+    border:rgba(172,9,193,1) 1px solid;
+}
+.journal-pills span.oa-full{
+    background:rgba(172,9,193,1);
+    border:rgba(172,9,193,0.3) 1px solid;
+    color:#fff;
+}
+.journal-pills span.oa-full a,  
+.journal-pills span.oa-full a:hover{
+    color:#fff
+}
+.journal-pills span.format{
+    background:rgba(9,193,91, 0.3);
+    border:rgba(9,193,91,1) 1px solid;
+}
+a.transfer-button, a.button{
+    text-decoration:none;
+    margin:0;
+    font-size:14px;
+    display:inline-block;
+    padding:10px 20px;
+    background:#006894;
+    color:#fff;
+    box-shadow:0 4px 0 rgb(0 0 0 / 5%);
+    transition: background-color 0.3s ease-out;
+
+}
+a.transfer-button:hover, a.button:hover{
+    background:#0092d1;
+    color:#fff;
+}
+.tippy-box  {
+    font-family:'Open Sans', sans-serif;
+}
+ul li{
+    margin-top:0.5em;
+    margin-bottom:0.5em;
+}
+.journal-stats{
+    font-size:0.85em;
+    margin-bottom:2em;
+}
+.journal-stats ul{
+    margin-top:0;
+}
+.more-journals{
+    background:#eee;
+    padding:20px 40px;
+}
+.small-print{
+    font-size:14px;
+    padding:20px;
+}
+.smaller-print{
+    font-size:14px;
+    padding:20px;
+}
+.splash{
+    background:#eee url('tdasplash.jpg') no-repeat center;
+    padding:40px 20px;
+    max-width:760px;
+    margin:20px auto 0;
+}
+.splash h2{
+    font-family:'Source Serif Pro', serif;
+    background-color:rgba(0, 55, 55, 0.8);
+    color:#fff;
+    display:inline-block;
+    padding:10px 20px;
+    font-weight:400;
+    margin-bottom:0;
+}
+
+.splash h3{
+    font-family:'Open Sans', serif;
+    background-color:rgb(0, 19, 17, 0.8);
+    color:#fff;
+    display:inline-block;
+    padding:10px 20px;
+    font-weight:400;
+}
+
+button{
+    margin:0;
+    font-size:14px;
+    display:inline-block;
+    padding:10px 20px;
+    background:#006894;
+    color:#fff;
+    box-shadow:0 4px 0 rgb(0 0 0 / 5%);
+    transition: background-color 0.3s ease-out;
+    border:0;
+
+}
+button:hover{
+    background:#0092d1;
+    color:#fff;
+}
+
+.manubtn{
+    background:#006894;
+    border:none;
+    text-align: center;
+    margin:0 auto;
+    display: flex;
+}

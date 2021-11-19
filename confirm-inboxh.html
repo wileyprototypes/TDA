@@ -1,0 +1,30 @@
+
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link href="styles/styles-confirm-inboxh.css" rel="stylesheet" />
+
+</head>
+</html>
+<body>
+<script id="handlebars-demo" type="text/x-handlebars-template">
+<div class="gmail-inbox">
+    <div class="from-line" id="fromLine1">{{journaltitle}}</div>
+    <div class="from-line" id="fromLine2">{{journaltitle}}</div>
+    <div class="from-line read" id="fromLine3">Wiley Transfer Desk</div>
+
+    <div class="subject-line" id="subjectline1"><a href="confirm-email2h.html?userid={{participantid}}&journaltitle={{journaltitle}}"><strong>MSID-0144576 Manuscript Transfer Confirmed</strong> Dear Dr. {{authorName}}, Congratulations, the manuscript titled...</a></div>
+    <div class="subject-line" id="subjectline2"><strong>Confirmation of your request to submit to {{journaltitle}}</strong> Dear {{authorName}}, Thank you for selecting</div>
+    <div class="subject-line read" id="subjectline3"><strong>Transfer recommendations for {{manuscriptTitle}}</strong> Based on analysis of your manuscript, we have identified journals</div>
+</div>
+</script>
+<script src="scripts/scripts-confirm-inboxh.js"></script>
+
+
+</body>
+</html>
