@@ -1,5 +1,5 @@
 body{
-    color:#1c1d1e;
+    color:#1C1D1E;
     margin:0;
 }
 .nav-wrap{
@@ -26,7 +26,7 @@ body{
     color:#0092d1;
 }
 p{
-    margin:1.5em 0;
+    margin:30px 0;
 }
 .intro{
     background:#eee;
@@ -36,6 +36,7 @@ p{
 }
 .intro h2{
     margin-top:0;
+    margin-bottom:15px;
 }
 .left-details{
     float:left;
@@ -135,15 +136,15 @@ a.transfer-button, a.button{
     margin:0;
     font-size:14px;
     display:inline-block;
-    padding:10px 20px;
-    background:#006894;
+    padding:15px 30px;
+    background:#005274;
     color:#fff;
     box-shadow:0 4px 0 rgb(0 0 0 / 5%);
     transition: background-color 0.3s ease-out;
 
 }
 a.transfer-button:hover, a.button:hover{
-    background:#0092d1;
+    background:#189CA8;
     color:#fff;
 }
 .tippy-box  {
@@ -210,6 +211,5 @@ button{
 
 }
 button:hover{
-    background:#0092d1;
-    color:#fff;
+
 }

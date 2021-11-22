@@ -5,6 +5,7 @@ body{
     height:100;
     background:no-repeat url('../img/email.png') ;
     font-family:'Roboto', Helvetica, Arial, sans-serif;
+    color:#1C1D1E;
 }
 #fromLine{
     font-size:13px;
@@ -47,23 +48,46 @@ h2 .journal-pills span{
     margin-bottom:0;
 }
 #emailBody .intro{
-    padding:20px;
+    padding:30px;
 }
-#emailBody .intro p{
+#emailBody .intro p:first-child{
     margin-top:0;
+    margin-bottom:15px;
 }
+
+#emailBody .intro p:nth-child(2){
+    margin-top:15px;
+}
+
+#emailBody .intro p.lastp{
+    margin-bottom:15px;
+}
+
+#emailBody .intro ul{
+    margin-bottom:0;
+}
+
 #emailBody .journal-suggestion h2{
     font-size:1.3em;
+    margin-bottom:15px;
 }
 #emailBody .society-line{
     margin:0;
     width:inherit;
 }
 #emailBody p.journal-description{
-    margin:2rem 0;
+    margin:30px 0;
 }
 .arrow{
     font-family:'Arial', sans-serif;
+    margin-left:15px;
+}
+
+.arrow img{
+    width:16px;
+    height:16px;
+    position: relative;
+    top: 3px;
 }
 
 body{
@@ -87,14 +111,13 @@ body{
     font-family:'Open Sans', Sans-serif;
 }
 .body-wrap a{
-    text-decoration: none;
-    color: #006894;
+    color: #005274;
 }
 .body-wrap a:hover{
-    color:#0092d1;
+    color:#189CA8;
 }
 p{
-    margin:1.5em 0;
+    margin:30px 0;
 }
 .intro{
     background:#eee;
@@ -121,7 +144,7 @@ p{
 }
 .journal-suggestion{
     border:1px solid #959595;
-    padding:40px 5%;
+    padding:30px 5%;
     position: relative;
 
 }
@@ -167,8 +190,8 @@ p.journal-description{
 }
 .journal-pills span{
     display:inline-block;
-    padding:4px 9px;
-    border-radius:5px;
+    padding:5px 15px;
+    border-radius:16px;
     margin:5px;
     font-size:0.85em;
 }
@@ -200,7 +223,7 @@ p.journal-description{
     color:#fff
 }
 .journal-pills span.format{
-    background:#a012b3;
+    background:#611D69;
     color:#fff;
 }
 a.transfer-button, a.button{
@@ -208,16 +231,22 @@ a.transfer-button, a.button{
     margin:0;
     font-size:14px;
     display:inline-block;
-    padding:10px 20px;
-    background:#006894;
+    padding:15px 30px;
+    background:#005274;
     color:#fff;
-    box-shadow:0 4px 0 rgb(0 0 0 / 5%);
+    box-shadow:0 0 4px rgba(28, 29, 30, .05);
     transition: background-color 0.3s ease-out;
 
 }
 a.transfer-button:hover, a.button:hover{
-    background:#0092d1;
+    background:#189CA8;
     color:#fff;
+    text-decoration: none;
+    padding-right:25px;
+}
+
+a.transfer-button:hover .arrow, a.button:hover .arrow{
+    margin-left: 20px;
 }
 .tippy-box  {
     font-family:'Open Sans', sans-serif;
@@ -228,7 +257,7 @@ ul li{
 }
 .journal-stats{
     font-size:0.8rem;
-    margin-bottom:2em;
+    margin-bottom:0;
     display: flex;
     flex-wrap: wrap;
 }
@@ -242,11 +271,15 @@ ul li{
     justify-content: space-between;
 } 
 
+.journal-stats > div:first-child{
+    margin-bottom:15px;
+}
+
 .journal-stats > div > div{
     width: 23%;
     display: flex;
     flex-direction: column;
-    margin-bottom:8px;
+    margin-bottom:0;
 }
 
 .journal-stats > div > div > span:first-child{
@@ -254,15 +287,14 @@ ul li{
 }
 
 .journal-stats > div > div > span:last-child{
-    font-weight: bold;
+    font-weight: 600;
 }
 .more-journals{
     background:#eee;
-    padding:20px 40px;
+    padding:30px;
 }
 .small-print{
     font-size:14px;
-    padding:20px;
 }
 .smaller-print{
     font-size:14px;
@@ -317,6 +349,12 @@ button:hover{
     top:2px;
 }
 
+.icon img{
+    width: 16px;
+    position: relative;
+    top:2px;
+}
+
 .footeraddress{
     text-align: center;
 }
@@ -342,4 +380,45 @@ button:hover{
 
 .maxlimit{
     width: 100px;
+}
+
+.body-wrap .journal-suggestion{
+    border-bottom:none;
+}
+
+.body-wrap .more-journals{
+    border-top: 1px solid #959595;
+}
+
+p{
+    color:#1C1D1E;
+}
+
+a{
+    text-decoration: underline;
+}
+
+strong{
+    font-weight: 600;
+}
+
+.more-journals p{
+    margin-top:0;
+    margin-bottom:15px;
+}
+
+.more-journals ul{
+    margin-bottom:0;
+}
+
+.more-journals ul li:last-child{
+    margin-bottom:0;
+}
+
+.format img{
+    width:16px;
+    height:16px;
+    margin-right: 15px;
+    position: relative;
+    top:2px;
 }
