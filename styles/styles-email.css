@@ -134,7 +134,7 @@ p{
     margin:0;
 }
 .journal-suggestion h2 a{
-    /* color:#2e2e2e; */
+    text-decoration: underline;
 }
 .journal-suggestion h2 a:hover{  
     color: #0092d1;
@@ -147,7 +147,8 @@ p{
 }
 .journal-links-row a{
     padding:0 8px;
-    border-left:1px solid #006894;
+    border-left:1px solid #000;
+    text-decoration: underline;
 }
 .journal-links-row a:first-child{
     border-left:0; padding-left:0;
@@ -226,7 +227,7 @@ ul li{
     margin-bottom:0.5em;
 }
 .journal-stats{
-    font-size:0.85em;
+    font-size:0.8rem;
     margin-bottom:2em;
     display: flex;
     flex-wrap: wrap;
@@ -236,14 +237,24 @@ ul li{
 }
 
 .journal-stats > div{
-    width: 25%;
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+} 
+
+.journal-stats > div > div{
+    width: 23%;
     display: flex;
     flex-direction: column;
     margin-bottom:8px;
 }
 
-.journal-stats > div > span:first-child{
-    font-weight: 100;
+.journal-stats > div > div > span:first-child{
+    font-weight: 400;
+}
+
+.journal-stats > div > div > span:last-child{
+    font-weight: bold;
 }
 .more-journals{
     background:#eee;
@@ -316,7 +327,7 @@ button:hover{
 
 .rightbtn{
     position: absolute;
-    right: 16px;
+    right: 5%;
     top: 40px;
 }
 

@@ -26,7 +26,6 @@ config = {
                         "SJRQuadrant":"Q2",
                         "H-Index":"61",
                         "submissionToFirstDecision":"12",
-                        "acceptanceToPublication":"21",
                         "acceptanceRate":"13.3%"
                     }           
                 },
@@ -41,15 +40,14 @@ config = {
                     "publishedSince":"1974",
                     "description":"A leading international clinical pharmacology journal published by the British Pharmacological Society. It bridges the gap between the medical profession, clinical research and the pharmaceutical industry by addressing all aspects of drug action in humans: invited review articles, original papers and correspondence.",
                     "oa":"Subscription", 
-                    "formatFree":false, 
+                    "formatFree":true, 
                     "metrics":{ 
                         "impact":"4.335", 
                         "SJR":"1.216",
                         "SJRQuadrant":"Q1",
                         "H-Index":"146",
                         "submissionToFirstDecision":"33",
-                        "acceptanceToPublication":"27",
-                        "acceptanceRate":"32.7%"
+                        "acceptanceToPublication":"27"
                     }           
                 },
                 {
@@ -65,13 +63,10 @@ config = {
                     "oa":"Open Access", 
                     "formatFree":true, 
                     "metrics":{ 
-                        "impact":"", 
+                        "impact":"2.506", 
                         "SJR":"0.309",
                         "SJRQuadrant":"Q3",
-                        "H-Index":"10",
-                        "submissionToFirstDecision":"34",
-                        "acceptanceToPublication":"25",
-                        "acceptanceRate":"29%"
+                        "H-Index":"10"
                     }           
                 }
             ]
