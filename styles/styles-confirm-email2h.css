@@ -265,6 +265,7 @@ button:hover{
     margin:0 auto;
     display: flex;
     padding:15px 30px;
+    margin-bottom:100px;
 }
 
 .manubtn:hover{
