@@ -19,14 +19,13 @@ config = {
                     "publishedSince":"1995",
                     "description":"Published eight times per year by the Asian Pacific Society of Nephrology, this journal has a special emphasis on the needs of clinical nephrologists and those in developing countries. The journal publishes reviews and papers of international interest describing original research concerned with clinical and experimental aspects of nephrology.",
                     "oa":"Subscription or Open Access", 
-                    "formatFree":false,
+                    "formatFree":true,
                     "metrics":{ 
                         "impact":"2.506", 
                         "SJR":"0.752",
                         "SJRQuadrant":"Q2",
                         "H-Index":"61",
                         "submissionToFirstDecision":"12",
-                        "acceptanceToPublication":"21",
                         "acceptanceRate":"13.3%"
                     }           
                 },
@@ -41,15 +40,14 @@ config = {
                     "publishedSince":"1974",
                     "description":"A leading international clinical pharmacology journal published by the British Pharmacological Society. It bridges the gap between the medical profession, clinical research and the pharmaceutical industry by addressing all aspects of drug action in humans: invited review articles, original papers and correspondence.",
                     "oa":"Subscription", 
-                    "formatFree":false, 
+                    "formatFree":"", 
                     "metrics":{ 
                         "impact":"4.335", 
                         "SJR":"1.216",
                         "SJRQuadrant":"Q1",
                         "H-Index":"146",
                         "submissionToFirstDecision":"33",
-                        "acceptanceToPublication":"27",
-                        "acceptanceRate":"32.7%"
+                        "acceptanceToPublication":"27"
                     }           
                 },
                 {
@@ -65,13 +63,10 @@ config = {
                     "oa":"Open Access", 
                     "formatFree":true, 
                     "metrics":{ 
-                        "impact":"", 
+                        "impact":"2.506", 
                         "SJR":"0.309",
                         "SJRQuadrant":"Q3",
-                        "H-Index":"10",
-                        "submissionToFirstDecision":"34",
-                        "acceptanceToPublication":"25",
-                        "acceptanceRate":"29%"
+                        "H-Index":"10"
                     }           
                 }
             ]
@@ -171,14 +166,13 @@ config = {
                     "publishedSince":"1995",
                     "description":"Published eight times per year by the Asian Pacific Society of Nephrology, this journal has a special emphasis on the needs of clinical nephrologists and those in developing countries. The journal publishes reviews and papers of international interest describing original research concerned with clinical and experimental aspects of nephrology.",
                     "oa":"Subscription or Open Access", 
-                    "formatFree":false,
+                    "formatFree":true,
                     "metrics":{ 
                         "impact":"2.506", 
                         "SJR":"0.752",
                         "SJRQuadrant":"Q2",
                         "H-Index":"61",
                         "submissionToFirstDecision":"12",
-                        "acceptanceToPublication":"21",
                         "acceptanceRate":"13.3%"
                     }           
                 },
@@ -193,15 +187,14 @@ config = {
                     "publishedSince":"1974",
                     "description":"A leading international clinical pharmacology journal published by the British Pharmacological Society. It bridges the gap between the medical profession, clinical research and the pharmaceutical industry by addressing all aspects of drug action in humans: invited review articles, original papers and correspondence.",
                     "oa":"Subscription", 
-                    "formatFree":false, 
+                    "formatFree":"", 
                     "metrics":{ 
                         "impact":"4.335", 
                         "SJR":"1.216",
                         "SJRQuadrant":"Q1",
                         "H-Index":"146",
                         "submissionToFirstDecision":"33",
-                        "acceptanceToPublication":"27",
-                        "acceptanceRate":"32.7%"
+                        "acceptanceToPublication":"27"
                     }           
                 },
                 {
@@ -217,13 +210,10 @@ config = {
                     "oa":"Open Access", 
                     "formatFree":true, 
                     "metrics":{ 
-                        "impact":"", 
+                        "impact":"2.506", 
                         "SJR":"0.309",
                         "SJRQuadrant":"Q3",
-                        "H-Index":"10",
-                        "submissionToFirstDecision":"34",
-                        "acceptanceToPublication":"25",
-                        "acceptanceRate":"29%"
+                        "H-Index":"10"
                     }           
                 }
             ]
@@ -247,14 +237,13 @@ config = {
                     "publishedSince":"1995",
                     "description":"Published eight times per year by the Asian Pacific Society of Nephrology, this journal has a special emphasis on the needs of clinical nephrologists and those in developing countries. The journal publishes reviews and papers of international interest describing original research concerned with clinical and experimental aspects of nephrology.",
                     "oa":"Subscription or Open Access", 
-                    "formatFree":false,
+                    "formatFree":true,
                     "metrics":{ 
                         "impact":"2.506", 
                         "SJR":"0.752",
                         "SJRQuadrant":"Q2",
                         "H-Index":"61",
                         "submissionToFirstDecision":"12",
-                        "acceptanceToPublication":"21",
                         "acceptanceRate":"13.3%"
                     }           
                 },
@@ -269,15 +258,14 @@ config = {
                     "publishedSince":"1974",
                     "description":"A leading international clinical pharmacology journal published by the British Pharmacological Society. It bridges the gap between the medical profession, clinical research and the pharmaceutical industry by addressing all aspects of drug action in humans: invited review articles, original papers and correspondence.",
                     "oa":"Subscription", 
-                    "formatFree":false, 
+                    "formatFree":"", 
                     "metrics":{ 
                         "impact":"4.335", 
                         "SJR":"1.216",
                         "SJRQuadrant":"Q1",
                         "H-Index":"146",
                         "submissionToFirstDecision":"33",
-                        "acceptanceToPublication":"27",
-                        "acceptanceRate":"32.7%"
+                        "acceptanceToPublication":"27"
                     }           
                 },
                 {
@@ -293,13 +281,10 @@ config = {
                     "oa":"Open Access", 
                     "formatFree":true, 
                     "metrics":{ 
-                        "impact":"", 
+                        "impact":"2.506", 
                         "SJR":"0.309",
                         "SJRQuadrant":"Q3",
-                        "H-Index":"10",
-                        "submissionToFirstDecision":"34",
-                        "acceptanceToPublication":"25",
-                        "acceptanceRate":"29%"
+                        "H-Index":"10"
                     }           
                 }
             ]

@@ -212,3 +212,7 @@ button{
 button:hover{
 
 }
+
+p, ul, li{
+    font-size:15px;
+}

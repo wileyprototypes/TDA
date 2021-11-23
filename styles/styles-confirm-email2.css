@@ -37,7 +37,7 @@ body{
     width:800px;
     
 }
-.data-privacy { max-width:580px; padding:20px; margin:0 auto; font-size: 80%; color:#333; }
+.data-privacy { margin:0 auto;  color:#333; }
 
 body{
     color:#1c1d1e;
@@ -296,4 +296,8 @@ a{
 
 a:hover{
     color:#2B7999;
+}
+
+.marBot15{
+    margin-bottom:15px;
 }
