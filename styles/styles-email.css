@@ -144,7 +144,7 @@ p{
 }
 .journal-suggestion{
     border:1px solid #959595;
-    padding:30px 5%;
+    padding:30px;
     position: relative;
 
 }
@@ -365,8 +365,8 @@ button:hover{
 
 .rightbtn{
     position: absolute;
-    right: 5%;
-    top: 40px;
+    right: 30px;
+    top: 30px;
 }
 
 .icon{
