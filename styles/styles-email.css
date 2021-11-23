@@ -27,7 +27,7 @@ body{
     
 }
 #subjectline a{
-    color:#000;
+    color:#1C1D1E;
     text-decoration:none;
     
 }
@@ -114,7 +114,7 @@ body{
     color: #005274;
 }
 .body-wrap a:hover{
-    color:#189CA8;
+    color:#2B7999;
 }
 p{
     margin:30px 0;
@@ -170,7 +170,7 @@ p{
 }
 .journal-links-row a{
     padding:0 8px;
-    border-left:1px solid #000;
+    border-left:1px solid #1C1D1E;
     text-decoration: underline;
 }
 .journal-links-row a:first-child{
@@ -184,7 +184,7 @@ p{
 }
 p.journal-description{
     color:#1c1d1e;
-    font-size:0.95em;
+    font-size:15px;
     padding:0;
     line-height:1.4em;
 }
@@ -239,7 +239,7 @@ a.transfer-button, a.button{
 
 }
 a.transfer-button:hover, a.button:hover{
-    background:#189CA8;
+    background:#2B7999;
     color:#fff;
     text-decoration: none;
     padding-right:25px;
@@ -254,6 +254,7 @@ a.transfer-button:hover .arrow, a.button:hover .arrow{
 ul li{
     margin-top:0.5em;
     margin-bottom:0.5em;
+    font-size:15px;
 }
 .journal-stats{
     font-size:0.8rem;
@@ -269,6 +270,7 @@ ul li{
     width:100%;
     display: flex;
     justify-content: space-between;
+    font-size:15px;
 } 
 
 .journal-stats > div:first-child{
@@ -283,12 +285,53 @@ ul li{
 }
 
 .journal-stats > div > div > span:first-child{
-    font-weight: 400;
+    font-weight: 600;
 }
 
 .journal-stats > div > div > span:last-child{
+    font-weight: 400;
+}
+
+.journal-stats2{
+    font-size:0.8rem;
+    margin-bottom:0;
+    display: flex;
+    flex-wrap: wrap;
+}
+.journal-stats2 ul{
+    margin-top:0;
+}
+
+.journal-stats2 > div{
+    display: flex;
+    font-size:15px;
+    flex-direction:column;
+    margin-left:20px;
+} 
+
+.journal-stats2 > div:first-child{
+    margin-bottom:15px;
+    margin-left:0;
+}
+
+.journal-stats2 > div > div{
+    display: flex;
+    flex-direction: column;
+    margin-bottom:0;
+}
+
+.journal-stats2 > div > div:first-child{
+    margin-bottom:15px;
+}
+
+.journal-stats2 > div > div > span:first-child{
     font-weight: 600;
 }
+
+.journal-stats2 > div > div > span:last-child{
+    font-weight: 400;
+}
+
 .more-journals{
     background:#eee;
     padding:30px;
@@ -379,7 +422,7 @@ button:hover{
 }
 
 .maxlimit{
-    width: 100px;
+    width: 120px;
 }
 
 .body-wrap .journal-suggestion{
@@ -392,6 +435,7 @@ button:hover{
 
 p{
     color:#1C1D1E;
+    font-size:15px;
 }
 
 a{
@@ -421,4 +465,8 @@ strong{
     margin-right: 15px;
     position: relative;
     top:2px;
+}
+
+h3{
+    margin:30px 0;
 }

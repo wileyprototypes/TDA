@@ -63,7 +63,7 @@
                         {{this.description}} 
                     </p>
                     {{#if this.metrics}}
-                    <div class="journal-stats">
+                    <!-- <div class="journal-stats">
                       <div>
                         <div>{{#if this.metrics.impact}}<span>Impact factor</span> <span>{{this.metrics.impact}}</span>  {{/if}}</div>
                         <div>{{#if this.metrics.SJR}}<span>SJR<span class="icon"><img src="img/info-color.png"/></span></span> <span>{{this.metrics.SJR}}</span> {{/if}}</div>
@@ -72,14 +72,54 @@
                       </div>  
                                                 
                       <div>
-                        <div>{{#if this.oa}}<span>Publishing Options</span> <span class="maxlimit">{{this.oa}}<span class="icon"><img src="img/info-color.png"/></span></span>  {{/if}}</div>
+                        <div>{{#if this.oa}}<span>Publishing Options</span> <span class="maxlimit">{{this.oa}}
+                            {{#if_eq this.oa 'Subscription or Open Access'}}
+                            <span class="icon"><img src="img/info-color.png"/></span>
+                            {{/if_eq}}
+                            {{#if_eq this.oa 'Open Access'}}
+                            <span class="icon"><img src="img/info-color.png"/></span>
+                            {{/if_eq}}
+                        </span>  {{/if}}</div>
                         <div>{{#if this.formatFree}}<span>Submission format</span> <span class="greentxt">Free Format<span class="icon"><img src="img/info-color.png"/></span></span>  {{/if}}</div>
                         <div>{{#if this.metrics.submissionToFirstDecision}}<span>Submission to first decision</span> <span>{{this.metrics.submissionToFirstDecision}} Days</span>  {{/if}}</div>
                         <div>{{#if this.metrics.acceptanceToPublication}}<span>Acceptance to publication</span><span>{{this.metrics.acceptanceToPublication}} Days</span> {{/if}}</div>
 
                       </div>    
                                                 
-                    </div>
+                    </div> -->
+
+                    <div class="journal-stats2">
+                        <div>
+                            <div>{{#if this.metrics.impact}}<span>Impact factor</span> <span>{{this.metrics.impact}}</span>  {{/if}}</div>
+                            <div>{{#if this.oa}}<span>Publishing Options</span> <span class="maxlimit">{{this.oa}}
+                                {{#if_eq this.oa 'Subscription or Open Access'}}
+                                <span class="icon"><img src="img/info-color.png"/></span>
+                                {{/if_eq}}
+                                {{#if_eq this.oa 'Open Access'}}
+                                <span class="icon"><img src="img/info-color.png"/></span>
+                                {{/if_eq}}
+                            </span>  {{/if}}</div>
+                        </div>
+                        <div>
+                          <div>{{#if this.metrics.SJR}}<span>SJR<span class="icon"><img src="img/info-color.png"/></span></span> <span>{{this.metrics.SJR}}</span> {{/if}}</div>
+                          <div>{{#if this.formatFree}}<span>Submission format</span> <span class="greentxt">Free Format<span class="icon"><img src="img/info-color.png"/></span></span>  {{/if}}</div>
+
+                        </div>  
+                        <div>
+                          <div>{{#if this.metrics.H-Index}}<span>H-Index</span> <span>{{this.metrics.H-Index}}</span> {{/if}}</div>
+                          <div>{{#if this.metrics.submissionToFirstDecision}}<span>Submission to first decision</span> <span>{{this.metrics.submissionToFirstDecision}} Days</span>  {{/if}}</div>
+
+                        </div>
+                        <div>  
+                            <div>{{#if this.metrics.acceptanceRate}}<span>Acceptance rate</span> <span>{{this.metrics.acceptanceRate}}</span>
+                            {{else}}<span>&nbsp;</span> <span>&nbsp;</span>  {{/if}}
+                            </div>
+                          <div>{{#if this.metrics.acceptanceToPublication}}<span>Acceptance to publication</span><span>{{this.metrics.acceptanceToPublication}} Days</span> {{/if}}</div>
+
+                        </div>  
+                                                  
+                      </div>
+
                     {{/if}}
                     
                 </div>

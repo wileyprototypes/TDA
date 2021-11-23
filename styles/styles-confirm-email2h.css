@@ -65,7 +65,7 @@ body{
     color: #006894;
 }
 .body-wrap a:hover{
-    color:#0092d1;
+    color:#2B7999;
 }
 p{
     line-height: 24px;
@@ -112,7 +112,7 @@ p{
     color:#2e2e2e;
 }
 .journal-suggestion h2 a:hover{  
-    color: #0092d1;
+    color: #2B7999;
 }
 .journal-links-row{
     font-size:0.9em;
@@ -187,7 +187,7 @@ a.transfer-button, a.button{
 
 }
 a.transfer-button:hover, a.button:hover{
-    background:#0092d1;
+    background:#2B7999;
     color:#fff;
 }
 .tippy-box  {
@@ -254,7 +254,7 @@ button{
 
 }
 button:hover{
-    background:#0092d1;
+    background:#2B7999;
     color:#fff;
 }
 
@@ -279,4 +279,8 @@ button:hover{
 
 .emailContent > p:nth-child(2){
     margin-top:15px;
+}
+
+p, ul{
+    font-size:15px;
 }
