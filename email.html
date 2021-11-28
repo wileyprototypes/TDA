@@ -1,16 +1,15 @@
 <!doctype html>
-<html>
+<html id="mainemail">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet" />
-    <link href="styles/styles-email.css" rel="stylesheet"/>
+    <link href="styles/styles.css" rel="stylesheet"/>
 
     <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-
+    <script src="config.json"></script>
 </head>
-</html>
 <body>
 <script id="handlebars-demo" type="text/x-handlebars-template">
     <div class="gmail-email">
@@ -170,7 +169,34 @@
     </div>
 </script>
 
-<script src="scripts/scripts-email.js"></script>
+<script>
+    var template = $('#handlebars-demo').html();
+
+var searchParams = new URLSearchParams(document.location.search);
+userid = searchParams.get("userid");
+config.tests.forEach(function(test){
+    if(test.participantid==userid) emailConfig = test;
+});
+emailConfig.emailSubjectLine = "Transfer recommendations for " + emailConfig.manuscriptTitle;
+emailConfig.previewText="We’re sorry that your recent submission, \"" + emailConfig.manuscriptTitle + "\" to " + emailConfig.feederJournal;
+
+emailConfig.fromEmail="wileytransferdesk@wiley.com";
+emailConfig.protoURL="proto2.html";
+
+
+Handlebars.registerHelper('if_eq', function(a, b, opts) {
+    if (a == b) {
+        return opts.fn(this);
+    } else {
+        return opts.inverse(this);
+    }
+});
+
+var templateScript = Handlebars.compile(template);
+var context = emailConfig;
+var html = templateScript(context);
+$(document.body).append(html);
+</script>
 
 </body>
 </html>

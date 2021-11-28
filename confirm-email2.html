@@ -1,6 +1,6 @@
 
 <!doctype html>
-<html>
+<html id="confirmemail2">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -8,10 +8,9 @@
     <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="config.json"></script>
-    <link href="styles/styles-confirm-email2.css" rel="stylesheet" />
+    <link href="styles/styles.css" rel="stylesheet" />
     
 </head>
-</html>
 <body>
 <script id="handlebars-demo" type="text/x-handlebars-template">
 <div class="gmail-email">
@@ -93,7 +92,30 @@
 
 </div>
 </script>
-<script src="scripts/scripts-confirm-email2.js"></script>
+<script>
+  var template = $('#handlebars-demo').html();
+
+  var searchParams = new URLSearchParams(document.location.search);
+  userid = searchParams.get("userid");
+  config.tests.forEach(function(test){
+      if(test.participantid==userid) emailConfig = test;
+  });
+  emailConfig.journaltitle = searchParams.get("journaltitle");
+
+  Handlebars.registerHelper('if_eq', function(a, b, opts) {
+      if (a == b) {
+          return opts.fn(this);
+      } else {
+          return opts.inverse(this);
+      }
+  });
+
+
+  var templateScript = Handlebars.compile(template);
+  var context = emailConfig;
+  var html = templateScript(context);
+  $(document.body).append(html);
+</script>
 
 
 </body>

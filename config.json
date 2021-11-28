@@ -1,839 +1,294 @@
-{
-    "emailSubjectLine1": "We’d like to help you resubmit your manuscript",
-    "emailSubjectLine2": "Transfer recommendations for [manuscriptTitle]",
-    "authorEmail": "author@gmail.com",
-    "tests": [
+config={
+    "emailSubjectLine1":"We’d like to help you resubmit your manuscript",
+    "emailSubjectLine2":"Transfer recommendations for [manuscriptTitle]",
+    "authorEmail":"author@gmail.com",
+    "tests":[
         {
-            "participantid": "megan.tucker@indstate.edu",
-            "MSID": "JOGC-S-21-00083",
-            "manuscriptTitle": "A Founder CHEK2 Pathogenic Variant in Association with Kidney Cancer",
-            "feederJournal": "Journal of Genetic Counseling",
-            "authorName": "Megan Tucker",
-            "authorEmail": "megan.tucker@indstate.edu",
-            "results": [
+            "participantid":"participant@gmail.com",
+            "MSID":"1231455",
+            "manuscriptTitle":" Predicting the risk of chemotherapy toxicity in older patients: The Chemotherapy Risk Assessment Scale for High‐Age Patients (CRASH) score",
+            "feederJournal":"CA: A Cancer Journal for Clinicians",
+            "authorName":"Demo Participant",
+            "authorEmail":"participant@gmail.com",
+            "results":[
                 {
-                    "journalTitle": "Case Reports in Genetics",
-                    "journalCode": "crig",
-                    "links": {
-                        "homepage": "https://www.hindawi.com/journals/crig/",
-                        "aims": "https://www.hindawi.com/journals/crig/about/",
-                        "guidelines": "https://www.hindawi.com/journals/crig/guidelines/"
+                    "journalTitle":"Nephrology",
+                    "links":{
+                        "homepage":"https://onlinelibrary.wiley.com/journal/14401797",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/14401797/homepage/productinformation.html",
+                        "guidelines":"https://onlinelibrary.wiley.com/page/journal/14401797/homepage/forauthors.html"
                     },
-                    "society": "Hindawi, a Wiley Brand",
-                    "description": "Case Reports in Genetics publishes case reports and case series focusing on diseases caused by hereditary predisposition or genetic variation in individuals and families.",
-                    "oa": "full",
-                    "formatFree": true,
-                    "isHindawi": true,
-                    "metrics": {
-                        "acceptanceRate": "50%",
-                        "timeToFinalDecision": "58 days",
-                        "timeToPublication": "41 days"
-                    }
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1995",
+                    "description":"Published eight times per year by the Asian Pacific Society of Nephrology, this journal has a special emphasis on the needs of clinical nephrologists and those in developing countries. The journal publishes reviews and papers of international interest describing original research concerned with clinical and experimental aspects of nephrology.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":true,
+                    "metrics":{ 
+                        "impact":"2.506", 
+                        "SJR":"0.752",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"61",
+                        "submissionToFirstDecision":"12",
+                        "acceptanceRate":"13.3%"
+                    }           
                 },
                 {
-                    "journalTitle": "Molecular Genetics & Genomic Medicine",
-                    "journalCode": "23249269",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/23249269",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/23249269/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/23249269/homepage/forauthors.html"
+                    "journalTitle":"British Journal of Clinical Pharmacology",
+                    "links":{
+                        "homepage":"https://bpspubs.onlinelibrary.wiley.com/journal/13652125",
+                        "aims": "https://bpspubs.onlinelibrary.wiley.com/hub/journal/13652125/productinformation.html",
+                        "guidelines":"https://bpspubs.onlinelibrary.wiley.com/hub/journal/13652125/forauthors.html"
                     },
-                    "description": "Molecular Genetics & Genomic Medicine is a peer-reviewed journal for rapid dissemination of quality research related to the dynamically developing areas of human, molecular and medical genetics. The journal publishes original research articles covering findings in phenotypic, molecular, biological, and genomic aspects of genomic variation, inherited disorders and birth defects. The broad publishing spectrum of Molecular Genetics & Genomic Medicine includes rare and common disorders from diagnosis to treatment.",
-                    "oa": "full",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "1.995"
-                    }
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1974",
+                    "description":"A leading international clinical pharmacology journal published by the British Pharmacological Society. It bridges the gap between the medical profession, clinical research and the pharmaceutical industry by addressing all aspects of drug action in humans: invited review articles, original papers and correspondence.",
+                    "oa":"Subscription", 
+                    "formatFree":"", 
+                    "metrics":{ 
+                        "impact":"4.335", 
+                        "SJR":"1.216",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"146",
+                        "submissionToFirstDecision":"33",
+                        "acceptanceToPublication":"27"
+                    }           
                 },
                 {
-                    "journalTitle": "Proteomics",
-                    "journalCode": "16159861",
-                    "links": {
-                        "homepage": "https://analyticalsciencejournals.onlinelibrary.wiley.com/journal/16159861",
-                        "aims": "https://analyticalsciencejournals.onlinelibrary.wiley.com/hub/journal/16159861/homepage/productinformation.html",
-                        "guidelines": "https://analyticalsciencejournals.onlinelibrary.wiley.com/hub/journal/16159861/homepage/2120_authorguidelines.html"
+                    "journalTitle":"Journal of Skin Cancer",
+                    "links":{
+                        "homepage":"https://www.hindawi.com/journals/jsc/",
+                        "aims": "https://www.hindawi.com/journals/jsc/about/",
+                        "guidelines":"https://www.hindawi.com/journals/jsc/guidelines/"
                     },
-                    "description": "PROTEOMICS is the premier international source for information on all aspects of applications and technologies, including software, in proteomics and other \"omics\". The journal includes but is not limited to proteomics, genomics, transcriptomics, metabolomics and lipidomics, and systems biology approaches. Papers describing novel applications of proteomics and integration of multi-omics data and approaches are especially welcome.",
-                    "oa": "supports",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "3.254"
-                    }
-                },
-                {
-                    "journalTitle": "Genes, Chromosomes & Cancer",
-                    "journalCode": "10982264",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/10982264",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/10982264/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/10982264/homepage/forauthors.html"
-                    },
-                    "description": "Genes, Chromosomes & Cancer will offer rapid publication of original full-length research articles, perspectives, reviews and letters to the editors on genetic analysis as related to the study of neoplasia. The main scope of the journal is to communicate new insights into the etiology and/or pathogenesis of neoplasia, as well as molecular and cellular findings of relevance for the management of cancer patients. While preference will be given to research utilizing analytical and functional approaches, descriptive studies and case reports will also be welcomed when they offer insights regarding basic biological mechanisms or the clinical management of neoplastic disorders.",
-                    "oa": "supports",
-                    "formatFree": true,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "3.444"
-                    }
-                },
-                {
-                    "journalTitle": "Clinical Genetics",
-                    "journalCode": "13990004",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/13990004",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/13990004/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/13990004/homepage/forauthors.html"
-                    },
-                    "description": "Clinical Genetics links research to the clinic, translating advances in our understanding of the molecular basis of genetic disease for the practising clinical geneticist. The journal publishes high quality research papers, short reports, reviews and mini-reviews that connect medical genetics research with clinical practice.",
-                    "oa": "supports",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "3.578"
-                    }
+                    "publishingBrand":"Hindawi, A Wiley Brand",
+                    "publishedSince":"1974",
+                    "description":"An open access journal publishing clinical and translational research on the detection, diagnosis, prevention, and treatment of skin malignanciesSo you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS",
+                    "oa":"Open Access", 
+                    "formatFree":true, 
+                    "metrics":{ 
+                        "impact":"2.506", 
+                        "SJR":"0.309",
+                        "SJRQuadrant":"Q3",
+                        "H-Index":"10"
+                    }           
                 }
             ]
         },
         {
-            "participantid": "y.baruch@soton.ac.uk",
-            "MSID": "CBER-2021-0074",
-            "manuscriptTitle": "The university-to-work transition: Responses of universities and organisations to the COVID-19 pandemic",
-            "feederJournal": "British Educational Research Journal",
-            "authorName": "Yehuda Baruch",
-            "authorEmail": "y.baruch@soton.ac.uk",
-            "results": [
+            "participantid":"user1@gmail.com",
+            "MSID":"1231455",
+            "manuscriptTitle":" Predicting the risk of chemotherapy toxicity in older patients: The Chemotherapy Risk Assessment Scale for High‐Age Patients (CRASH) score",
+            "feederJournal":"CA: A Cancer Journal for Clinicians",
+            "authorName":"Demo Participant",
+            "authorEmail":"participant2@gmail.com",
+            "results":[
                 {
-                    "journalTitle": "Education Research International",
-                    "journalCode": "edri",
-                    "links": {
-                        "homepage": "https://www.hindawi.com/journals/edri/",
-                        "aims": "https://www.hindawi.com/journals/edri/about/",
-                        "guidelines": "https://www.hindawi.com/journals/edri/guidelines/"
+                    "journalTitle":"Nephrology",
+                    "links":{
+                        "homepage":"https://onlinelibrary.wiley.com/journal/14401797",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/14401797/homepage/productinformation.html",
+                        "guidelines":"https://onlinelibrary.wiley.com/page/journal/14401797/homepage/forauthors.html"
                     },
-                    "society": "Hindawi, a Wiley Brand",
-                    "description": "Education Research International is a peer-reviewed, Open Access journal that considers scholarly, research-based articles on all aspects of education. As an international journal aimed at facilitating the global exchange of education theory, contributions from different educational systems and cultures are encouraged. The journal publishes research articles as well as review articles.",
-                    "oa": "full",
-                    "formatFree": true,
-                    "isHindawi": true,
-                    "metrics": {
-                        "acceptanceRate": "17%",
-                        "timeToFinalDecision": "45 days",
-                        "timeToPublication": "36 days",
-                        "citeScore": "0.500"
-                    }
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1995",
+                    "description":"Published eight times per year by the Asian Pacific Society of Nephrology, this journal has a special emphasis on the needs of clinical nephrologists and those in developing countries. The journal publishes reviews and papers of international interest describing original research concerned with clinical and experimental aspects of nephrology.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":false,
+                    "metrics":{ 
+                        "impact":"2.506", 
+                        "SJR":"0.752",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"61",
+                        "submissionToFirstDecision":"12",
+                        "acceptanceToPublication":"21",
+                        "acceptanceRate":"13.3%"
+                    }           
                 },
                 {
-                    "journalTitle": "Journal of Management Studies",
-                    "journalCode": "14676486",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/14676486",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/14676486/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14676486/homepage/forauthors.html"
+                    "journalTitle":"British Journal of Clinical Pharmacology",
+                    "links":{
+                        "homepage":"https://bpspubs.onlinelibrary.wiley.com/journal/13652125",
+                        "aims": "https://bpspubs.onlinelibrary.wiley.com/hub/journal/13652125/productinformation.html",
+                        "guidelines":"https://bpspubs.onlinelibrary.wiley.com/hub/journal/13652125/forauthors.html"
                     },
-                    "description": "JMS publishes innovative empirical and conceptual articles which advance knowledge of management and organisation broadly defined, in such fields as organization theory, organizational behaviour, human resource management, strategy, international business, entrepreneurship, innovation and critical management studies. JMS has an inclusive ethos and is open to a wide range of methodological approaches and philosophical underpinnings.",
-                    "oa": "supports",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "4.888"
-                    }
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1974",
+                    "description":"A leading international clinical pharmacology journal published by the British Pharmacological Society. It bridges the gap between the medical profession, clinical research and the pharmaceutical industry by addressing all aspects of drug action in humans: invited review articles, original papers and correspondence.",
+                    "oa":"Subscription", 
+                    "formatFree":false, 
+                    "metrics":{ 
+                        "impact":"4.335", 
+                        "SJR":"1.216",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"146",
+                        "submissionToFirstDecision":"33",
+                        "acceptanceToPublication":"27",
+                        "acceptanceRate":"32.7%"
+                    }           
                 },
                 {
-                    "journalTitle": "International Journal of Management Reviews",
-                    "journalCode": "14682370",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/14682370",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/14682370/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14682370/homepage/forauthors.html"
+                    "journalTitle":"Journal of Skin Cancer",
+                    "links":{
+                        "homepage":"https://www.hindawi.com/journals/jsc/",
+                        "aims": "https://www.hindawi.com/journals/jsc/about/",
+                        "guidelines":"https://www.hindawi.com/journals/jsc/guidelines/"
                     },
-                    "description": "Papers published in IJMR seek to make significant conceptual contributions, offering a strategic platform for new directions in research and making a difference to how OMS scholars might conceptualise research in their respective fields. In reviews published in IJMR, the state of knowledge in a given field is critically evaluated, and conceptual underpinnings of competing paradigms critically appraised, with a view towards advancing current and future research in the area.",
-                    "oa": "supports",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "8.631"
-                    }
-                },
-                {
-                    "journalTitle": "The Curriculum Journal",
-                    "journalCode": "14693704",
-                    "links": {
-                        "homepage": "https://bera-journals.onlinelibrary.wiley.com/journal/14693704",
-                        "aims": "https://onlinelibrary.wiley.com/journal/11111111/productinformation",
-                        "guidelines": "https://onlinelibrary.wiley.com/journal/11111111"
-                    },
-                    "society": "British Educational Research Association",
-                    "description": "The Curriculum Journal is an international peer-reviewed journal that publishes original contributions to the study of curriculum theory, as well as curriculum-making practices. It encompasses issues relating to governance and policy development, teacher professional learning, assessment and pedagogy, insofar as they pertain to curriculum. The Journal aims to contribute to the renewal of the field of curriculum studies, enrich curriculum conversations and enable practitioners and scholars to engage with curricular issues, thus placing consideration of curriculum firmly at the heart of educational discourse and practice.",
-                    "oa": "supports",
-                    "formatFree": true,
-                    "isHindawi": false,
-                    "metrics": {}
-                },
-                {
-                    "journalTitle": "Journal of Organizational Behavior",
-                    "journalCode": "10991379",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/10991379",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/10991379/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/10991379/homepage/forauthors.html"
-                    },
-                    "description": "The Journal of Organizational Behavior aims to publish empirical reports and theoretical reviews of research in the field of organizational behavior, wherever in the world that work is conducted. The journal will focus on research and theory in all topics associated with organizational behavior within and across individual, group and organizational levels of analysis.",
-                    "oa": "supports",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "5.000"
-                    }
+                    "publishingBrand":"Hindawi, A Wiley Brand",
+                    "publishedSince":"1974",
+                    "description":"An open access journal publishing clinical and translational research on the detection, diagnosis, prevention, and treatment of skin malignanciesSo you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS",
+                    "oa":"Open Access", 
+                    "formatFree":true, 
+                    "metrics":{ 
+                        "impact":"", 
+                        "SJR":"0.309",
+                        "SJRQuadrant":"Q3",
+                        "H-Index":"10",
+                        "submissionToFirstDecision":"34",
+                        "acceptanceToPublication":"25",
+                        "acceptanceRate":"29%"
+                    }           
                 }
             ]
         },
         {
-            "participantid": "bezon.kumar3@gmail.com",
-            "MSID": "JPA-21-092",
-            "manuscriptTitle": "Environmental Impacts of Rohingya Refugee Influx in Bangladesh",
-            "feederJournal": "Journal of Public Affairs",
-            "authorName": "Bezon Kumar",
-            "authorEmail": "bezon.kumar3@gmail.com",
-            "results": [
+            "participantid":"user2@gmail.com",
+            "MSID":"1231455",
+            "manuscriptTitle":" Predicting the risk of chemotherapy toxicity in older patients: The Chemotherapy Risk Assessment Scale for High‐Age Patients (CRASH) score",
+            "feederJournal":"CA: A Cancer Journal for Clinicians",
+            "authorName":"Demo Participant",
+            "authorEmail":"participant2@gmail.com",
+            "results":[
                 {
-                    "journalTitle": "Journal of Environmental and Public Health",
-                    "journalCode": "jeph",
-                    "links": {
-                        "homepage": "https://www.hindawi.com/journals/jeph/",
-                        "aims": "https://www.hindawi.com/journals/jeph/about/",
-                        "guidelines": "https://www.hindawi.com/journals/jeph/guidelines/"
+                    "journalTitle":"Nephrology",
+                    "links":{
+                        "homepage":"https://onlinelibrary.wiley.com/journal/14401797",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/14401797/homepage/productinformation.html",
+                        "guidelines":"https://onlinelibrary.wiley.com/page/journal/14401797/homepage/forauthors.html"
                     },
-                    "society": "Hindawi, a Wiley Brand",
-                    "description": "Journal of Environmental and Public Health is a peer-reviewed, Open Access journal that publishes original research articles, review articles, and clinical studies covering all population-wide health issues. The journal serves the public health community, including epidemiologists, clinicians, toxicologists, governmental agencies, policy makers, and NGOs. Articles on health issues relating to the natural and built environment are particularly welcome, including occupational medicine research and practice.",
-                    "oa": "full",
-                    "formatFree": true,
-                    "isHindawi": true,
-                    "metrics": {
-                        "acceptanceRate": "22%",
-                        "timeToFinalDecision": "73 days",
-                        "timeToPublication": "32 days",
-                        "citeScore": "3.000"
-                    }
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1995",
+                    "description":"Published eight times per year by the Asian Pacific Society of Nephrology, this journal has a special emphasis on the needs of clinical nephrologists and those in developing countries. The journal publishes reviews and papers of international interest describing original research concerned with clinical and experimental aspects of nephrology.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":true,
+                    "metrics":{ 
+                        "impact":"2.506", 
+                        "SJR":"0.752",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"61",
+                        "submissionToFirstDecision":"12",
+                        "acceptanceRate":"13.3%"
+                    }           
                 },
                 {
-                    "journalTitle": "Land Degradation & Development",
-                    "journalCode": "1099145x",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/1099145x",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/1099145x/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/1099145x/homepage/forauthors.html"
+                    "journalTitle":"British Journal of Clinical Pharmacology",
+                    "links":{
+                        "homepage":"https://bpspubs.onlinelibrary.wiley.com/journal/13652125",
+                        "aims": "https://bpspubs.onlinelibrary.wiley.com/hub/journal/13652125/productinformation.html",
+                        "guidelines":"https://bpspubs.onlinelibrary.wiley.com/hub/journal/13652125/forauthors.html"
                     },
-                    "description": "Land Degradation & Development is an international journal which seeks to promote rational study of the recognition, monitoring, control and rehabilitation of degradation in terrestrial environments.",
-                    "oa": "supports",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "3.775"
-                    }
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1974",
+                    "description":"A leading international clinical pharmacology journal published by the British Pharmacological Society. It bridges the gap between the medical profession, clinical research and the pharmaceutical industry by addressing all aspects of drug action in humans: invited review articles, original papers and correspondence.",
+                    "oa":"Subscription", 
+                    "formatFree":"", 
+                    "metrics":{ 
+                        "impact":"4.335", 
+                        "SJR":"1.216",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"146",
+                        "submissionToFirstDecision":"33",
+                        "acceptanceToPublication":"27"
+                    }           
                 },
                 {
-                    "journalTitle": "Food and Energy Security",
-                    "journalCode": "20483694",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/20483694",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/20483694/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/20483694/homepage/forauthors.html"
+                    "journalTitle":"Journal of Skin Cancer",
+                    "links":{
+                        "homepage":"https://www.hindawi.com/journals/jsc/",
+                        "aims": "https://www.hindawi.com/journals/jsc/about/",
+                        "guidelines":"https://www.hindawi.com/journals/jsc/guidelines/"
                     },
-                    "description": "Food and Energy Security seeks to publish high quality and high impact original research on agricultural crop and forest productivity to improve food and energy security. It actively seeks submissions from emerging countries with expanding agricultural research communities.",
-                    "oa": "full",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "5.242"
-                    }
-                },
-                {
-                    "journalTitle": "Agricultural Economics",
-                    "journalCode": "15740862",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/15740862",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/15740862/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/15740862/homepage/forauthors.html"
-                    },
-                    "society": "International Association of Agricultural Economists",
-                    "description": "Agricultural Economics aims to disseminate the most important research results and policy analyses in our discipline, from all regions of the world.  Topical coverage ranges from consumption and nutrition to land use and the environment, at every scale of analysis from households to markets and the macro-economy.  Applicable methodologies include econometric estimation and statistical hypothesis testing, optimization and simulation models, descriptive reviews and policy analyses.  We particularly encourage submission of empirical work that can be replicated and tested by others.",
-                    "oa": "supports",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "2.263"
-                    }
-                },
-                {
-                    "journalTitle": "Asia & the Pacific Policy Studies",
-                    "journalCode": "20502680",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/20502680",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/20502680/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/20502680/homepage/forauthors.html"
-                    },
-                    "society": "Crawford School of Public Policy at The Australian National University",
-                    "description": "Asia & the Pacific Policy Studies is the flagship journal of the Crawford School of Public Policy at The Australian National University. It is a peer-reviewed journal that targets research in policy studies in Australia, Asia and the Pacific, across a discipline focus that includes economics, political science, governance, development and the environment. Specific themes of recent interest include health and education, aid, migration, inequality, poverty reduction, energy, climate and the environment, food policy, public administration, the role of the private sector in public policy, trade, foreign policy, natural resource management and development policy.",
-                    "oa": "full",
-                    "formatFree": true,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "0.957"
-                    }
+                    "publishingBrand":"Hindawi, A Wiley Brand",
+                    "publishedSince":"1974",
+                    "description":"An open access journal publishing clinical and translational research on the detection, diagnosis, prevention, and treatment of skin malignanciesSo you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS",
+                    "oa":"Open Access", 
+                    "formatFree":true, 
+                    "metrics":{ 
+                        "impact":"2.506", 
+                        "SJR":"0.309",
+                        "SJRQuadrant":"Q3",
+                        "H-Index":"10"
+                    }           
                 }
             ]
         },
         {
-            "participantid": "s.eaton@ucl.ac.uk",
-            "MSID": "ANA-21-0363",
-            "manuscriptTitle": "Protective effects of MCT diet in a mouse model of Dravet syndrome",
-            "feederJournal": "Annals of Neurology",
-            "authorName": "Simon Eaton",
-            "authorEmail": "s.eaton@ucl.ac.uk",
-            "results": [
+            "participantid":"user3@gmail.com",
+            "MSID":"1231455",
+            "manuscriptTitle":" Predicting the risk of chemotherapy toxicity in older patients: The Chemotherapy Risk Assessment Scale for High‐Age Patients (CRASH) score",
+            "feederJournal":"CA: A Cancer Journal for Clinicians",
+            "authorName":"Demo Participant",
+            "authorEmail":"participant2@gmail.com",
+            "results":[
                 {
-                    "journalTitle": "Journal of Nutrition and Metabolism",
-                    "journalCode": "jnme",
-                    "links": {
-                        "homepage": "https://www.hindawi.com/journals/jnme/",
-                        "aims": "https://www.hindawi.com/journals/jnme/about/",
-                        "guidelines": "https://www.hindawi.com/journals/jnme/guidelines/"
+                    "journalTitle":"Nephrology",
+                    "links":{
+                        "homepage":"https://onlinelibrary.wiley.com/journal/14401797",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/14401797/homepage/productinformation.html",
+                        "guidelines":"https://onlinelibrary.wiley.com/page/journal/14401797/homepage/forauthors.html"
                     },
-                    "society": "Hindawi, a Wiley Brand",
-                    "description": "Journal of Nutrition and Metabolism is a peer-reviewed, Open Access journal that publishes original research articles, review articles, and clinical studies covering the broad and multidisciplinary field of human nutrition and metabolism. The journal welcomes submissions on studies related to obesity, diabetes, metabolic syndrome, molecular and cellular biology of nutrients, foods and dietary supplements, as well as macro- and micronutrients including vitamins and minerals.",
-                    "oa": "full",
-                    "formatFree": true,
-                    "isHindawi": true,
-                    "metrics": {
-                        "acceptanceRate": "36%",
-                        "timeToFinalDecision": "119 days",
-                        "timeToPublication": "32 days",
-                        "citeScore": "3.100"
-                    }
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1995",
+                    "description":"Published eight times per year by the Asian Pacific Society of Nephrology, this journal has a special emphasis on the needs of clinical nephrologists and those in developing countries. The journal publishes reviews and papers of international interest describing original research concerned with clinical and experimental aspects of nephrology.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":true,
+                    "metrics":{ 
+                        "impact":"2.506", 
+                        "SJR":"0.752",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"61",
+                        "submissionToFirstDecision":"12",
+                        "acceptanceRate":"13.3%"
+                    }           
                 },
                 {
-                    "journalTitle": "Clinical Genetics",
-                    "journalCode": "13990004",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/13990004",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/13990004/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/13990004/homepage/forauthors.html"
+                    "journalTitle":"British Journal of Clinical Pharmacology",
+                    "links":{
+                        "homepage":"https://bpspubs.onlinelibrary.wiley.com/journal/13652125",
+                        "aims": "https://bpspubs.onlinelibrary.wiley.com/hub/journal/13652125/productinformation.html",
+                        "guidelines":"https://bpspubs.onlinelibrary.wiley.com/hub/journal/13652125/forauthors.html"
                     },
-                    "description": "Clinical Genetics links research to the clinic, translating advances in our understanding of the molecular basis of genetic disease for the practising clinical geneticist. The journal publishes high quality research papers, short reports, reviews and mini-reviews that connect medical genetics research with clinical practice.",
-                    "oa": "supports",
-                    "formatFree": true,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "3.578"
-                    }
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1974",
+                    "description":"A leading international clinical pharmacology journal published by the British Pharmacological Society. It bridges the gap between the medical profession, clinical research and the pharmaceutical industry by addressing all aspects of drug action in humans: invited review articles, original papers and correspondence.",
+                    "oa":"Subscription", 
+                    "formatFree":"", 
+                    "metrics":{ 
+                        "impact":"4.335", 
+                        "SJR":"1.216",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"146",
+                        "submissionToFirstDecision":"33",
+                        "acceptanceToPublication":"27"
+                    }           
                 },
                 {
-                    "journalTitle": "Genes, Brain and Behavior",
-                    "journalCode": "1601183x",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/1601183x",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/1601183x/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/1601183x/homepage/forauthors.html"
+                    "journalTitle":"Journal of Skin Cancer",
+                    "links":{
+                        "homepage":"https://www.hindawi.com/journals/jsc/",
+                        "aims": "https://www.hindawi.com/journals/jsc/about/",
+                        "guidelines":"https://www.hindawi.com/journals/jsc/guidelines/"
                     },
-                    "society": "International Behavioural and Genetics Society",
-                    "description": "Genes, Brain and Behavior was launched in 2002 with the aim of publishing top quality research in behavioral and neural genetics in their broadest sense. The emphasis is on the analysis of the behavioral and neural phenotypes under consideration, the unifying theme being the genetic approach as a tool to increase our understanding of these phenotypes.",
-                    "oa": "supports",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "3.397"
-                    }
-                },
-                {
-                    "journalTitle": "Cell Biochemistry & Function",
-                    "journalCode": "10990844",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/10990844",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/10990844/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/10990844/homepage/forauthors.html"
-                    },
-                    "description": "Cell Biochemistry and Function publishes original research articles and reviews on the mechanisms whereby molecular and biochemical processes control cellular activity with a particular emphasis on the integration of molecular and cell biology, biochemistry and physiology in the regulation of tissue function in health and disease.",
-                    "oa": "supports",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "2.632"
-                    }
-                },
-                {
-                    "journalTitle": "European Journal of Neurology",
-                    "journalCode": "14681331",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/14681331",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/14681331/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14681331/homepage/forauthors.html"
-                    },
-                    "society": "European Academy of Neurology",
-                    "description": "The European Journal of Neurology publishes the highest quality peer-reviewed original research articles, reviews – preferably systematic reviews, invited or unsolicited – , EAN guidelines and position papers on pioneering efforts and innovative studies in the medical management of all neurological conditions such as dementia, stroke, epilepsy, headache, multiple sclerosis, movement disorders, neuromuscular and infectious diseases.",
-                    "oa": "supports",
-                    "formatFree": true,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "4.516",
-                        "timeToFinalDecision": "35 days",
-                        "timeToPublication": "98 days"
-                    }
-                },
-                {
-                    "journalTitle": "Physiological Reports",
-                    "journalCode": "2051817x",
-                    "links": {
-                        "homepage": "https://physoc.onlinelibrary.wiley.com/journal/2051817x",
-                        "aims": "https://physoc.onlinelibrary.wiley.com/hub/journal/2051817X/aims-and-scope/read-full-aims-and-scope",
-                        "guidelines": "https://physoc.onlinelibrary.wiley.com/hub/journal/2051817X/about/author-guidelines"
-                    },
-                    "description": "Physiological Reports is an online only, open access journal that will publish peer reviewed research across all areas of basic, translational, and clinical physiology and allied disciplines. Physiological Reports is a collaboration between The Physiological Society and the American Physiological Society, and is therefore in a unique position to serve the international physiology community through quick time to publication while upholding a quality standard of sound research that constitutes a useful contribution to the field.",
-                    "oa": "full",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {}
-                }
-            ]
-        },
-        {
-            "participantid": "dwkim0311@gmail.com",
-            "MSID": "GN-1794",
-            "manuscriptTitle": "Political Embeddedness or World Cultural Pressure? Explaining Corporate Social Responsibility Reporting in China, 2006-2015",
-            "feederJournal": "Global Networks",
-            "authorName": "Dae-wook Kim",
-            "authorEmail": "dwkim0311@gmail.com",
-            "results": [
-                {
-                    "journalTitle": "Global Policy",
-                    "journalCode": "17585899",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/17585899",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/17585899/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/17585899/homepage/forauthors.html"
-                    },
-                    "description": "Global Policy is an innovative and interdisciplinary journal that will bring together world class academics and leading practitioners to analyse both public and private solutions to global problems and issues. Its focus is on understanding globally relevant risks and collective action problems; policy challenges that have global impact; and competing and converging discourses about global risks and policy responses. It will also include case studies of policy with clear lessons for other countries and regions; how policy responses, politics and institutions interrelate at the global level; and the conceptual, theoretical and methodological innovations needed to explain and develop policy in these areas.",
-                    "oa": "supports",
-                    "formatFree": true,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "1.238"
-                    }
-                },
-                {
-                    "journalTitle": "Journal of International Development",
-                    "journalCode": "10991328",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/10991328",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/10991328/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/10991328/homepage/forauthors.html"
-                    },
-                    "description": "The Journal of International Development is an inter-disciplinary journal that aims to publish the best research on international development issues in a form that is accessible to practitioners and policy-makers as well as to an academic audience. Alongside its main focus on international development, the Journal does not represent any particular school of development thought, analytical technique or methodological approach, but aims to publish high quality scientific contributions to ideas, frameworks, policy and practice that make a significant and novel contribution to the field of international development.",
-                    "oa": "supports",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "1.225"
-                    }
-                },
-                {
-                    "journalTitle": "International Journal of Social Welfare",
-                    "journalCode": "14682397",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/14682397",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/14682397/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14682397/homepage/forauthors.html"
-                    },
-                    "description": "The International Journal of Social Welfare publishes original articles in English on social welfare and social work. Its interdisciplinary approach and comparative perspective promote examination of the most pressing social welfare issues of the day by researchers from the various branches of the applied social sciences. The journal seeks to disseminate knowledge and to encourage debate about these issues and their regional and global implications. ",
-                    "oa": "supports",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "0.828"
-                    }
-                },
-                {
-                    "journalTitle": "Sustainable Development",
-                    "journalCode": "10991719",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/10991719",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/10991719/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/10991719/homepage/forauthors.html"
-                    },
-                    "society": "International Sustainable Development Research Society",
-                    "description": "This journal is a wide interdisciplinary publication which seeks to further debate and discuss the important concept of sustainable development. The scope of the journal therefore allows for contributions which have a local, national or global focus from a philosophical to a practical perspective. All contributions are refereed with the aim of providing the readership with high quality, original material.",
-                    "oa": "supports",
-                    "formatFree": true,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "4.082"
-                    }
-                },
-                {
-                    "journalTitle": "Public Administration Review",
-                    "journalCode": "15406210",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/15406210",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/15406210/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/15406210/homepage/forauthors.html"
-                    },
-                    "society": "American Society for Public Administration",
-                    "description": "Public Administration Review (PAR), a bi-monthly professional journal, has been the premier journal in the field of public administration research, theory, and practice for 75 years.  It is published for the American Society for Public Administration,TM/SM and is the only journal in public administration that serves both academics and practitioners interested in the public sector and public sector management. Articles identify and analyze current trends, provide a factual basis for decision making, stimulate discussion, and make the leading literature in the field available in an easily accessible format. With articles on a wide range of topics and expert book reviews, PAR is exciting to read and an indispensable resource.",
-                    "oa": "supports",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "4.063"
-                    }
-                },
-                {
-                    "journalTitle": "Asia & the Pacific Policy Studies",
-                    "journalCode": "20502680",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/20502680",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/20502680/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/20502680/homepage/forauthors.html"
-                    },
-                    "society": "Crawford School of Public Policy at The Australian National University",
-                    "description": "Asia & the Pacific Policy Studies is the flagship journal of the Crawford School of Public Policy at The Australian National University. It is a peer-reviewed journal that targets research in policy studies in Australia, Asia and the Pacific, across a discipline focus that includes economics, political science, governance, development and the environment. Specific themes of recent interest include health and education, aid, migration, inequality, poverty reduction, energy, climate and the environment, food policy, public administration, the role of the private sector in public policy, trade, foreign policy, natural resource management and development policy.",
-                    "oa": "full",
-                    "formatFree": true,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "0.957"
-                    }
-                }
-            ]
-        },
-        {
-            "participantid": "chiying0316@gmail.com",
-            "MSID": "MDCP-21-0113",
-            "manuscriptTitle": "Expanding Sexual and Gender Minority Research in Movement Disorders: More than Awareness and Acceptance",
-            "feederJournal": "Movement Disorders Clinical Practice",
-            "authorName": "Chi-Ying Lin",
-            "authorEmail": "chiying0316@gmail.com",
-            "results": [
-                {
-                    "journalTitle": "Neurology Research International",
-                    "journalCode": "nri",
-                    "links": {
-                        "homepage": "https://www.hindawi.com/journals/nri/",
-                        "aims": "https://www.hindawi.com/journals/nri/about/",
-                        "guidelines": "https://www.hindawi.com/journals/nri/guidelines/"
-                    },
-                    "society": "Hindawi, a Wiley Brand",
-                    "description": "Neurology Research International focuses on diseases of the nervous system, as well as normal neurological functioning. Research includes basic, translational, and clinical research, including animal models and clinical trials.",
-                    "oa": "full",
-                    "formatFree": true,
-                    "isHindawi": true,
-                    "metrics": {
-                        "acceptanceRate": "19%",
-                        "timeToFinalDecision": "58 days",
-                        "timeToPublication": "25 days",
-                        "citeScore": "1.800"
-                    }
-                },
-                {
-                    "journalTitle": "Bioethics",
-                    "journalCode": "14678519",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/14678519",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/14678519/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14678519/homepage/forauthors.html"
-                    },
-                    "description": "Bioethics provides a forum for well-argued articles on the ethical questions raised by current issues such as: international collaborative clinical research in developing countries, organ transplants and xenotransplantation, ageing and the human lifespan, AIDS, genomics, and stem cell research. These questions are considered in relation to concrete ethical, legal and policy problems, or in terms of the fundamental concepts, principles and theories used in discussions of such problems.",
-                    "oa": "supports",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "1.799"
-                    }
-                },
-                {
-                    "journalTitle": "Journal of Community & Applied Social Psychology",
-                    "journalCode": "10991298",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/10991298",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/10991298/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/10991298/homepage/forauthors.html"
-                    },
-                    "description": "The Journal of Community & Applied Social Psychology advances the contribution of psychology to understanding and addressing community and social issues. The journal has a particular interest in developing psychology through working with these issues in real world settings and in advancing the capacity of community and social psychology to promote social justice and social inclusion. The journal accepts contributions that test scientific hypotheses in naturalistic settings and provide theoretical contributions to the field of community psychology and social psychology. The journal is further interested in making social psychology impactful, and aims to concretely contribute to community and social development by providing insights that can be readily translated into action.",
-                    "oa": "supports",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "1.857"
-                    }
-                },
-                {
-                    "journalTitle": "Sociology Compass",
-                    "journalCode": "17519020",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/17519020",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/17519020/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/17519020/homepage/forauthors.html"
-                    },
-                    "description": "Sociology Compass is an online-only journal publishing original, peer-reviewed survey articles of the most important research from across the entire discipline. Sociology Compass fills a gap left by existing guides within the subject by focusing on what is happening right now in sociology. Providing an ideal starting point for non-specialists, Sociology Compass publishes well written pieces explaining important debates within all areas of the field. In an age of hyper-specialization, Sociology Compass provides pointers for researchers, teachers and students alike, which will help them to look for the best research, and to interpret what they find.",
-                    "oa": "supports",
-                    "formatFree": true,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "1.226"
-                    }
-                },
-                {
-                    "journalTitle": "Brain and Behavior",
-                    "journalCode": "21579032",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/21579032",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/21579032/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/21579032/homepage/forauthors.html"
-                    },
-                    "description": "Brain and Behavior is peer-reviewed, open access, interdisciplinary journal, providing rapid publication of scientifically sound research across neurology, neuroscience, psychology and psychiatry. The journal publishes quality research reports that enhance understanding of the brain and behavior.",
-                    "oa": "full",
-                    "formatFree": true,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "2.091"
-                    }
-                }
-            ]
-        },
-        {
-            "participantid": "bhawna.chauhan1@nift.ac.in",
-            "MSID": "iJADE-Jan-21-026",
-            "manuscriptTitle": "An empathetic design approach to design a service to reduce screen-time amongst children in urban spaces",
-            "feederJournal": "International Journal of Art & Design Education",
-            "authorName": "Bhawna Chauhan",
-            "authorEmail": "bhawna.chauhan1@nift.ac.in",
-            "results": [
-                {
-                    "journalTitle": "Education Research International",
-                    "journalCode": "edri",
-                    "links": {
-                        "homepage": "https://www.hindawi.com/journals/edri/",
-                        "aims": "https://www.hindawi.com/journals/edri/about/",
-                        "guidelines": "https://www.hindawi.com/journals/edri/guidelines/"
-                    },
-                    "society": "Hindawi, a Wiley Brand",
-                    "description": "Education Research International is a peer-reviewed, Open Access journal that considers scholarly, research-based articles on all aspects of education. As an international journal aimed at facilitating the global exchange of education theory, contributions from different educational systems and cultures are encouraged. The journal publishes research articles as well as review articles.",
-                    "oa": "full",
-                    "formatFree": true,
-                    "isHindawi": true,
-                    "metrics": {
-                        "acceptanceRate": "17%",
-                        "timeToFinalDecision": "45 days",
-                        "timeToPublication": "36 days",
-                        "citeScore": "0.500"
-                    }
-                },
-                {
-                    "journalTitle": "Public Health Nursing",
-                    "journalCode": "15251446",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/15251446",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/15251446/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/15251446/homepage/forauthors.html"
-                    },
-                    "society": "Council of Public Health Nursing Organizations",
-                    "description": "Public Health Nursing aims to provide worldwide access to timely research and practice features of use to public health nurses, administrators, and educators in the field of public health nursing. Its scope is the range of population-based concerns and interventions in which nurses are involved. The journal emphasizes scholarship on vulnerable populations.Authors from all disciplines are invited to submit manuscripts relevant to public health nursing.",
-                    "oa": "supports",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "1.130"
-                    }
-                },
-                {
-                    "journalTitle": "Scandinavian Journal of Caring Sciences",
-                    "journalCode": "14716712",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/14716712",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/14716712/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14716712/homepage/forauthors.html"
-                    },
-                    "society": "Nordic College of Caring Science",
-                    "description": "The Scandinavian Journal of Caring Sciences is an international peer-reviewed Journal publishing research that has a patient, family or community focus and which promotes an interdisciplinary team approach.The emphasis is on research that has a patient, family and community focus and which promotes an interdisciplinary team approach. Of special interest are scholarly articles addressing and initiating dialogue on theoretical, empirical and methodological concerns related to critical issues.",
-                    "oa": "supports",
-                    "formatFree": true,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "1.525"
-                    }
-                },
-                {
-                    "journalTitle": "Human Factors and Ergonomics in Manufacturing & Service Industries",
-                    "journalCode": "15206564",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/15206564",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/15206564/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/15206564/homepage/forauthors.html"
-                    },
-                    "description": "The purpose of Human Factors and Ergonomics in Manufacturing & Service Industries is to facilitate discovery, integration, application and translation of scientific knowledge within HFE. Accordingly, we invite submissions covering all dimensions of HFE, including physical, cognitive, organizational, and systems HFE. Whilst the Journal has a focus on understanding and optimising the Manufacturing & Service Industries, we also invite submissions outside of these areas which cover important HFE issues.",
-                    "oa": "supports",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "1.271"
-                    }
-                }
-            ]
-        },
-        {
-            "participantid": "pornpimol.r@chula.ac.th",
-            "MSID": "ar-21-0414",
-            "manuscriptTitle": "Defining renal remission in an international cohort of 248 children and adolescents with lupus nephritis",
-            "feederJournal": "Arthritis & Rheumatology ",
-            "authorName": "Pornpimol Rianthavorn",
-            "authorEmail": "pornpimol.r@chula.ac.th",
-            "results": [
-                {
-                    "journalTitle": "Case Reports in Nephrology",
-                    "journalCode": "crin",
-                    "links": {
-                        "homepage": "https://www.hindawi.com/journals/crin/",
-                        "aims": "https://www.hindawi.com/journals/crin/about/",
-                        "guidelines": "https://www.hindawi.com/journals/crin/guidelines/"
-                    },
-                    "society": "Hindawi, a Wiley Brand",
-                    "description": "Case Reports in Nephrology publishes case reports and case series focusing on the prevention, diagnosis, and management of kidney diseases and associated disorders, including cancer. The journal also focuses on advances in transplantation techniques.",
-                    "oa": "full",
-                    "formatFree": true,
-                    "isHindawi": true,
-                    "metrics": {
-                        "acceptanceRate": "47%",
-                        "timeToFinalDecision": "55 days",
-                        "timeToPublication": "30 days"
-                    }
-                },
-                {
-                    "journalTitle": "European Journal of Haematology",
-                    "journalCode": "16000609",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/16000609",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/16000609/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/16000609/homepage/forauthors.html"
-                    },
-                    "description": "European Journal of Haematology is an international journal for communication of basic and clinical research in haematology. The journal welcomes manuscripts on molecular, cellular and clinical research on diseases of the blood, vascular and lymphatic tissue, and on basic molecular and cellular research related to normal development and function of the blood, vascular and lymphatic tissue. The journal also welcomes reviews on clinical haematology and basic research, case reports, and clinical pictures.",
-                    "oa": "supports",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "2.220"
-                    }
-                },
-                {
-                    "journalTitle": "European Journal of Neurology",
-                    "journalCode": "14681331",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/14681331",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/14681331/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14681331/homepage/forauthors.html"
-                    },
-                    "society": "European Academy of Neurology",
-                    "description": "The European Journal of Neurology publishes the highest quality peer-reviewed original research articles, reviews – preferably systematic reviews, invited or unsolicited – , EAN guidelines and position papers on pioneering efforts and innovative studies in the medical management of all neurological conditions such as dementia, stroke, epilepsy, headache, multiple sclerosis, movement disorders, neuromuscular and infectious diseases.",
-                    "oa": "supports",
-                    "formatFree": false,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "4.516",
-                        "timeToFinalDecision": "35 days",
-                        "timeToPublication": "98 days"
-                    }
-                },
-                {
-                    "journalTitle": "Clinical Endocrinology",
-                    "journalCode": "13652265",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/13652265",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/13652265/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/13652265/homepage/forauthors.html"
-                    },
-                    "society": "The Clinical Journal of the Society for Endocrinology and the Endocrine Society of Australia",
-                    "description": "Clinical Endocrinology publishes papers and reviews which focus on the clinical aspects of endocrinology, including the clinical application of molecular endocrinology. It does not publish papers relating directly to diabetes care and clinical management. It features reviews, original papers, commentaries, correspondence and Clinical Questions. Clinical Endocrinology is essential reading not only for those engaged in endocrinological research but also for those involved primarily in clinical practice.",
-                    "oa": "supports",
-                    "formatFree": true,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "3.380"
-                    }
-                },
-                {
-                    "journalTitle": "ACR Open Rheumatology",
-                    "journalCode": "25785745",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/25785745",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/25785745/homepage/overview",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/25785745/homepage/guide-to-authors?"
-                    },
-                    "society": "The American College of Rheumatology",
-                    "description": "ACR Open Rheumatology is a peer-reviewed open access official journal of the American College of Rheumatology. ACR Open Rheumatology publishes high-quality articles reporting on original investigations in all aspects of rheumatology-related research (basic science, clinical science, epidemiology, health outcomes, and education), as well as reviews and commentaries in the field of rheumatology and related disciplines.",
-                    "oa": "full",
-                    "formatFree": true,
-                    "isHindawi": false
-                }
-            ]
-        },
-        {
-            "participantid": "test",
-            "MSID": "MDCP-21-0086",
-            "manuscriptTitle": "Clinical and imaging profile of patients with Joubert syndrome",
-            "feederJournal": "Movement Disorders Clinical Practice",
-            "authorName": "Dr. Ravi Yadav",
-            "authorEmail": "docravi20@yahoo.com",
-            "results": [
-                {
-                    "journalTitle": "Birth Defects Research",
-                    "journalCode": "24721727",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/24721727",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/24721727/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/24721727/homepage/forauthors.html"
-                    },
-                    "society": "Society for Birth Defects Research and Prevention",
-                    "description": "Birth Defects Research publishes original research and reviews in areas related to the etiology of adverse developmental and reproductive outcome. In particular the journal is devoted to the publication of original scientific research that contributes to the understanding of the biology of embryonic development and the prenatal causative factors and mechanisms leading to adverse pregnancy outcomes, namely structural and functional birth defects, pregnancy loss, postnatal functional defects in the human population, and to the identification of prenatal factors and biological mechanisms that reduce these risks.",
-                    "oa": "supports",
-                    "formatFree": true,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "1.896"
-                    }
-                },
-                {
-                    "journalTitle": "Case Reports in Nephrology",
-                    "journalCode": "crin",
-                    "links": {
-                        "homepage": "https://www.hindawi.com/journals/crin/",
-                        "aims": "https://www.hindawi.com/journals/crin/about/",
-                        "guidelines": "https://www.hindawi.com/journals/crin/guidelines/"
-                    },
-                    "society": "Hindawi, a Wiley Brand",
-                    "description": "Case Reports in Nephrology publishes case reports and case series focusing on the prevention, diagnosis, and management of kidney diseases and associated disorders, including cancer. The journal also focuses on advances in transplantation techniques.",
-                    "oa": "full",
-                    "formatFree": true,
-                    "isHindawi": true,
-                    "metrics": {
-                        "acceptanceRate": "47%",
-                        "timeToFinalDecision": "55 days",
-                        "timeToPublication": "30 days"
-                    }
-                },
-                {
-                    "journalTitle": "European Journal of Haematology",
-                    "journalCode": "16000609",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/16000609",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/16000609/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/16000609/homepage/forauthors.html"
-                    },
-                    "description": "European Journal of Haematology is an international journal for communication of basic and clinical research in haematology. The journal welcomes manuscripts on molecular, cellular and clinical research on diseases of the blood, vascular and lymphatic tissue, and on basic molecular and cellular research related to normal development and function of the blood, vascular and lymphatic tissue. The journal also welcomes reviews on clinical haematology and basic research, case reports, and clinical pictures.",
-                    "oa": "supports",
-                    "formatFree": true,
-                    "isHindawi": false,
-                    "metrics": {
-                        "impact": "2.220"
-                    }
+                    "publishingBrand":"Hindawi, A Wiley Brand",
+                    "publishedSince":"1974",
+                    "description":"An open access journal publishing clinical and translational research on the detection, diagnosis, prevention, and treatment of skin malignanciesSo you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS",
+                    "oa":"Open Access", 
+                    "formatFree":true, 
+                    "metrics":{ 
+                        "impact":"2.506", 
+                        "SJR":"0.309",
+                        "SJRQuadrant":"Q3",
+                        "H-Index":"10"
+                    }           
                 }
             ]
         }

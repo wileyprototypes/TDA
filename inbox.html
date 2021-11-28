@@ -1,16 +1,15 @@
 <!doctype html>
-<html>
+<html id="inbox1">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet" />
-    <link href="styles/styles-inbox.css" rel="stylesheet"/>
+    <link href="styles/styles.css" rel="stylesheet"/>
 
     <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-
+    <script src="config.json"></script>
 </head>
-</html>
 <body>
 <script id="handlebars-demo" type="text/x-handlebars-template">
 <div class="gmail-inbox">
@@ -19,7 +18,28 @@
 </div>
 </script>
 
-<script src="scripts/scripts-inbox.js"></script>
+<script>
+
+var template = $('#handlebars-demo').html();
+
+var searchParams = new URLSearchParams(document.location.search);
+emailConfig = {};
+emailConfig.userid = searchParams.get("userid");
+
+config.tests.forEach(function(test){
+    if(test.participantid==emailConfig.userid) emailConfig = test;
+});
+
+emailConfig.emailSubjectLine = "Transfer recommendations for " + emailConfig.manuscriptTitle;
+emailConfig.previewText="Based on analysis of your manuscript, we have identified journals";
+
+
+var templateScript = Handlebars.compile(template);
+var context = emailConfig;
+var html = templateScript(context);
+$(document.body).append(html);
+
+</script>
 
 </body>
 </html>

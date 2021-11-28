@@ -1,16 +1,15 @@
 
 <!doctype html>
-<html>
+<html id="confirm">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet" />
     <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <link href="styles/styles-confirm.css" rel="stylesheet" />
-
+    <link href="styles/styles.css" rel="stylesheet" />
+    <script src="config.json"></script>
 </head>
-</html>
 <body>
 <script id="handlebars-demo" type="text/x-handlebars-template">
 <div class="nav-wrap">
@@ -46,6 +45,54 @@
 
 <script src="https://unpkg.com/@popperjs/core@2.9.1/dist/umd/popper.min.js"></script>
 <script src="https://unpkg.com/tippy.js@6.3.1/dist/tippy-bundle.umd.min.js"></script>
-<script src="scripts/scripts-confirm.js"></script>
+<script>
+    var template = $('#handlebars-demo').html();
+
+Handlebars.registerHelper('if_eq', function(a, b, opts) {
+    if (a == b) {
+        return opts.fn(this);
+    } else {
+        return opts.inverse(this);
+    }
+});
+
+
+
+var searchParams = new URLSearchParams(document.location.search);
+userid = searchParams.get("userid");
+
+testconfig={};
+config.tests.forEach(function(test){
+    if(test.participantid==userid) testconfig = test;
+});
+testconfig.journaltitle = searchParams.get("journaltitle");
+var utc = new Date().toJSON();
+testconfig.today=utc.replace("T"," ").replace("Z", " ").split(".")[0];
+
+var templateScript = Handlebars.compile(template);
+var context = testconfig;
+var html = templateScript(context);
+$(document.body).append(html);
+
+
+// With the above scripts loaded, you can call `tippy()` with a CSS
+// selector and a `content` prop:
+tippy('.oa-hybrid', {
+    content: 'This is a subscription journal that supports optional open access.',
+    placement: 'bottom'
+    });
+    tippy('.wiley .oa-full', {
+    content: 'This journal is fully Open Access. If accepted, an Article Publication Charge (APC) may apply.  Institutions, countries, and other factors may result in partial or full coverage of the APC.',
+    placement: 'bottom'
+    });
+    tippy('.hindawi .oa-full', {
+    content: 'This journal is fully Open Access. If accepted, an Article Publication Charge (APC) may apply. Waivers may be available for partial or full coverage of the APC.',
+    placement: 'bottom'
+    });
+    tippy('.format', {
+    content: 'This journal does not require journal-specific formatting for your initial submission.',
+    placement: 'bottom'
+    });
+</script>
 </body>
 </html>
