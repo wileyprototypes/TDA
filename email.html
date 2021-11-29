@@ -43,7 +43,11 @@
                             </div>
                             <div class="society-line">
                                 {{#if this.publishingBrand}}
-                                Published by {{this.publishingBrand}} | Since {{this.publishedSince}}
+                                Published by {{this.publishingBrand}} 
+                                {{/if}}
+
+                                {{#if this.publishedSince}}
+                                | Since {{this.publishedSince}}
                                 {{/if}}
                             </div>
                         </div>
