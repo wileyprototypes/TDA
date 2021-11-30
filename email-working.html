@@ -1,0 +1,206 @@
+<!doctype html>
+<html id="mainemail">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet" />
+    <link href="styles/styles.css" rel="stylesheet"/>
+
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="config.json"></script>
+</head>
+<body>
+<script id="handlebars-demo" type="text/x-handlebars-template">
+    <div class="gmail-email">
+    
+        <div id="subjectline">{{emailSubjectLine}}</div>
+        <div id="fromLine">Wiley Transfer Desk <span>&lt;{{fromEmail}}&gt;</span></div>
+        <div id="emailBody">
+            <div class="body-wrap">
+                <div class="intro">
+                    <p>Hi {{authorName}},</p>
+                    <p>Based on analysis of your recent submission, "{{manuscriptTitle}}" to {{feederJournal}}, we have identified alternate Wiley journals that could be a good fit for your research. If you are interested in transferring your manuscript, Wiley's Transfer Desk service can help.
+                    <p class="lastp"><strong>How does it work?</strong></p>    
+                    <ul>
+                        <li><strong>Choose a journal.</strong> Be sure to review the Author Guidelines to check your manuscript fits the journal's scope and requirements. Click "Start your transfer" and confirm your journal selection.</li>
+                        <li><strong>We'll start your submission.</strong> Once confirmed, we will start a new submission on your behalf and transfer your manuscript files and details to your chosen journal. You'll receive confirmation of your choice immediately.</li>
+                       <li><strong>Complete your new submission.</strong> Within 24-48 hours, you will be notified when your new submission is ready to complete. You'll have the opportunity to review and make any required changes at that time. Any completed peer review reports from your previous submission (if available) will be shared with the editorial office.</li>
+                    </ul>
+                   </div>
+                <h3>Recommendations for you:</h3>
+                {{#each results}}
+                <div class="journal-suggestion wiley">
+                        <h2><a target="_blank" href="{{this.links.homepage}}">{{this.journalTitle}}</a></h2>
+                        <div class="journal-pills">
+                            {{#if_eq this.oa "Open Access"}}<span class="format"><img src="img/lock.png"/>{{this.oa}}</span>{{/if_eq}}
+                        </div>
+                    <div class="details">
+                        <div class="left-details">
+                            <div class="journal-links-row">
+                                <a target="_blank" href="{{this.links.aims}}">Aims and Scope</a>
+                                <a target="_blank" href="{{this.links.guidelines}}">Author Guidelines</a>
+                            </div>
+                            <div class="society-line">
+                                {{#if this.publishingBrand}}
+                                Published by {{this.publishingBrand}} 
+                                {{/if}}
+
+                                {{#if this.publishedSince}}
+                                | Since {{this.publishedSince}}
+                                {{/if}}
+                            </div>
+                        </div>
+                        <div class="right-details rightbtn">                            
+                            {{#if_eq this.publishingBrand 'Wiley'}}
+                            <a class="transfer-button" href="proto.html?userid={{../participantid}}&journaltitle={{this.journalTitle}}">Start your transfer<span class="arrow"><img src="img/arrow.png"/></span></a>
+                            {{/if_eq}}
+
+                            {{#if_eq this.publishingBrand 'Hindawi, A Wiley Brand'}}
+                            <a class="transfer-button" href="protoh.html?userid={{../participantid}}&journaltitle={{this.journalTitle}}">Start your transfer<span class="arrow"><img src="img/arrow.png"/></span></a>
+                            {{/if_eq}}
+
+                        </div>
+                    </div>
+                    <p class="journal-description">
+                        {{this.description}} 
+                    </p>
+                    {{#if this.metrics}}
+                    <!-- <div class="journal-stats">
+                      <div>
+                        <div>{{#if this.metrics.impact}}<span>Impact factor</span> <span>{{this.metrics.impact}}</span>  {{/if}}</div>
+                        <div>{{#if this.metrics.SJR}}<span>SJR<span class="icon"><img src="img/info-color.png"/></span></span> <span>{{this.metrics.SJR}}</span> {{/if}}</div>
+                        <div>{{#if this.metrics.H-Index}}<span>H-Index</span> <span>{{this.metrics.H-Index}}</span> {{/if}}</div>
+                        <div>{{#if this.metrics.acceptanceRate}}<span>Acceptance rate</span> <span>{{this.metrics.acceptanceRate}}</span>  {{/if}}</div>
+                      </div>  
+                                                
+                      <div>
+                        <div>{{#if this.oa}}<span>Publishing Options</span> <span class="maxlimit">{{this.oa}}
+                            {{#if_eq this.oa 'Subscription or Open Access'}}
+                            <span class="icon"><img src="img/info-color.png"/></span>
+                            {{/if_eq}}
+                            {{#if_eq this.oa 'Open Access'}}
+                            <span class="icon"><img src="img/info-color.png"/></span>
+                            {{/if_eq}}
+                        </span>  {{/if}}</div>
+                        <div>{{#if this.formatFree}}<span>Submission format</span> <span class="greentxt">Free Format<span class="icon"><img src="img/info-color.png"/></span></span>  {{/if}}</div>
+                        <div>{{#if this.metrics.submissionToFirstDecision}}<span>Submission to first decision</span> <span>{{this.metrics.submissionToFirstDecision}} Days</span>  {{/if}}</div>
+                        <div>{{#if this.metrics.acceptanceToPublication}}<span>Acceptance to publication</span><span>{{this.metrics.acceptanceToPublication}} Days</span> {{/if}}</div>
+
+                      </div>    
+                                                
+                    </div> -->
+
+                    <div class="journal-stats2">
+                        <div>
+                            <div>{{#if this.metrics.impact}}<span>Impact factor</span> <span>{{this.metrics.impact}}</span>  {{/if}}</div>
+                            <div>{{#if this.oa}}<span>Publishing options</span> <span class="maxlimit">{{this.oa}}
+                                {{#if_eq this.oa 'Subscription or Open Access'}}
+                                <span class="icon"><img src="img/info-color.png"/></span>
+                                {{/if_eq}}
+                                {{#if_eq this.oa 'Open Access'}}
+                                <span class="icon"><img src="img/info-color.png"/></span>
+                                {{/if_eq}}
+                            </span>  {{/if}}</div>
+                        </div>
+                        <div>
+                          <div>{{#if this.metrics.SJR}}<span>SJR<span class="icon"><a href="https://www.scimagojr.com/aboutus.php" target="_blank"><img src="img/info-color.png"/></a></span></span> <span>{{this.metrics.SJR}}</span> {{/if}}</div>
+                          <div class="maxlimit">{{#if this.formatFree}}<span>Submission format</span> <span class="greentxt">Free Format<span class="icon"><a href="https://authorservices.wiley.com/author-resources/Journal-Authors/Prepare/free-format-submission.html" target="_blank"><img src="img/info-color.png"/></a></span></span>  
+                            {{else}}
+                            <span>Submission format</span> <span class="">Reformatting may be required</span>  
+                            {{/if}}</div>
+                          
+                        </div>  
+                        <div>
+                          <div>{{#if this.metrics.H-Index}}<span>H-Index</span> <span>{{this.metrics.H-Index}}</span> {{/if}}</div>
+                          <div>{{#if this.metrics.submissionToFirstDecision}}<span>Submission to first decision</span> <span>{{this.metrics.submissionToFirstDecision}} Days</span>  {{/if}}</div>
+
+                        </div>
+                        <div>  
+                            <div>{{#if this.metrics.acceptanceRate}}<span>Acceptance rate</span> <span>{{this.metrics.acceptanceRate}}</span>
+                            {{else}}<span>&nbsp;</span> <span>&nbsp;</span>  {{/if}}
+                            </div>
+                          <div>{{#if this.metrics.acceptanceToPublication}}<span>Acceptance to publication</span><span>{{this.metrics.acceptanceToPublication}} Days</span> {{/if}}</div>
+
+                        </div>  
+                                                  
+                      </div>
+
+                    {{/if}}
+                    
+                </div>
+                {{/each}}
+    
+                
+                <div class="more-journals">
+                    <p><strong>Still having trouble finding a good fit for your paper?</strong></p>
+                        <ul>
+                            <li><a target="_blank" href="https://onlinelibrary.wiley.com/action/showPublications?PubType=journal">Explore Wiley's full collection of journals</a></li>
+                            <li><a target="_blank" href="https://onlinelibrary.wiley.com/action/showPublications?PubType=journal">Compare journals in your subject area</a></li>
+                            <li>
+                               Receive 3-5 curated recommendations and a detailed report from subject-matter experts in your field with our <a target="_blank" href="https://wileyeditingservices.com/en/article-preparation/journal-recommendation.html?utm_source=tda&utm_medium=referral&utm_term=findjournal&utm_content=tda&utm_campaign=tda">Journal Recommendation service.</a>
+                            </li>
+                        </ul>
+                    
+                </div>
+                <div class="small-print">
+                    <p>Recommendations are made by our journal-matching technology and are not made in consultation with the recommended journals. Our assistance with a transfer will save you time but does not guarantee acceptance. Journals are editorially independent and will assess your manuscript against their own criteria. Please be assured, we will never transfer your manuscript to another journal without your approval.
+                    </p>
+                    <p>
+                        This e-mail message was sent to {{authorEmail}} regarding your submission to this journal. If you wish to stop receiving offers:<br/>
+                         <a href="#">Click here</a> to stop receiving reminders to transfer this manuscript<br/>
+                         <a href="#">Click here</a> to stop receiving future transfer offers for all submissions 
+                        </p> 
+                        
+                        <p class="footeraddress martop100">
+                            <img src="img/wiley.png" alt="Wiley email logo" style="margin-bottom:30px;"/><br/>
+                            This Message was sent to {{authorEmail}} by John Wiley & Sons, Inc. <br />
+                        111 River Street | Hoboken, NJ 07030-5774 USA | +1 877 762 2974 <br />
+                        We respect your privacy.  <a href="#">See our privacy policy</a><br/>
+                        <a href="#">About Wiley</a> &#8226; <a href="#">Contact the Wiley Transfer Desk</a>
+                        </p>
+                        
+                        <p class="footeraddress"><a href="#">© John Wiley & Sons, Inc</a> All rights reserved.</p>
+                        
+                         
+                    </p>
+                </div>
+            </div>
+    
+        </div>
+    
+    
+    </div>
+</script>
+
+<script>
+    var template = $('#handlebars-demo').html();
+
+var searchParams = new URLSearchParams(document.location.search);
+userid = searchParams.get("userid");
+config.tests.forEach(function(test){
+    if(test.participantid==userid) emailConfig = test;
+});
+emailConfig.emailSubjectLine = "Transfer recommendations for " + emailConfig.manuscriptTitle;
+emailConfig.previewText="We’re sorry that your recent submission, \"" + emailConfig.manuscriptTitle + "\" to " + emailConfig.feederJournal;
+
+emailConfig.fromEmail="wileytransferdesk@wiley.com";
+emailConfig.protoURL="proto2.html";
+
+
+Handlebars.registerHelper('if_eq', function(a, b, opts) {
+    if (a == b) {
+        return opts.fn(this);
+    } else {
+        return opts.inverse(this);
+    }
+});
+
+var templateScript = Handlebars.compile(template);
+var context = emailConfig;
+var html = templateScript(context);
+$(document.body).append(html);
+</script>
+
+</body>
+</html>
