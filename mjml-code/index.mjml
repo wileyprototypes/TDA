@@ -194,6 +194,9 @@
     <mj-section padding-top="0" padding-bottom="0">
       <mj-column>
          <mj-text  color="#1c1d1e" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="21px" font-weight="600"><a href="">Journal of Skin Cancer</a></mj-text>
+          <mj-button align="left" background-color="#611d69" color="white" font-family="Open Sans, Sans-serif" font-size="14px" inner-padding="5px 15px" border-radius="20px" padding-left="0" padding-right="0px" padding-top="0px">
+            <img width="16px" src="https://wileyprototypes.github.io/TDA/img/lock.png" style="position: relative; top:3px;"/>Open Access
+         </mj-button>
          <mj-text  color="#1c1d1e" padding-top="0px" padding-bottom="4px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="15px"><a href="">Aims and Scope</a> | <a href="">Author Guidelines</a></mj-text>
          <mj-text  color="#1c1d1e" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="15px" color="#717171" font-style="italic;">Published by Wiley | Since 1995</mj-text>
       </mj-column>
