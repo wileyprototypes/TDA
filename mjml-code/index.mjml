@@ -1,0 +1,294 @@
+<mjml>
+<mj-head>
+     <mj-font name="Open Sans"
+       href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" />
+   <mj-style inline="inline">
+    a{
+      color:#005274;
+    }
+
+    a:hover{
+      color: #0092d1!important;
+    }
+    .mobileonly{
+      display:none;
+    }
+
+    .desktoponly{
+      display: block;
+    }
+    @media (max-width:500px){
+      .mobileonly{
+        display:block;
+      }
+
+      .desktoponly{
+        display: none;
+      }
+    }
+   </mj-style>
+   </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section background-color="#eee"  padding="30px" >
+      <mj-column padding="0px">
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px" padding-top="0px" padding-bottom="15px" font-family="Open Sans, Sans-serif" font-size="15px">Hi Demo Participant,</mj-text>
+
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px" padding-top="0px" padding-bottom="15px" font-family="Open Sans, Sans-serif" font-size="15px">Based on analysis of your recent submission, " Predicting the risk of chemotherapy 
+        toxicity in older patients: The Chemotherapy Risk Assessment Scale for High‐Age Patients 
+        (CRASH) score" to CA: A Cancer Journal for Clinicians, we have identified alternate Wiley 
+        journals that could be a good fit for your research. If you are interested in transferring 
+        your manuscript, Wiley's Transfer Desk service can help.</mj-text>
+
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px" padding-top="15px" padding-bottom="15px" font-family="Open Sans, Sans-serif" font-size="15px">How does it work?</mj-text>
+
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px" padding-bottom="0"  padding-top="0px" font-family="Open Sans, Sans-serif" font-size="15px">
+          <ul style="margin-top:0; margin-bottom:0;">
+              <li style="margin-top:7.5px; margin-bottom:7.5px;"><strong>Choose a journal.</strong> Be sure to review the Author Guidelines to check your manuscript fits the journal's scope and requirements. Click "Start your transfer" and confirm your journal selection.</li>
+              <li style="margin-top:7.5px; margin-bottom:7.5px;"><strong>We'll start your submission.</strong> Once confirmed, we will start a new submission on your behalf and transfer your manuscript files and details to your chosen journal. You'll receive confirmation of your choice immediately.</li>
+              <li style="margin-top:7.5px;"><strong>Complete your new submission.</strong> Within 24-48 hours, you will be notified when your new submission is ready to complete. You'll have the opportunity to review and make any required changes at that time. Any completed peer review reports from your previous submission (if available) will be shared with the editorial office.</li>
+          </ul>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="30px" padding-bottom="30px">
+      <mj-column>
+         <mj-text  color="#1c1d1e" padding-top="0" padding-bottom="0" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="15px" font-weight="700">Recommendations for you:</mj-text>
+      </mj-column>
+    </mj-section>
+
+<mj-wrapper border="1px solid #959595" border-bottom="0px solid #000" padding="30px">
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column>
+         <mj-text  color="#1c1d1e" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="21px" font-weight="600"><a href="">Nephrology</a></mj-text>
+         <mj-text  color="#1c1d1e" padding-top="0px" padding-bottom="4px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="15px"><a href="">Aims and Scope</a> | <a href="">Author Guidelines</a></mj-text>
+         <mj-text  color="#1c1d1e" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="15px" color="#717171" font-style="italic;">Published by Wiley | Since 1995</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-button background-color="#005274" color="white" font-family="Open Sans, Sans-serif" font-size="14px" inner-padding="15px 30px" padding-right="0px" padding-top="0px">
+          Start your transfer&nbsp;<img width="16px" src="https://wileyprototypes.github.io/TDA/img/arrow.png" style="position: relative; top:3px;"/>
+         </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column>
+               <mj-text  color="#1c1d1e" padding-top="30px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="15px">Published eight times per year by the Asian Pacific Society of Nephrology, this journal has a special emphasis on the needs of clinical nephrologists and those in developing countries. The journal publishes reviews and papers of international interest describing original research concerned with clinical and experimental aspects of nephrology.
+                </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding-bottom="0">
+      <mj-group width="50%">
+        <mj-column>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px">Impact factor</mj-text>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">2.506</mj-text>
+        </mj-column>
+        <mj-column>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px">SJR <img src="https://wileyprototypes.github.io/TDA/img/info-color.png" width="12px"/></mj-text>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">0.752</mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column>
+          <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px" >H-Index</mj-text>
+          <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">61</mj-text>
+        </mj-column>
+        <mj-column>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px">Acceptance rate</mj-text>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">13.3%</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding-top="0px" padding-bottom="0px">
+    <mj-group width="50%">
+        <mj-column>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px">Publishing options</mj-text>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">Subscription or Open Access  <img src="https://wileyprototypes.github.io/TDA/img/info-color.png" width="12px"/></mj-text>
+        </mj-column>
+        <mj-column>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px">Submission format</mj-text>
+         <mj-text  padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px" color="#27824f">Free Format  <img src="https://wileyprototypes.github.io/TDA/img/info-color.png" width="12px"/></mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column>
+        <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px">Submission to first decision</mj-text>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">12 Days</mj-text>
+        </mj-column>
+        <mj-column>
+        
+        </mj-column>
+      </mj-group>
+    </mj-section>
+</mj-wrapper>
+<mj-wrapper border="1px solid #959595" border-bottom="0px solid #000" padding="30px">
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column>
+         <mj-text  color="#1c1d1e" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="21px" font-weight="600"><a href="">British Journal of Clinical Pharmacology</a></mj-text>
+         <mj-text  color="#1c1d1e" padding-top="0px" padding-bottom="4px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="15px"><a href="">Aims and Scope</a> | <a href="">Author Guidelines</a></mj-text>
+         <mj-text  color="#1c1d1e" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="15px" color="#717171" font-style="italic;">Published by Wiley | Since 1974</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-button background-color="#005274" color="white" font-family="Open Sans, Sans-serif" font-size="14px" inner-padding="15px 30px" padding-right="0px" padding-top="0px">
+          Start your transfer&nbsp;<img width="16px" src="https://wileyprototypes.github.io/TDA/img/arrow.png" style="position: relative; top:3px;"/>
+         </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column>
+               <mj-text  color="#1c1d1e" padding-top="30px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="15px">A leading international clinical pharmacology journal published by the British Pharmacological Society. It bridges the gap between the medical profession, clinical research and the pharmaceutical industry by addressing all aspects of drug action in humans: invited review articles, original papers and correspondence.
+                </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding-bottom="0">
+      <mj-group width="50%">
+        <mj-column>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px">Impact factor</mj-text>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">4.335</mj-text>
+        </mj-column>
+        <mj-column>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px">SJR <img src="https://wileyprototypes.github.io/TDA/img/info-color.png" width="12px"/></mj-text>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">1.216</mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column>
+          <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px" >H-Index</mj-text>
+          <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">146</mj-text>
+        </mj-column>
+        <mj-column>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px">&nbsp;</mj-text>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">&nbsp;</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding-top="0px" padding-bottom="0px">
+    <mj-group width="50%">
+        <mj-column>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px">Publishing options</mj-text>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">Subscription</mj-text>
+        </mj-column>
+        <mj-column>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px">Submission format</mj-text>
+         <mj-text   color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">Reformatting may be required</mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column>
+        <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px">Submission to first decision</mj-text>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">33 Days</mj-text>
+        </mj-column>
+        <mj-column>
+        <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px">Acceptance to publication</mj-text>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">27 Days</mj-text>
+
+        </mj-column>
+      </mj-group>
+    </mj-section>
+</mj-wrapper>
+<mj-wrapper border="1px solid #959595" padding="30px">
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column>
+         <mj-text  color="#1c1d1e" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="21px" font-weight="600"><a href="">Journal of Skin Cancer</a></mj-text>
+         <mj-text  color="#1c1d1e" padding-top="0px" padding-bottom="4px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="15px"><a href="">Aims and Scope</a> | <a href="">Author Guidelines</a></mj-text>
+         <mj-text  color="#1c1d1e" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="15px" color="#717171" font-style="italic;">Published by Wiley | Since 1995</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-button background-color="#005274" color="white" font-family="Open Sans, Sans-serif" font-size="14px" inner-padding="15px 30px" padding-right="0px" padding-top="0px">
+          Start your transfer&nbsp;<img width="16px" src="https://wileyprototypes.github.io/TDA/img/arrow.png" style="position: relative; top:3px;"/>
+         </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column>
+               <mj-text  color="#1c1d1e" padding-top="30px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="15px">An open access journal publishing clinical and translational research on the detection, diagnosis, prevention, and treatment of skin malignanciesSo you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS
+                </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding-bottom="0">
+      <mj-group width="50%">
+        <mj-column>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px">Impact factor</mj-text>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">-</mj-text>
+        </mj-column>
+        <mj-column>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px">SJR <img src="https://wileyprototypes.github.io/TDA/img/info-color.png" width="12px"/></mj-text>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">0.309</mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column>
+          <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px" >H-Index</mj-text>
+          <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">10</mj-text>
+        </mj-column>
+        <mj-column>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px">&nbsp;</mj-text>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">&nbsp;</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding-top="0px" padding-bottom="0px">
+    <mj-group width="50%">
+        <mj-column>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px">Publishing options</mj-text>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">Open Access  <img src="https://wileyprototypes.github.io/TDA/img/info-color.png" width="12px"/></mj-text>
+        </mj-column>
+        <mj-column>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px">Submission format</mj-text>
+         <mj-text  padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px" color="#27824f">Free Format  <img src="https://wileyprototypes.github.io/TDA/img/info-color.png" width="12px"/></mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column>
+        <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" font-weight="700" padding-bottom="0px">&nbsp;</mj-text>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="13px" padding-top="2px">&nbsp;</mj-text>
+        </mj-column>
+        <mj-column>
+        
+        </mj-column>
+      </mj-group>
+    </mj-section>
+</mj-wrapper>
+
+    <mj-section background-color="#eee" padding="30px">
+        <mj-column>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px" padding-top="0" padding-bottom="15px" font-family="Open Sans, Sans-serif" font-size="15px">Still having trouble finding a good fit for your paper?</mj-text>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px" padding-top="0" padding-bottom="0px" font-family="Open Sans, Sans-serif" font-size="15px">
+         <ul style="margin-top:0; margin-bottom:0;">
+              <li style="margin-top:7.5px; margin-bottom:7.5px;"><a href="">Explore Wiley's full collection of journals</a></li>
+              <li style="margin-top:7.5px; margin-bottom:7.5px;"><a href="">Compare journals in your subject area</a></li>
+              <li style="margin-top:7.5px;">Receive 3-5 curated recommendations and a detailed report from subject-matter experts in your field with our <a href="">Journal Recommendation service</a>.</li>
+          </ul>
+          </mj-text>
+        </mj-column>
+    </mj-section>   
+
+    <mj-section>
+        <mj-column>
+         <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px" padding-top="0" font-family="Open Sans, Sans-serif" font-size="15px">Recommendations are made by our journal-matching technology and are not made in consultation with the recommended journals. Our assistance with a transfer will save you time but does not guarantee acceptance. Journals are editorially independent and will assess your manuscript against their own criteria. Please be assured, we will never transfer your manuscript to another journal without your approval.
+</mj-text>
+ <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px" padding-top="0" font-family="Open Sans, Sans-serif" font-size="15px">This e-mail message was sent to participant@gmail.com regarding your submission to this journal. If you wish to stop receiving offers:<br/>
+<a href="">Click here</a> to stop receiving reminders to transfer this manuscript<br/>
+<a href="">Click here</a> to stop receiving future transfer offers for all submissions</mj-text>
+        </mj-column>
+    </mj-section>  
+    <mj-section>
+        <mj-column>
+   
+    <mj-image width="141px" src=" https://wileyprototypes.github.io/TDA/img/wiley.png" />
+     <mj-text  color="#1c1d1e" line-height="18px" padding-left="0px" padding-right="0px" padding-top="0" align="center" font-family="Open Sans, Sans-serif" font-size="15px">This Message was sent to participant@gmail.com by John Wiley & Sons, Inc.<br/>
+111 River Street | Hoboken, NJ 07030-5774 USA | +1 877 762 2974<br/>
+We respect your privacy. <a href="">See our privacy policy</a><br/>
+<a href="">About Wiley</a> • <a href="">Contact the Wiley Transfer Desk</a></mj-text>
+ <mj-text  color="#1c1d1e" padding-left="0px" padding-right="0px" padding-top="0" align="center" font-family="Open Sans, Sans-serif" font-size="15px">© John Wiley & Sons, Inc All rights reserved.</mj-text>
+      </mj-column>
+    </mj-section>  
+
+  </mj-body>
+</mjml>
