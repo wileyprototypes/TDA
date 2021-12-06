@@ -48,7 +48,7 @@
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px" padding-top="15px" padding-bottom="15px" font-family="Open Sans, Sans-serif" font-size="14px">How does it work?</mj-text>
 
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px" padding-bottom="0"  padding-top="0px" font-family="Open Sans, Sans-serif" font-size="14px">
-          <ul style="margin-top:0px; margin-bottom:0px;">
+          <ul style="margin-top:0px; margin-bottom:0px; padding-left:20px">
               <li style="margin-top:0px; margin-bottom:7.5px;"><strong>Choose a journal.</strong> Be sure to review the Author Guidelines to check your manuscript fits the journal's scope and requirements. Click "Start your transfer" and confirm your journal selection.</li>
               <li style="margin-top:7.5px; margin-bottom:7.5px;"><strong>We'll start your submission.</strong> Once confirmed, we will start a new submission on your behalf and transfer your manuscript files and details to your chosen journal. You'll receive confirmation of your choice immediately.</li>
               <li style="margin-top:7.5px;"><strong>Complete your new submission.</strong> Within 24-48 hours, you will be notified when your new submission is ready to complete. You'll have the opportunity to review and make any required changes at that time. Any completed peer review reports from your previous submission (if available) will be shared with the editorial office.</li>
@@ -322,7 +322,7 @@
         <mj-column>
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px" padding-top="0" padding-bottom="15px" font-family="Open Sans, Sans-serif" font-size="14px">Still having trouble finding a good fit for your paper?</mj-text>
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px" padding-top="0" padding-bottom="0px" font-family="Open Sans, Sans-serif" font-size="14px">
-         <ul style="margin-top:0; margin-bottom:0;">
+         <ul style="margin-top:0; margin-bottom:0;  padding-left:20px">
               <li style="margin-top:7.5px; margin-bottom:7.5px;"><a href="">Explore Wiley's full collection of journals</a></li>
               <li style="margin-top:7.5px; margin-bottom:7.5px;"><a href="">Compare journals in your subject area</a></li>
               <li style="margin-top:7.5px;">Receive 3-5 curated recommendations and a detailed report from subject-matter experts in your field with our <a href="">Journal Recommendation service</a>.</li>
