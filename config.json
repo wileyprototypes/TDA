@@ -16,6 +16,7 @@ config={
                     "links":{
                         "homepage":"https://onlinelibrary.wiley.com/journal/14401797",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/14401797/homepage/productinformation.html",
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/14401797/homepage/productinformation.html",
                         "guidelines":"https://onlinelibrary.wiley.com/page/journal/14401797/homepage/forauthors.html"
                     },
                     "publishingBrand":"Wiley",
