@@ -4,7 +4,6 @@
        href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" />
    <mj-style>
     a{
-      color:#005274;
     }
 
     a:hover{
@@ -67,11 +66,11 @@
 <mj-wrapper border="1px solid #cccccc" border-bottom="0px solid #000" padding="30px">
     <mj-section css-class="mobileonly" padding-top="0" padding-bottom="0">
       <mj-column>
-         <mj-text line-height="19px"  color="#1c1d1e"  padding-top="0" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="21px" font-weight="600"><a href="">Nephrology</a></mj-text>
+         <mj-text line-height="19px"  color="#005274"  padding-top="0" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="21px" font-weight="600"><a href="" style="color:#005274; text-decoration:underline;">Nephrology</a></mj-text>
         </mj-column>
 
       <mj-column>
-         <mj-text line-height="19px"  color="#1c1d1e" padding-top="0px" padding-bottom="4px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px"><a href="">Aims and Scope</a> | <a href="">Author Guidelines</a></mj-text>
+         <mj-text line-height="19px"  color="#005274" padding-top="0px" padding-bottom="4px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px"><a href="" style="color:#005274; text-decoration:underline;">Aims and Scope</a> | <a href="" style="color:#005274; text-decoration:underline;">Author Guidelines</a></mj-text>
          <mj-text line-height="19px"  color="#1c1d1e" padding-top="0px" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px" color="#717171" font-style="italic;">Published by Wiley | Since 1995</mj-text>
       </mj-column>
       <mj-column>
@@ -82,8 +81,8 @@
     </mj-section>
     <mj-section css-class="desktoponly" padding-top="0" padding-bottom="0">
       <mj-column>
-         <mj-text line-height="19px"  color="#1c1d1e" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="21px" font-weight="600"  padding-top="0"><a href="">Nephrology</a></mj-text>
-         <mj-text line-height="19px"  color="#1c1d1e" padding-top="0px" padding-bottom="4px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px"><a href="">Aims and Scope</a> | <a href="">Author Guidelines</a></mj-text>
+         <mj-text line-height="19px"  color="#005274" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="21px" font-weight="600"  padding-top="0"><a href="" style="color:#005274; text-decoration:underline;">Nephrology</a></mj-text>
+         <mj-text line-height="19px"  color="#005274" padding-top="0px" padding-bottom="4px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px"><a href="" style="color:#005274; text-decoration:underline;">Aims and Scope</a> | <a href="" style="color:#005274; text-decoration:underline;">Author Guidelines</a></mj-text>
          <mj-text line-height="19px"  color="#1c1d1e" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px" color="#717171" font-style="italic;">Published by Wiley | Since 1995</mj-text>
       </mj-column>
       <mj-column>
@@ -152,11 +151,11 @@
 <mj-wrapper border="1px solid #cccccc" border-bottom="0px solid #000" padding="30px">
     <mj-section css-class="mobileonly" padding-top="0" padding-bottom="0">
       <mj-column>
-         <mj-text line-height="21px"  color="#1c1d1e" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="21px" font-weight="600" padding-top="0px"><a href="">British Journal of Clinical Pharmacology</a></mj-text>
+         <mj-text line-height="21px"  color="#005274" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="21px" font-weight="600" padding-top="0px"><a href="" style="color:#005274; text-decoration:underline;">British Journal of Clinical Pharmacology</a></mj-text>
         </mj-column>
 
       <mj-column>
-         <mj-text line-height="19px"  color="#1c1d1e" padding-top="0px" padding-bottom="4px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px"><a href="">Aims and Scope</a> | <a href="">Author Guidelines</a></mj-text>
+         <mj-text line-height="19px"  color="#005274" padding-top="0px" padding-bottom="4px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px"><a href="" style="color:#005274; text-decoration:underline;">Aims and Scope</a> | <a href="" style="color:#005274; text-decoration:underline;">Author Guidelines</a></mj-text>
          <mj-text line-height="19px"  color="#1c1d1e" padding-top="0px" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px" color="#717171" font-style="italic;">Published by Wiley | Since 1974</mj-text>
       </mj-column>
       <mj-column>
@@ -167,8 +166,8 @@
     </mj-section>
     <mj-section css-class="desktoponly" padding-top="0" padding-bottom="0">
       <mj-column>
-         <mj-text line-height="21px"  color="#1c1d1e" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="21px" font-weight="600" padding-top="0px"><a href="">British Journal of Clinical Pharmacology</a></mj-text>
-         <mj-text line-height="19px"  color="#1c1d1e" padding-top="0px" padding-bottom="4px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px"><a href="">Aims and Scope</a> | <a href="">Author Guidelines</a></mj-text>
+         <mj-text line-height="21px"  color="#005274" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="21px" font-weight="600" padding-top="0px"><a href="" style="color:#005274; text-decoration:underline;">British Journal of Clinical Pharmacology</a></mj-text>
+         <mj-text line-height="19px"  color="#005274" padding-top="0px" padding-bottom="4px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px"><a href="" style="color:#005274; text-decoration:underline;">Aims and Scope</a> | <a href="" style="color:#005274; text-decoration:underline;">Author Guidelines</a></mj-text>
          <mj-text line-height="19px"  color="#1c1d1e" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px" color="#717171" font-style="italic;">Published by Wiley | Since 1974</mj-text>
       </mj-column>
       <mj-column>
@@ -240,14 +239,14 @@
   <mj-section css-class="mobileonly" padding-top="0" padding-bottom="0">
       <mj-column>
       
-        <mj-text line-height="19px"  color="#1c1d1e" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="21px" font-weight="600" padding-top="0px"><a href="">Journal of Skin Cancer</a></mj-text>
+        <mj-text line-height="19px"  color="#005274" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="21px" font-weight="600" padding-top="0px"><a href="" style="color:#005274; text-decoration: underline;">Journal of Skin Cancer Journal of Skin Cancer</a></mj-text>
         <mj-button align="left" background-color="#611d69" color="white" font-family="Open Sans, Sans-serif" font-size="14px" inner-padding="5px 15px" border-radius="20px" padding-left="0" padding-right="0px" padding-top="0px">
             <img width="16px" src="https://wileyprototypes.github.io/TDA/img/lock.png" style="position: relative; top:3px; margin-right:15px;"/>Open Access
          </mj-button>
       </mj-column>
 
       <mj-column>
-         <mj-text line-height="19px"  color="#1c1d1e" padding-top="0px" padding-bottom="4px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px"><a href="">Aims and Scope</a> | <a href="">Author Guidelines</a></mj-text>
+         <mj-text line-height="19px"  color="#005274" padding-top="0px" padding-bottom="4px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px"><a href="" style="color:#005274; text-decoration: underline;">Aims and Scope</a> | <a href="" style="color:#005274; text-decoration: underline;">Author Guidelines</a></mj-text>
          <mj-text line-height="19px"  color="#1c1d1e" padding-top="0px" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px" color="#717171" font-style="italic;">Published by Wiley | Since 1995</mj-text>
       </mj-column>
       <mj-column>
@@ -258,11 +257,11 @@
     </mj-section>
     <mj-section css-class="desktoponly" padding-top="0" padding-bottom="0">
       <mj-column>
-         <mj-text line-height="19px"  color="#1c1d1e" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="21px" font-weight="600" padding-top="0px"><a href="">Journal of Skin Cancer</a></mj-text>
+         <mj-text line-height="19px"  color="#005274" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="21px" font-weight="600" padding-top="0px"><a href="" style="color:#005274; text-decoration: underline;">Journal of Skin Cancer of of Journal of Skin Cancer</a></mj-text>
           <mj-button align="left" background-color="#611d69" color="white" font-family="Open Sans, Sans-serif" font-size="14px" inner-padding="5px 15px" border-radius="20px" padding-left="0" padding-right="0px" padding-top="0px">
             <img width="16px" src="https://wileyprototypes.github.io/TDA/img/lock.png" style="position: relative; top:3px; margin-right:15px;"/>Open Access
          </mj-button>
-         <mj-text line-height="19px"  color="#1c1d1e" padding-top="0px" padding-bottom="4px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px"><a href="">Aims and Scope</a> | <a href="">Author Guidelines</a></mj-text>
+         <mj-text line-height="19px"  color="#005274" padding-top="0px" padding-bottom="4px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px"><a href="" style="color:#005274; text-decoration: underline;">Aims and Scope</a> | <a href="" style="color:#005274; text-decoration: underline;">Author Guidelines</a></mj-text>
          <mj-text line-height="19px"  color="#1c1d1e" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px" color="#717171" font-style="italic;">Published by Wiley | Since 1995</mj-text>
       </mj-column>
       <mj-column>
@@ -323,9 +322,9 @@
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px" padding-top="0" padding-bottom="15px" font-family="Open Sans, Sans-serif" font-size="14px">Still having trouble finding a good fit for your paper?</mj-text>
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px" padding-top="0" padding-bottom="0px" font-family="Open Sans, Sans-serif" font-size="14px">
          <ul style="margin-top:0; margin-bottom:0;  padding-left:20px">
-              <li style="margin-top:7.5px; margin-bottom:7.5px;"><a href="">Explore Wiley's full collection of journals</a></li>
-              <li style="margin-top:7.5px; margin-bottom:7.5px;"><a href="">Compare journals in your subject area</a></li>
-              <li style="margin-top:7.5px;">Receive 3-5 curated recommendations and a detailed report from subject-matter experts in your field with our <a href="">Journal Recommendation service</a>.</li>
+              <li style="margin-top:7.5px; margin-bottom:7.5px;"><a href="" style="color:#005274; text-decoration: underline;">Explore Wiley's full collection of journals</a></li>
+              <li style="margin-top:7.5px; margin-bottom:7.5px;"><a href="" style="color:#005274; text-decoration: underline;">Compare journals in your subject area</a></li>
+              <li style="margin-top:7.5px;">Receive 3-5 curated recommendations and a detailed report from subject-matter experts in your field with our <a href="" style="color:#005274; text-decoration: underline;">Journal Recommendation service</a>.</li>
           </ul>
           </mj-text>
         </mj-column>
@@ -336,8 +335,8 @@
          <mj-text css-class="paddingleft" line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px" padding-top="15px" font-family="Open Sans, Sans-serif" font-size="14px">Recommendations are made by our journal-matching technology and are not made in consultation with the recommended journals. Our assistance with a transfer will save you time but does not guarantee acceptance. Journals are editorially independent and will assess your manuscript against their own criteria. Please be assured, we will never transfer your manuscript to another journal without your approval.
         </mj-text>
         <mj-text css-class="paddingleft" line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px" padding-top="15px" font-family="Open Sans, Sans-serif" font-size="14px">This e-mail message was sent to participant@gmail.com regarding your submission to this journal. If you wish to stop receiving offers:<br/>
-        <a href="">Click here</a> to stop receiving reminders to transfer this manuscript<br/>
-        <a href="">Click here</a> to stop receiving future transfer offers for all submissions</mj-text>
+        <a href="" style="color:#005274; text-decoration: underline;">Click here</a> to stop receiving reminders to transfer this manuscript<br/>
+        <a href="" style="color:#005274; text-decoration: underline;">Click here</a> to stop receiving future transfer offers for all submissions</mj-text>
         </mj-column>
     </mj-section>  
     <mj-section>
@@ -346,8 +345,8 @@
     <mj-image padding-bottom="30px" width="141px" src=" https://wileyprototypes.github.io/TDA/img/wiley.png" />
      <mj-text css-class="paddingleft" line-height="19px"  color="#1c1d1e" line-height="18px" padding-left="0px" padding-right="0px" padding-top="0" align="center" font-family="Open Sans, Sans-serif" font-size="14px">This Message was sent to participant@gmail.com by John Wiley & Sons, Inc.<br/>
 111 River Street | Hoboken, NJ 07030-5774 USA | +1 877 762 2974<br/>
-We respect your privacy. <a href="">See our privacy policy</a><br/>
-<a href="">About Wiley</a> • <a href="">Contact the Wiley Transfer Desk</a></mj-text>
+We respect your privacy. <a href="" style="color:#005274; text-decoration: underline;">See our privacy policy</a><br/>
+<a href="" style="color:#005274; text-decoration: underline;">About Wiley</a> • <a href="" style="color:#005274; text-decoration: underline;">Contact the Wiley Transfer Desk</a></mj-text>
  <mj-text css-class="paddingleft" line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px" padding-top="15px" align="center" font-family="Open Sans, Sans-serif" font-size="14px">© John Wiley & Sons, Inc All rights reserved.</mj-text>
       </mj-column>
     </mj-section>  
