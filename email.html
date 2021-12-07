@@ -96,10 +96,15 @@
                             <div>{{#if this.metrics.impact}}<span>Impact factor</span> <span>{{this.metrics.impact}}</span>  {{/if}}</div>
                             <div>{{#if this.oa}}<span>Publishing options</span> <span class="maxlimit">{{this.oa}}
                                 {{#if_eq this.oa 'Subscription or Open Access'}}
-                                <span class="icon"><img src="img/info-color.png"/></span>
+                                <a href="{{this.links.oa}}" target="_blank">
+                                    <span class="icon"><img src="img/info-color.png"/></span>
+                                </a>
+
                                 {{/if_eq}}
                                 {{#if_eq this.oa 'Open Access'}}
-                                <span class="icon"><img src="img/info-color.png"/></span>
+                                <a href="{{this.links.oa}}" target="_blank">
+                                    <span class="icon"><img src="img/info-color.png"/></span>
+                                </a>
                                 {{/if_eq}}
                             </span>  {{/if}}</div>
                         </div>
