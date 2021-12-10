@@ -4,6 +4,406 @@ config={
     "authorEmail":"author@gmail.com",
     "tests":[
         {
+            "participantid":"test@gmail.com",
+            "MSID":"1231455",
+            "manuscriptTitle":"Effect of integrated weed control methods on weed and maize (Zea mays L.) growth and yield in Kunar, Afghanistan",
+            "feederJournal":"ABC",
+            "authorName":"Test User",
+            "authorEmail":"test@gmail.com",
+            "results":[
+                {
+                    
+                    "journalTitle":"Weed Research",
+                    "issns":"00431737,00431737,13653180",
+                    "journalCode": "WRE",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/13653180",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/13653180/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/13653180/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+                    },
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2003",
+                    "description":"An international peer-reviewed journal that publishes topical and innovative papers on\u00a0all aspects of weeds, defined as plants that impact adversely on economic, aesthetic or environmental aspects of any system.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"2.424", 
+                        "SJR":"0.693",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"74",
+                        "submissionToFirstDecision":"37",
+                        "acceptanceToPublication":"30",
+                        "acceptanceRate":"18.8%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Crop Science",
+                    "issns":"14350653,14350653,0011183X",
+                    "journalCode": "CSC2",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/14350653",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/14350653/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14350653/homepage/forauthors.html",
+                        "oa": "https://onlinelibrary.wiley.com/hub/journal/14350653/openaccess"
+                    },
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2020",
+                    "description":"Crop Science, the flagship publication of CSSA, is a top international journal in the fields of crop breeding and genetics, crop physiology, and crop production and is a critical outlet for articles describing plant germplasm collections and their use.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"2.319", 
+                        "SJR":"0.760",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"147",
+                        "submissionToFirstDecision":"23",
+                        "acceptanceToPublication":"62",
+                        "acceptanceRate":"29.4%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Applied and Environmental Soil Science",
+                    "issns":"16877667, 16877675,16877667",
+                    "journalCode": "EBAC26585",
+                    "links": {
+                        "homepage": "https://www.hindawi.com/journals/aess/",
+                        "aims": "https://www.hindawi.com/journals/aess/about/",
+                        "guidelines": "https://www.hindawi.com/journals/aess/guidelines/",
+                        "oa": "https://www.hindawi.com/journals/aess/apc/"
+                    },
+                    "publishingBrand":"Hindawi, A Wiley Brand",
+                    "publishedSince":" ",
+                    "description":"An open access journal publishing research and review articles in the field of soil science, reflecting the discipline\u0027s multidisciplinary nature, especially the dynamics \u0026 spatial heterogeneity of processes in soil. Published by Hindawi, a Wiley brand. So you don\u0027t have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS.",
+                    "oa":"Open Access", 
+                    "formatFree":"TRUE",
+                    "metrics":{ 
+                        "impact":"", 
+                        "SJR":"0.431",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"23",
+                        "submissionToFirstDecision":"93",
+                        "acceptanceToPublication":"48",
+                        "acceptanceRate":"22.0%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Agricultural and Forest Entomology",
+                    "issns":"14619555,14619555,14619563",
+                    "journalCode": "AFE",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/14619563",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/14619563/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14619563/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1999",
+                    "description":"Provides a multi-disciplinary and international forum in which researchers can present their work on all aspects of agricultural and forest entomology to other researchers, policy makers and professionals.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"2.509", 
+                        "SJR":"0.755",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"55",
+                        "submissionToFirstDecision":"26",
+                        "acceptanceToPublication":"17",
+                        "acceptanceRate":"25.8%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Starch",
+                    "issns":"1521379X",
+                    "journalCode": "2041",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/1521379X",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/1521379X/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/1521379X/homepage/forauthors.html",
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/1521379x/homepage/2041_onlineopen.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":" ",
+                    "description":"The premier point of reference for modern starch and non-starch carbohydrate related research and knowledge, having evolved from a focus on traditional processing of starches and their industrial applications.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"2.741", 
+                        "SJR":"0.620",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"82",
+                        "submissionToFirstDecision":"",
+                        "acceptanceToPublication":"",
+                        "acceptanceRate":"59.1%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Annals of Applied Biology",
+                    "issns":"00034746,17447348,00034746",
+                    "journalCode": "AAB",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/17447348",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/17447348/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/17447348/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2003",
+                    "description":"Publishes original research papers on all aspects of applied research on crop production, crop protection and the cropping ecosystem, integrated pest management, animal health and welfare, including the interaction with both wildlife and farmland animals and birds.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"2.75", 
+                        "SJR":"0.677",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"80",
+                        "submissionToFirstDecision":"22",
+                        "acceptanceToPublication":"25",
+                        "acceptanceRate":"17.9%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Austral Entomology",
+                    "issns":"2052174X,2052174X,20521758",
+                    "journalCode": "AEN",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/20521758",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/20521758/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/20521758/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1998",
+                    "description":"This journal is a scientific journal of entomology for the Southern Hemisphere.  It publishes Original Articles that are peer-reviewed research papers from the study of the behaviour, biology, biosystematics, conservation biology, ecology, evolution, forensic and medical entomology, molecular biology, public health, urban entomology, physiology and the use and control of insects, arachnids and myriapods.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"1.667", 
+                        "SJR":"0.502",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"39",
+                        "submissionToFirstDecision":"26",
+                        "acceptanceToPublication":"34",
+                        "acceptanceRate":"27.1%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Journal of Agronomy and Crop Science",
+                    "issns":"09312250,1439037X,09312250",
+                    "journalCode": "JAC",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/1439037x",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/1439037x/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/1439037x/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2004",
+                    "description":"Publishes original papers and reviews on the general and special science of abiotic plant stress. Specific topics include:\u00a0drought, including water-use efficiency, such as\u00a0salinity,\u00a0alkaline and acidic stress, extreme temperatures since\u00a0heat,\u00a0cold and chilling stress\u00a0limit the cultivation of crops,\u00a0flooding and oxidative stress, and means of restricting them. In this context, stress refers to extreme conditions under which crops and forages grow.\u00a0",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"3.473", 
+                        "SJR":"1.095",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"74",
+                        "submissionToFirstDecision":"23",
+                        "acceptanceToPublication":"33",
+                        "acceptanceRate":"19.5%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"International Journal of Agronomy",
+                    "issns":"16878159, 16878167,16878159",
+                    "journalCode": "EBAC32976",
+                    "links": {
+                        "homepage": "https://www.hindawi.com/journals/ija/",
+                        "aims": "https://www.hindawi.com/journals/ija/about/",
+                        "guidelines": "https://www.hindawi.com/journals/ija/guidelines/",
+                        "oa": "https://www.hindawi.com/journals/ija/apc/"
+					},
+                    "publishingBrand":"Hindawi, A Wiley Brand",
+                    "publishedSince":null,
+                    "description":"An open access journal focusing on crop production and management, crop science and physiology, crop disease and protection, and agroclimatology and soil science. Research and review articles considered. Published by Hindawi, a Wiley brand. So you don\u0027t have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS.",
+                    "oa":"Open Access", 
+                    "formatFree":"TRUE",
+                    "metrics":{ 
+                        "impact":"", 
+                        "SJR":"0.493",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"16",
+                        "submissionToFirstDecision":"61",
+                        "acceptanceToPublication":"41",
+                        "acceptanceRate":"23.0%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Journal of Food Biochemistry",
+                    "issns":"01458884,17454514,01458884",
+                    "journalCode": "JFBC",
+                    "links": {
+                        "homepage": " ",
+                        "aims": " ",
+                        "guidelines": " ",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2005",
+                    "description":"No description available",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"2.72", 
+                        "SJR":"0.507",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"47",
+                        "submissionToFirstDecision":"17",
+                        "acceptanceToPublication":"19",
+                        "acceptanceRate":"27.4%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Journal of Systematics and Evolution",
+                    "issns":"16744918,17596831,16744918",
+                    "journalCode": "JSE",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/17596831",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/17596831/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/17596831/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2009",
+                    "description":"A plant-based international journal newly dedicated to the description and understanding of the biological diversity. It covers: description of new taxa, monographic revision, phylogenetics, molecular evolution and genome evolution, evolutionary developmental biology, evolutionary ecology, population biology, conservation biology, biogeography, paleobiology, evolutionary theories, and related subjects.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"4.098", 
+                        "SJR":"1.249",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"46",
+                        "submissionToFirstDecision":"37",
+                        "acceptanceToPublication":"65",
+                        "acceptanceRate":"57.7%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Ecological Research",
+                    "issns":"09123814,14401703,09123814",
+                    "journalCode": "ERE",
+                    "links": {
+                        "homepage": "https://esj-journals.onlinelibrary.wiley.com/journal/14401703",
+                        "aims": "https://esj-journals.onlinelibrary.wiley.com/hub/journal/14401703/productinformation.html",
+                        "guidelines": "https://esj-journals.onlinelibrary.wiley.com/hub/journal/14401703/forauthors.html",
+                        "oa": "https://onlinelibrary.wiley.com/hub/journal/14401703/homepage/open-access"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2019",
+                    "description":"The official English language journal of The Ecological Society of Japan launched in 1986. The journal publishes original research papers, reviews, technical reports, notes and comments, and data papers covering all aspects of ecology and ecological sciences.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"1.917", 
+                        "SJR":"0.628",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"68",
+                        "submissionToFirstDecision":"36",
+                        "acceptanceToPublication":"22",
+                        "acceptanceRate":"34.7%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Agronomy Journal",
+                    "issns":"14350645,00021962,14350645",
+                    "journalCode": "AGJ2",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/14350645",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/14350645/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14350645/homepage/forauthors.html",
+                        "oa": "https://onlinelibrary.wiley.com/hub/journal/14350645/openaccess"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2020",
+                    "description":"Agronomy Journal is the flagship journal of ASA. Articles convey original research in agriculture, natural resources, soil science, crop science, agroclimatology, agronomic modeling, production agriculture, and instrumentation.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"2.24", 
+                        "SJR":"0.752",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"131",
+                        "submissionToFirstDecision":"37",
+                        "acceptanceToPublication":"58",
+                        "acceptanceRate":"34.7%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Plant Breeding",
+                    "issns":"01799541,14390523,01799541",
+                    "journalCode": "PBR",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/14390523",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/14390523/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14390523/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2003",
+                    "description":"Publishes full-length original manuscripts and review articles by internationally recognized scientists, covering all areas of plant breeding, including plant genetics, plant physiology, plant pathology, and plant development. The journal focuses on crop plants and is therefore of interest to seed companies and the plant breeding industry as well as to researchers and teachers in this field.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"1.832", 
+                        "SJR":"0.583",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"71",
+                        "submissionToFirstDecision":"22",
+                        "acceptanceToPublication":"40",
+                        "acceptanceRate":"21.1%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Grassland Science",
+                    "issns":"17446961,1744697X,17446961",
+                    "journalCode": "GRS",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/1744697X",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/1744697X/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/1744697X/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2005",
+                    "description":"The official English language journal of the Japanese Society of Grassland Science. Publishes original research papers, review articles and short reports in all aspects of grassland science, with an aim of presenting and sharing knowledge, ideas and philosophies on better management and use of grasslands, forage crops and turf plants for both agricultural and non-agricultural purposes across the world.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"1.65", 
+                        "SJR":"0.388",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"19",
+                        "submissionToFirstDecision":"48",
+                        "acceptanceToPublication":"58",
+                        "acceptanceRate":"39.1%"
+                    }
+                }
+            ]
+        },    
+        {
             "participantid":"participant@gmail.com",
             "MSID":"1231455",
             "manuscriptTitle":" Predicting the risk of chemotherapy toxicity in older patients: The Chemotherapy Risk Assessment Scale for High‐Age Patients (CRASH) score",
@@ -287,6 +687,866 @@ config={
                     }           
                 }
             ]
+        },
+        {
+            "participantid":"yanleykin@gmail.com",
+            "MSID":"12345",
+            "manuscriptTitle":"Self-harm behaviors and their intentions: a cross-cultural analysis",
+            "feederJournal":"Acta Psychiatrica Scandinavica",
+            "authorName":"Yan Leykin",
+            "authorEmail":"yanleykin@gmail.com",
+            "results":[
+                {
+                    
+                    "journalTitle":"Child Development",
+                    "issns":"00093920,14678624,00093920",
+                    "journalCode": "CDEV",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/14678624",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/14678624/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14678624/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1999",
+                    "description":"As the flagship journal of the Society for Research in Child Development (SRCD), Child Development has published articles, essays, reviews, and tutorials on various topics in the field of child development since 1930.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"5.899", 
+                        "SJR":"3.103",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"257",
+                        "submissionToFirstDecision":"40",
+                        "acceptanceToPublication":"32",
+                        "acceptanceRate":"16.1%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"International Journal of Psychology",
+                    "issns":"00207594,1464066X,00207594",
+                    "journalCode": "IJOP",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/1464066X",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/1464066X/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/1464066X/homepage/forauthors.html",
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/1464066x/homepage/publishopenaccess.htm"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2014",
+                    "description":"Advances psychological research of interest and relevance for the human condition around the world and serves as the outlet for internationally relevant basic and applied research in scientific psychology. Contributions are encouraged from all fields of psychology, especially those that address new developments and pursue innovative approaches.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"2", 
+                        "SJR":"0.750",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"62",
+                        "submissionToFirstDecision":"39",
+                        "acceptanceToPublication":"22",
+                        "acceptanceRate":"14.4%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Suicide and Life-Threatening Behavior",
+                    "issns":"03630234,03630234,1943278X",
+                    "journalCode": "SLTB",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/1943278X",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/1943278X/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/1943278X/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2011",
+                    "description":"The journal keeps professionals abreast of the latest research, theories, and intervention approaches for suicide and life-threatening behaviors. The journal publishes scientific research on suicidal and other life-threatening behaviors, including research from biological, psychological, and sociological approaches.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"", 
+                        "SJR":"1.544",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"90",
+                        "submissionToFirstDecision":"23",
+                        "acceptanceToPublication":"24",
+                        "acceptanceRate":"18.8%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Journal of Environmental and Public Health",
+                    "issns":"16879805, 16879813,16879805",
+                    "journalCode": "EBAC27175",
+                    "links": {
+                        "homepage": "https://www.hindawi.com/journals/jeph/",
+                        "aims": "https://www.hindawi.com/journals/jeph/about/",
+                        "guidelines": "https://www.hindawi.com/journals/jeph/guidelines/",
+                        "oa": "https://www.hindawi.com/journals/jeph/apc/"
+					},
+                    "publishingBrand":"Hindawi, A Wiley Brand",
+                    "publishedSince":"",
+                    "description":"An open access journal publishing research covering all population-wide health issues. The journal serves the public health community: epidemiologists, clinicians, toxicologists, governmental agencies, policy makers, and NGOs. ",
+                    "oa":"Open Access", 
+                    "formatFree":"TRUE",
+                    "metrics":{ 
+                        "impact":"", 
+                        "SJR":"0.869",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"35",
+                        "submissionToFirstDecision":"73",
+                        "acceptanceToPublication":"32",
+                        "acceptanceRate":"22%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Aggressive Behavior",
+                    "issns":"0096140X,10982337,0096140X",
+                    "journalCode": "AB",
+                    "links": {
+                        "homepage": " ",
+                        "aims": " ",
+                        "guidelines": " ",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1975",
+                    "description":"No description available",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"2.917", 
+                        "SJR":"1.223",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"92",
+                        "submissionToFirstDecision":"38",
+                        "acceptanceToPublication":"19",
+                        "acceptanceRate":"24.2%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"European Journal of Social Psychology",
+                    "issns":"00462772,10990992,00462772",
+                    "journalCode": "EJSP",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/10990992",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/10990992/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/10990992/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1971",
+                    "description":"Encourages submissions that provide a significant contribution to the understanding of social psychological phenomena and are based on empirical, meta-analytical or theoretical research. Methodological contributions to social psychology are also welcome.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"TRUE",
+                    "metrics":{ 
+                        "impact":"3.376", 
+                        "SJR":"1.609",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"111",
+                        "submissionToFirstDecision":"39",
+                        "acceptanceToPublication":"81",
+                        "acceptanceRate":"14.8%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Journal of Research on Adolescence",
+                    "issns":"10508392,10508392,15327795",
+                    "journalCode": "JORA",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/15327795",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/15327795/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/15327795/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2001",
+                    "description":"Seeks to publish innovative and rigorous research that advances understanding of adolescent development. The journal considers manuscripts from the wide range of topics relevant to adolescent development, using rigorous quantitative or qualitative methodologies. ",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"3.26", 
+                        "SJR":"1.342",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"95",
+                        "submissionToFirstDecision":"31",
+                        "acceptanceToPublication":"32",
+                        "acceptanceRate":"12.8%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Scandinavian Journal of Psychology",
+                    "issns":"00365564,14679450,00365564",
+                    "journalCode": "SJOP",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/14679450",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/14679450/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14679450/homepage/forauthors.html",
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/14679450/homepage/publishopenaccess.htm"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1997",
+                    "description":"Publishes high-quality manuscripts covering most areas of psychology and the interface of psychology with other areas such as behavioral sciences. Sought are submissions covering experimental, applied and clinical psychology with implications for psychological theory, research, and practice.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"2.343", 
+                        "SJR":"0.743",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"72",
+                        "submissionToFirstDecision":"54",
+                        "acceptanceToPublication":"34",
+                        "acceptanceRate":"25.9%"
+                    }
+                }
+            ]
+        },
+        {
+            "participantid":"gabrielincoomghana@gmail.com",
+            "MSID":"12345",
+            "manuscriptTitle":"Correlates of child labour in Ghana: Evidence from Ghana living standard survey round six",
+            "feederJournal":"African Development Review",
+            "authorName":"Gabriel Incoom",
+            "authorEmail":"gabrielincoomghana@gmail.com",
+            "results":[
+                {
+                    
+                    "journalTitle":"International Journal of Health Planning and Management",
+                    "issns":"07496753,07496753,10991751",
+                    "journalCode": "HPM",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/10991751",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/10991751/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/10991751/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1986",
+                    "description":"A forum for publications which direct attention to major issues in health policy, planning and management. The intention is to maintain a balance between theory and practice, from a variety of disciplines, fields and perspectives. The Journal is explicitly international and multidisciplinary in scope and appeal: articles about policy, planning and management in countries at various stages of political, social, cultural and economic development are welcomed, as are those directed at the different levels (national, regional, local) of the health sector. ",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"1.517", 
+                        "SJR":"0.672",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"41",
+                        "submissionToFirstDecision":"17",
+                        "acceptanceToPublication":"21",
+                        "acceptanceRate":"21.7%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Development and Change",
+                    "issns":"0012155X,14677660,0012155X",
+                    "journalCode": "DECH",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/14677660",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/14677660/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14677660/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1994",
+                    "description":"Truly interdisciplinary in character, D\u0026C includes contributions from all the social sciences and all intellectual persuasions concerned with development with a history of publishing unconventional and challenging articles.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"2.92", 
+                        "SJR":"1.267",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"93",
+                        "submissionToFirstDecision":"33",
+                        "acceptanceToPublication":"33",
+                        "acceptanceRate":"17.9%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"International Journal of Social Welfare",
+                    "issns":"13696866,14682397,13696866",
+                    "journalCode": "IJSW",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/14682397",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/14682397/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14682397/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1998",
+                    "description":"Publishes original articles in English on social welfare and social work that focus on migration, economy, policy, health, gender, age, class, mental health. Its interdisciplinary approach and comparative perspective promote examination of the most pressing social welfare issues of the day by researchers from the various branches of the applied social sciences.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"1.957", 
+                        "SJR":"0.664",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"47",
+                        "submissionToFirstDecision":"28",
+                        "acceptanceToPublication":"29",
+                        "acceptanceRate":"22.4%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Review of Development Economics",
+                    "issns":"13636669,14679361,13636669",
+                    "journalCode": "RODE",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/14679361",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/14679361/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14679361/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1997",
+                    "description":"Publishing rigorous analytical papers, theoretical and empirical, which deal with contemporary growth problems of developing countries, including the transition economies. The journal not only serves as a link between theorists and practitioners, but also builds a bridge between development economists and their colleagues in related fields.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"1.17", 
+                        "SJR":"0.531",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"50",
+                        "submissionToFirstDecision":"21",
+                        "acceptanceToPublication":"30",
+                        "acceptanceRate":"17.2%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Biomed Research International",
+                    "issns":"23146141, 23146133,23146141",
+                    "journalCode": "EBAC29669",
+                    "links": {
+                        "homepage": "https://www.hindawi.com/journals/bmri/",
+                        "aims": "https://www.hindawi.com/journals/bmri/about/",
+                        "guidelines": "https://www.hindawi.com/journals/bmri/guidelines/",
+                        "oa": "https://www.hindawi.com/journals/jtm/apc/"
+					},
+                    "publishingBrand":"Hindawi, A Wiley Brand",
+                    "publishedSince":null,
+                    "description":"An open access journal covering a broad scope of biomedical subject areas and led by dedicated Section Editors. Research and review articles will be considered.",
+                    "oa":"Open Access", 
+                    "formatFree":"TRUE",
+                    "metrics":{ 
+                        "impact":"3.411", 
+                        "SJR":"0.772",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"126",
+                        "submissionToFirstDecision":"67",
+                        "acceptanceToPublication":"30",
+                        "acceptanceRate":"31%"
+                    }
+                }
+            ]
+        },
+        {
+            "participantid":"haboulenein@yahoo.com",
+            "MSID":"12345",
+            "manuscriptTitle":"Use of electrochemical methods to determine the effect of various coffee brewing techniques and roasting levels on the antioxidant capacity of coffee beverage",
+            "feederJournal":"Journal of Food Processing and Preservation",
+            "authorName":"Hassan Y. ABOUL-ENEIN",
+            "authorEmail":"haboulenein@yahoo.com",
+            "results":[
+                {
+                    
+                    "journalTitle":"International Journal of Food Science",
+                    "issns":"23567015, 23145765,23567015",
+                    "journalCode": "EBAC32995",
+                    "links": {
+                        "homepage": "https://www.hindawi.com/journals/ijfs/",
+                        "aims": "https://www.hindawi.com/journals/ijfs/about/",
+                        "guidelines": "https://www.hindawi.com/journals/ijfs/guidelines/",
+                        "oa": "https://www.hindawi.com/journals/ijfs/apc/"
+					},
+                    "publishingBrand":"Hindawi, A Wiley Brand",
+                    "publishedSince":null,
+                    "description":"A multidisciplinary open access journal covering all aspects of food science including food safety, food engineering, microbiology and nutrition. Research and review articles will be considered. International Journal of Food Science is published by Hindawi, a Wiley brand. So you don\u0027t have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit:\u00a0https://bit.ly/2TpD9TS.",
+                    "oa":"Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"", 
+                        "SJR":"0.479",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"18",
+                        "submissionToFirstDecision":"93",
+                        "acceptanceToPublication":"52",
+                        "acceptanceRate":"21.0%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Journal of Analytical Methods in Chemistry",
+                    "issns":"20908873, 20908865,20908873",
+                    "journalCode": "EBAC27986",
+                    "links": {
+                        "homepage": "https://www.hindawi.com/journals/jamc/",
+                        "aims": "https://www.hindawi.com/journals/jamc/about/",
+                        "guidelines": "https://www.hindawi.com/journals/jamc/guidelines/",
+                        "oa": "https://www.hindawi.com/journals/jamc/apc/"
+					},
+                    "publishingBrand":"Hindawi, A Wiley Brand",
+                    "publishedSince":null,
+                    "description":"An open access journal publishing papers reporting methods and instrumentation used in chemical analysis, and their applications in real-world problems. Research and review articles will be considered. Published by Hindawi, a Wiley brand. So you don\u0027t have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit:\u00a0https://bit.ly/2TpD9TS.",
+                    "oa":"Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"2.193", 
+                        "SJR":"0.407",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"25",
+                        "submissionToFirstDecision":"88",
+                        "acceptanceToPublication":"57",
+                        "acceptanceRate":"47.0%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"International Journal of Chemical Engineering",
+                    "issns":"16878078, 1687806X,16878078",
+                    "journalCode": "EBAC17363",
+                    "links": {
+                        "homepage": "https://www.hindawi.com/journals/ijce/",
+                        "aims": "https://www.hindawi.com/journals/ijce/about/",
+                        "guidelines": "https://www.hindawi.com/journals/ijce/guidelines/",
+                        "oa": "https://www.hindawi.com/journals/ijce/apc/"
+					},
+                    "publishingBrand":"Hindawi, A Wiley Brand",
+                    "publishedSince":null,
+                    "description":"An open access journal focused on technologies for the production, processing, transportation and use of chemicals on an industrial scale. Research and review articles will be considered. Published by Hindawi, a Wiley brand. So you don\u0027t have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit:\u00a0https://bit.ly/2TpD9TS.",
+                    "oa":"Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"2.257", 
+                        "SJR":"0.309",
+                        "SJRQuadrant":"Q3",
+                        "H-Index":"25",
+                        "submissionToFirstDecision":"83",
+                        "acceptanceToPublication":"38",
+                        "acceptanceRate":"32.0%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Journal of Food Science",
+                    "issns":"00221147,00221147,17503841",
+                    "journalCode": "JFDS",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/17503841",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/17503841/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/17503841/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2007",
+                    "description":"The goal of the Journal of Food Science is to offer scientists, researchers, and other food professionals the opportunity to share knowledge of scientific advancements in the myriad disciplines affecting their work, through a respected peer-reviewed publication. The Journal of Food Science serves as an international forum for vital research and developments in food science.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"3.167", 
+                        "SJR":"0.772",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"150",
+                        "submissionToFirstDecision":"28",
+                        "acceptanceToPublication":"31",
+                        "acceptanceRate":"18.7%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Journal of The Science of Food and Agriculture",
+                    "issns":"00225142,10970010,00225142",
+                    "journalCode": "JSFA",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/10970010",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/10970010/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/10970010/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1950",
+                    "description":"The Journal of the Science of Food and Agriculture publishes peer-reviewed original research, reviews, mini-reviews, perspectives, and spotlights in these areas with particular emphasis on interdisciplinary studies at the agriculture/ food interface.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"3.638", 
+                        "SJR":"0.782",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"142",
+                        "submissionToFirstDecision":"24",
+                        "acceptanceToPublication":"20",
+                        "acceptanceRate":"15.5%"
+                    }
+                }
+            ]
+        },
+        {
+            "participantid":"levin.gaby@gmail.com",
+            "MSID":"12345",
+            "manuscriptTitle":"BNT162b2 Covid-19 vaccine and gynecologic emergency department visits diagnoses  a study from a large tertiary center",
+            "feederJournal":"BJOG: An International Journal of Obstetrics & Gynaecology",
+            "authorName":"Gabriel Levin",
+            "authorEmail":"levin.gaby@gmail.com",
+            "results":[
+                {
+                    
+                    "journalTitle":"Acta Obstetricia et Gynecologica Scandinavica",
+                    "issns":"00016349,16000412,00016349",
+                    "journalCode": "AOGS",
+                    "links": {
+                        "homepage": "https://obgyn.onlinelibrary.wiley.com/journal/16000412",
+                        "aims": "https://obgyn.onlinelibrary.wiley.com/hub/journal/16000412/productinformation.html",
+                        "guidelines": "https://obgyn.onlinelibrary.wiley.com/hub/journal/16000412/forauthors.html",
+                        "oa": "https://onlinelibrary.wiley.com/hub/journal/16000412/journal-resources/open-access"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2011",
+                    "description":"An international journal dedicated to providing the very latest information on the results of both clinical, basic and translational research work related to all aspects of women\u2019s health from around the globe. The journal regularly publishes commentaries, reviews, and original articles on a wide variety of topics including: gynecology, pregnancy, birth, female urology, gynecologic oncology, fertility and reproductive biology.",
+                    "oa":"Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"3.636", 
+                        "SJR":"1.401",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"102",
+                        "submissionToFirstDecision":"17",
+                        "acceptanceToPublication":"33",
+                        "acceptanceRate":"13.7%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Journal of Obstetrics and Gynaecology Research",
+                    "issns":"13418076,14470756,13418076",
+                    "journalCode": "JOG",
+                    "links": {
+                        "homepage": "https://obgyn.onlinelibrary.wiley.com/journal/14470756",
+                        "aims": "https://obgyn.onlinelibrary.wiley.com/hub/journal/14470756/productinformation.html",
+                        "guidelines": "https://obgyn.onlinelibrary.wiley.com/hub/journal/14470756/forauthors.html",
+                        "oa": "https://onlinelibrary.wiley.com/hub/journal/14470756/journal-resources/open-access"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2002",
+                    "description":"Aims to provide a medium for the publication of articles in the fields of obstetrics and gynecology. The Journal publishes original research articles, case reports, review articles and letters to the editor. The Journal will give publication priority to original research articles over case reports.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"1.73", 
+                        "SJR":"0.597",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"50",
+                        "submissionToFirstDecision":"41",
+                        "acceptanceToPublication":"21",
+                        "acceptanceRate":"19.8%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Infectious Diseases in Obstetrics and Gynecology",
+                    "issns":"10647449,10980997, 10647449,10980997",
+                    "journalCode": "IDOG",
+                    "links": {
+                        "homepage": "https://www.hindawi.com/journals/idog/",
+                        "aims": "https://www.hindawi.com/journals/idog/about/",
+                        "guidelines": "https://www.hindawi.com/journals/idog/guidelines/",
+                        "oa": "https://www.hindawi.com/journals/idog/apc/"
+					},
+                    "publishingBrand":"Hindawi, A Wiley Brand",
+                    "publishedSince":"",
+                    "description":"An open access journal covering infectious diseases in women’s health. Topics include diagnosis and treatment of sexually transmitted diseases, urinary tract infections, and infections in pregnancy. Research and review articles will be considered. ", 
+                    "formatFree":"TRUE",
+                    "metrics":{ 
+                        "impact":"-", 
+                        "SJR":"0.656",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"48",
+                        "submissionToFirstDecision":"43",
+                        "acceptanceToPublication":"",
+                        "acceptanceRate":"41.00%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Influenza and Other Respiratory Viruses",
+                    "issns":"17502640,17502640,17502659",
+                    "journalCode": "IRV",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/17502659",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/17502659/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/17502659/homepage/forauthors.html",
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/17502659/homepage/open_access_licence_and_copyright.htm"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2007",
+                    "description":"An open access journal that specializes exclusively on influenza and other respiratory viruses and strives to play a key role in the dissemination of information in this broad and challenging field. If accepted, an Article Publication Charge (APC) may apply.  Institutions, countries, and other factors may result in partial or full coverage of the APC. Visit http://bit.ly/WileyOAFunding to determine what funding is available.",
+                    "oa":"Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"4.38", 
+                        "SJR":"1.743",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"57",
+                        "submissionToFirstDecision":"11",
+                        "acceptanceToPublication":"29",
+                        "acceptanceRate":"16.7%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Paediatric and Perinatal Epidemiology",
+                    "issns":"02695022,02695022,13653016",
+                    "journalCode": "PPE",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/13653016",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/13653016/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/13653016/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1987",
+                    "description":"An international, peer reviewed journal that crosses the boundaries between epidemiologists, paediatricians, developmental psychologists, environmental specialists, obstetricians, child health specialists and genetic epidemiologists. The primary focus is to ensure that the most important paediatric, reproductive, obstetric and perinatal studies, as well as cutting-edge epidemiologic methods reach those researchers and clinicians for whom the findings are especially relevant.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"3.98", 
+                        "SJR":"1.667",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"88",
+                        "submissionToFirstDecision":"21",
+                        "acceptanceToPublication":"50",
+                        "acceptanceRate":"13.6%"
+                    }
+                }
+            ]
+        },
+        {
+            "participantid":"fernando.scolari@gmail.com",
+            "MSID":"12345",
+            "manuscriptTitle":"INFLAMMATORY MARKERS KINETICS IN PATIENTS WITH COVID19 SUPPORTED WITH VENOVENOUS EXTRACORPOREAL MEMBRANE OXYGENATION CANNULATION: A CASE SERIES REPORT",
+            "feederJournal":"Artificial Organs",
+            "authorName":"Fernando Luis Scolari",
+            "authorEmail":"fernando.scolari@gmail.com",
+            "results":[
+                {
+                    
+                    "journalTitle":"American Journal of Hematology",
+                    "issns":"03618609,03618609,10968652",
+                    "journalCode": "AJH",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/10968652",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/10968652/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/10968652/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1976",
+                    "description":"Publishes original contributions in non-malignant and malignant hematological diseases including clinical and basic studies in hemostasis and thrombosis, immunology, blood banking, and stem cell biology.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"10.047", 
+                        "SJR":"2.456",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"105",
+                        "submissionToFirstDecision":"7",
+                        "acceptanceToPublication":"21",
+                        "acceptanceRate":"18.1%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Journal of Internal Medicine",
+                    "issns":"09546820,09546820,13652796",
+                    "journalCode": "JOIM",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/13652796",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/13652796/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/13652796/homepage/forauthors.html",
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/13652796/homepage/open_access_free_access.htm"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1988",
+                    "description":"No description available",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"8.989", 
+                        "SJR":"2.625",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"160",
+                        "submissionToFirstDecision":"7",
+                        "acceptanceToPublication":"40",
+                        "acceptanceRate":"13.0%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Case Reports in Critical Care",
+                    "issns":"00429007,14230410,00429007",
+                    "journalCode": "VOX",
+                    "links": {
+                        "homepage": "https://www.hindawi.com/journals/cricc/",
+                        "aims": "https://www.hindawi.com/journals/cricc/about/",
+                        "guidelines": "https://www.hindawi.com/journals/cricc/guidelines/",
+                        "oa": "https://www.hindawi.com/journals/cricc/apc/"
+					},
+                    "publishingBrand":"Hindawi, A Wiley Brand",
+                    "publishedSince":"2021",
+                    "description":"Case Reports in Critical Care publishes case reports and case series in all areas of critical care medicine, including anesthesiology, perioperative and critical care medicine, and postoperative critical care management and recovery.", 
+                    "oa":"Open Access", 
+                    "formatFree":"TRUE",
+                    "metrics":{ 
+                        "impact":"", 
+                        "SJR":"",
+                        "SJRQuadrant":"",
+                        "H-Index":"",
+                        "submissionToFirstDecision":"40",
+                        "acceptanceToPublication":"31",
+                        "acceptanceRate":"55%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Vox Sanguinis",
+                    "issns":"00429007,14230410,00429007",
+                    "journalCode": "VOX",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/14230410",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/14230410/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14230410/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2001",
+                    "description":"Vox Sanguinis reports on important, novel developments in transfusion medicine. Original papers, reviews and international fora are published on all aspects of blood transfusion and tissue transplantation.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"2.144", 
+                        "SJR":"0.680",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"83",
+                        "submissionToFirstDecision":"23",
+                        "acceptanceToPublication":"34",
+                        "acceptanceRate":"46.2%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"International Journal of Laboratory Hematology",
+                    "issns":"17515521,1751553X,17515521",
+                    "journalCode": "IJLH",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/1751553X",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/1751553X/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/1751553X/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2003",
+                    "description":"The official journal of the International Society for Laboratory Hematology. The journal provides an international forum for all new developments in the research and practice of laboratory hematology and includes invited reviews, full length original articles and correspondence.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"2.877", 
+                        "SJR":"0.705",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"55",
+                        "submissionToFirstDecision":"22",
+                        "acceptanceToPublication":"21",
+                        "acceptanceRate":"33.5%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Disease Markers",
+                    "issns":"02780240,02780240, 18758630,02780240",
+                    "journalCode": "DIM",
+                    "links": {
+                        "homepage": "https://www.hindawi.com/journals/dm/",
+                        "aims": "https://www.hindawi.com/journals/dm/about/",
+                        "guidelines": "https://www.hindawi.com/journals/dm/guidelines/",
+                        "oa": "https://www.hindawi.com/journals/dm/apc/"
+					},
+                    "publishingBrand":"Hindawi, A Wiley Brand",
+                    "publishedSince":"1987",
+                    "description":"An open access journal focusing on the identification, role and mechanism of disease markers, and their clinical applications. Research and review articles will be considered. Disease Markers is published by Hindawi, a Wiley brand.",
+                    "oa":"Open Access", 
+                    "formatFree":"TRUE",
+                    "metrics":{ 
+                        "impact":"3.434", 
+                        "SJR":"0.912",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"66",
+                        "submissionToFirstDecision":"88",
+                        "acceptanceToPublication":"43",
+                        "acceptanceRate":"34%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Journal of Clinical Laboratory Analysis",
+                    "issns":"08878013,08878013,10982825",
+                    "journalCode": "JCLA",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/10982825",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/10982825/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/10982825/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1987",
+                    "description":"An open access journal that publishes original articles on newly developing modes of technology and laboratory assays, with emphasis on their application in current and future clinical laboratory testing. If accepted, an Article Publication Charge (APC) may apply.  Institutions, countries, and other factors may result in partial or full coverage of the APC. Visit http://bit.ly/WileyOAFunding to determine what funding is available.",
+                    "oa":"Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"2.352", 
+                        "SJR":"0.536",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"50",
+                        "submissionToFirstDecision":"15",
+                        "acceptanceToPublication":"26",
+                        "acceptanceRate":"17.6%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Journal of Thrombosis and Haemostasis",
+                    "issns":"15387933,15387836,15387933",
+                    "journalCode": "JTH",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/15387836",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/15387836/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/15387836/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2003",
+                    "description":"Publishes paper on the medical problems of thrombosis, bleeding disorders and vascular biology.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"5.824", 
+                        "SJR":"1.947",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"178",
+                        "submissionToFirstDecision":"12",
+                        "acceptanceToPublication":"40",
+                        "acceptanceRate":"20.1%"
+                    }
+                }
+            ]
         }
+        
+        
+         
+
+
     ]
 }
