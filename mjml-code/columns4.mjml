@@ -111,7 +111,7 @@
 <mj-wrapper border="1px solid #cccccc" border-bottom="0px solid #000"  padding="30px 30px 20px 30px">
     <mj-section css-class="desktoponly" padding-top="0" padding-bottom="0">
       <mj-column width="60%">
-         <mj-text line-height="23px"  color="#005274" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="21px" font-weight="600" padding-top="0px"><a href="" style="color:#005274; text-decoration:underline;">British Journal of Clinical Pharmacology</a></mj-text>
+         <mj-text line-height="23px"  color="#005274" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="21px" font-weight="600" padding-top="0px" text-decoration="underline"><a href="" style="color:#005274; text-decoration:underline;">British Journal of Clinical Pharmacology</a></mj-text>
          <mj-text line-height="19px"  color="#005274" padding-top="0px" padding-bottom="4px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px"><a href="" style="color:#005274; text-decoration:underline;">Aims and Scope</a> | <a href="" style="color:#005274; text-decoration:underline;">Author Guidelines</a></mj-text>
          <mj-text line-height="19px"  color="#1c1d1e" padding-top="0px" padding-bottom="15px" padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px" color="#717171" font-style="italic;">Published by Wiley | Since 1974</mj-text>
       </mj-column>
