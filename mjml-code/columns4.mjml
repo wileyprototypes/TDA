@@ -78,14 +78,14 @@
         <mj-column>
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">Impact factor</mj-text>
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px">2.506</mj-text>
-        <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">Publishing options</mj-text>
-         <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px">Subscription or Open Access  <img src="https://wileyprototypes.github.io/TDA/img/info-color.png" alt="Open Access Info Icon" width="12px" width="12"/></mj-text>
+        <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="8px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">Publishing options</mj-text>
+         <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="8px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px">Subscription or Open Access  <img src="https://wileyprototypes.github.io/TDA/img/info-color.png" alt="Open Access Info Icon" width="12px" width="12"/></mj-text>
 
         </mj-column>
         <mj-column>
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">SJR <img src="https://wileyprototypes.github.io/TDA/img/info-color.png" alt="SJR Info Icon" width="12px" width="12"/></mj-text>
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px">0.752</mj-text>
-        <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">Submission format</mj-text>
+        <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="8px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">Submission format</mj-text>
          <mj-text  padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px" color="#27824f">Free Format  <img src="https://wileyprototypes.github.io/TDA/img/info-color.png" alt="Free Format Info Icon" width="12px" width="12"/></mj-text>
 
         </mj-column>
@@ -135,14 +135,14 @@
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">Impact factor</mj-text>
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px">4.335</mj-text>
         <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">Publishing options</mj-text>
-         <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px">Subscription</mj-text>
+         <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="8px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px">Subscription</mj-text>
 
         </mj-column>
         <mj-column>
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">SJR <img src="https://wileyprototypes.github.io/TDA/img/info-color.png" width="12px" width="12" alt="info icon for SJR"/></mj-text>
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px">1.216</mj-text>
-        <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">Submission format</mj-text>
-         <mj-text   color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px">Reformatting may be required</mj-text>
+        <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="8px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">Submission format</mj-text>
+         <mj-text   color="#1c1d1e" padding-left="0px" padding-right="8px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px">Reformatting may be required</mj-text>
 
         </mj-column>
       </mj-group>
@@ -151,14 +151,14 @@
         <mj-column>
           <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px" >H-Index</mj-text>
           <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px">146</mj-text>
-        <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">Submission to first decision</mj-text>
+        <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="8px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">Submission to first decision</mj-text>
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px">33 Days</mj-text>
 
         </mj-column>
         <mj-column>
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">&nbsp;</mj-text>
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px">&nbsp;</mj-text>
-        <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">Acceptance to publication</mj-text>
+        <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="8px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">Acceptance to publication</mj-text>
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px">27 Days</mj-text>
 
         </mj-column>
@@ -197,15 +197,15 @@
         <mj-column>
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">Impact factor</mj-text>
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px">-</mj-text>
-        <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">Publishing options</mj-text>
-         <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px">Open Access  <img src="https://wileyprototypes.github.io/TDA/img/info-color.png" alt="Open Access Info Icon" width="12px" width="12"/></mj-text>
+        <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="8px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">Publishing options</mj-text>
+         <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="8px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px">Open Access  <img src="https://wileyprototypes.github.io/TDA/img/info-color.png" alt="Open Access Info Icon" width="12px" width="12"/></mj-text>
 
         </mj-column>
         <mj-column>
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">SJR <img src="https://wileyprototypes.github.io/TDA/img/info-color.png" alt="SJR Info Icon" width="12px" width="12"/></mj-text>
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px">0.309</mj-text>
-        <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">Submission format</mj-text>
-         <mj-text  padding-left="0px" padding-right="0px" font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px" color="#27824f">Free Format  <img src="https://wileyprototypes.github.io/TDA/img/info-color.png" alt="Free Format Info Icon" width="12px" width="12"/></mj-text>
+        <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="8px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px">Submission format</mj-text>
+         <mj-text  padding-left="0px" padding-right="8px" font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px" color="#27824f">Free Format  <img src="https://wileyprototypes.github.io/TDA/img/info-color.png" alt="Free Format Info Icon" width="12px" width="12"/></mj-text>
 
         </mj-column>
       </mj-group>
@@ -213,7 +213,7 @@
                 <mj-column>
           <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px" >H-Index</mj-text>
           <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px" padding-bottom="0px">10</mj-text>
-        <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px"></mj-text>
+        <mj-text line-height="19px"  color="#1c1d1e" padding-left="8px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" font-weight="700" padding-bottom="0px"></mj-text>
          <mj-text line-height="19px"  color="#1c1d1e" padding-left="0px" padding-right="0px"  font-family="Open Sans, Sans-serif" font-size="14px" padding-top="2px"></mj-text>
 
         </mj-column>
