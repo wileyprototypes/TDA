@@ -93,7 +93,7 @@
 
                     <div class="journal-stats2">
                         <div>
-                            <div>{{#if this.metrics.impact}}<span>Impact factor</span> <span>{{this.metrics.impact}}</span>  {{/if}}</div>
+                            <div>{{#if this.metrics.impact}}<span>Impact factor</span> <span>{{this.metrics.impact}}</span>{{else}}<span>Impact factor</span> <span>-</span>  {{/if}}</div>
                             <div>{{#if this.oa}}<span>Publishing options</span> <span class="maxlimit">{{this.oa}}
                                 {{#if_eq this.oa 'Subscription or Open Access'}}
                                 <a href="{{this.links.oa}}" target="_blank">
