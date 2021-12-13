@@ -1284,6 +1284,9 @@
         border: 1px solid #005274; 
         display: inline-block; 
         text-align:center;
+        &:hover{
+           background-color: #2b7999;
+        }
     }
     
     .emailContent > p:first-child{
@@ -1300,10 +1303,6 @@
     
     a{
         color:#005274;
-    }
-    
-    a:hover{
-        color:#fff;
     }
     
     .marBot15{
