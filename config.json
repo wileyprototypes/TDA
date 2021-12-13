@@ -2528,7 +2528,7 @@ config={
                     },
                     "publishingBrand":"Wiley",
                     "publishedSince":"1991",
-                    "description":"No description available",
+                    "description":"Africa Research Bulletin has been a leading research service on Africa since 1964, providing impartial summaries of, and extensive reports on, political and economic developments throughout the continent.  ",
                     "oa":"Subscription or Open Access", 
                     "formatFree":false,
                     "metrics":{ 
@@ -3146,7 +3146,202 @@ config={
                 }
                
             ]
+        },
+        {
+            "participantid":"lawrence.ezedinma@gmail.com",
+            "MSID":"12345",
+            "manuscriptTitle":"Outcomes of electrophysiological tailored repetitive transcranial magnetic stimulation in young people with autism spectrum disorder - a chart review.",
+            "feederJournal":"Journal of Child Psychology and Psychiatry",
+            "authorName":"Uchenna Ezedinma",
+            "authorEmail":"lawrence.ezedinma@gmail.com",
+            "results":[
+                {
+                    
+                    "journalTitle":"Acta Psychiatrica Scandinavica",
+                    "issns":"0001690X,16000447,0001690X",
+                    "journalCode": "ACPS",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/16000447",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/16000447/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/16000447/homepage/forauthors.html",
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/16000447/homepage/fundedaccess.html",
+                    },
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1961",
+                    "description":"Publishes peer-reviewed original articles, systematic reviews and research letter on all aspects of clinical and translational psychiatry. ",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"6.392", 
+                        "SJR":"2.849",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"146",
+                        "submissionToFirstDecision":"13",
+                        "acceptanceToPublication":"26",
+                        "acceptanceRate":"12.9%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Annals of Neurology",
+                    "issns":"03645134,15318249,03645134",
+                    "journalCode": "ANA",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/15318249",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/15318249/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/15318249/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
+                    },
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2001",
+                    "description":"No description available",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"10.422", 
+                        "SJR":"4.764",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"296",
+                        "submissionToFirstDecision":"18",
+                        "acceptanceToPublication":"19",
+                        "acceptanceRate":"9.4%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Psychiatry and Clinical Neurosciences",
+                    "issns":"13231316,14401819,13231316",
+                    "journalCode": "PCN",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/14401819",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/14401819/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14401819/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
+                    },
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1995",
+                    "description":"Psychiatry and Clinical Neurosciences, the official international journal of the Japanese Society of Psychiatry and Neurology, publishes papers in all fields of psychiatry and related neurosciences. The journal plays an important role as a hub of academic exchanges between Eastern and Western psychiatrists.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"5.188", 
+                        "SJR":"1.609",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"74",
+                        "submissionToFirstDecision":"12",
+                        "acceptanceToPublication":"31",
+                        "acceptanceRate":"14.3%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Behavioural Neurology",
+                    "issns":"09534180, 18758584,09534180",
+                    "journalCode": "EBAC6455",
+                    "links": {
+                        "homepage": "https://www.hindawi.com/journals/bn/",
+                        "aims": "https://www.hindawi.com/journals/bn/about/",
+                        "guidelines": "https://www.hindawi.com/journals/bn/guidelines/",
+                        "oa": "https://www.hindawi.com/journals/bn/apc/",
+                    },
+                    "publishingBrand":"Hindawi, A Wiley Brand",
+                    "publishedSince":null,
+                    "description":"An open access platform for researchers and clinicians working in cognitive neuroscience, neuropsychology, and neuropsychiatry.",
+                    "oa":"Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"3.342", 
+                        "SJR":"0.859",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"48",
+                        "submissionToFirstDecision":"57",
+                        "acceptanceToPublication":"20",
+                        "acceptanceRate":"41.0%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Autism Research",
+                    "issns":"19393792,19393792,19393806",
+                    "journalCode": "AUR",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/19393806",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/19393806/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/19393806/homepage/forauthors.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
+                    },
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2008",
+                    "description":"Covers research relevant to ASD and closely related neurodevelopmental disorders. The journal focuses on genetic, neurobiological, immunological, epidemiological and psychological mechanisms and how these influence developmental processes in ASD.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"5.216", 
+                        "SJR":"1.656",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"66",
+                        "submissionToFirstDecision":"35",
+                        "acceptanceToPublication":"15",
+                        "acceptanceRate":"48.1%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"Neurology Research International",
+                    "issns":"20901860, 20901852,20901860",
+                    "journalCode": "EBAC33142",
+                    "links": {
+                        "homepage": "https://www.hindawi.com/journals/nri/",
+                        "aims": "https://www.hindawi.com/journals/nri/about/",
+                        "guidelines": "https://www.hindawi.com/journals/nri/guidelines/",
+                        "oa": "https://www.hindawi.com/journals/nri/apc/",
+                    },
+                    "publishingBrand":"Hindawi, A Wiley Brand",
+                    "publishedSince":null,
+                    "description":"An open access journal focusing on diseases of the nervous system, as well as normal neurological functioning. Research includes basic, translational, and clinical research, including animal models.",
+                    "oa":"Open Access", 
+                    "formatFree":"TRUE",
+                    "metrics":{ 
+                        "impact":"", 
+                        "SJR":"0.365",
+                        "SJRQuadrant":"Q3",
+                        "H-Index":"31",
+                        "submissionToFirstDecision":"58",
+                        "acceptanceToPublication":"25",
+                        "acceptanceRate":"19.0%"
+                    }
+                },            
+                
+                {
+                    
+                    "journalTitle":"Developmental Psychobiology",
+                    "issns":"00121630,00121630,10982302",
+                    "journalCode": "DEV",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/10982302",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/10982302/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/10982302/homepage/forauthors.html",
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/10982302/homepage/fundedaccess.html",
+                    },
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1968",
+                    "description":"Developmental Psychobiology is a peer-reviewed journal that publishes original research papers from the disciplines of psychology, biology, neuroscience, and medicine that contribute to an understanding of behavior development.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":"FALSE",
+                    "metrics":{ 
+                        "impact":"3.038", 
+                        "SJR":"1.055",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"93",
+                        "submissionToFirstDecision":"42",
+                        "acceptanceToPublication":"27",
+                        "acceptanceRate":"62.3%"
+                    }
+                }
+            ]
         }
+        
+        
         
         
         
