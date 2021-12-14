@@ -75,7 +75,7 @@ config={
                         "oa": "https://www.hindawi.com/journals/aess/apc/"
                     },
                     "publishingBrand":"Hindawi, A Wiley Brand",
-                    "publishedSince":" ",
+                    "publishedSince":"",
                     "description":"An open access journal publishing research and review articles in the field of soil science, reflecting the discipline\u0027s multidisciplinary nature, especially the dynamics \u0026 spatial heterogeneity of processes in soil.",
                     "oa":"Open Access", 
                     "formatFree":true,
@@ -127,7 +127,7 @@ config={
                         "oa": "https://onlinelibrary.wiley.com/page/journal/1521379x/homepage/2041_onlineopen.html"
 					},
                     "publishingBrand":"Wiley",
-                    "publishedSince":" ",
+                    "publishedSince":"",
                     "description":"The premier point of reference for modern starch and non-starch carbohydrate related research and knowledge, having evolved from a focus on traditional processing of starches and their industrial applications.",
                     "oa":"Subscription or Open Access", 
                     "formatFree":false,
@@ -1626,7 +1626,7 @@ config={
                         "H-Index":"110",
                         "submissionToFirstDecision":"33",
                         "acceptanceToPublication":"22",
-                        "acceptanceRate":" "
+                        "acceptanceRate":""
                     }
                 },
                 {
@@ -1880,7 +1880,7 @@ config={
                         "SJRQuadrant":"Q1",
                         "H-Index":"105",
                         "submissionToFirstDecision":"17",
-                        "acceptanceToPublication":" ",
+                        "acceptanceToPublication":"",
                         "acceptanceRate":"39.3%"
                     }
                 },
@@ -1958,7 +1958,7 @@ config={
                         "SJRQuadrant":"Q1",
                         "H-Index":"90",
                         "submissionToFirstDecision":"18",
-                        "acceptanceToPublication":" ",
+                        "acceptanceToPublication":"",
                         "acceptanceRate":"25.4%"
                     }
                 },
@@ -2010,7 +2010,7 @@ config={
                         "SJRQuadrant":"Q1",
                         "H-Index":"126",
                         "submissionToFirstDecision":"17",
-                        "acceptanceToPublication":" ",
+                        "acceptanceToPublication":"",
                         "acceptanceRate":"53.1%"
                     }
                 },
@@ -2036,7 +2036,7 @@ config={
                         "SJRQuadrant":"Q1",
                         "H-Index":"154",
                         "submissionToFirstDecision":"15",
-                        "acceptanceToPublication":" ",
+                        "acceptanceToPublication":"",
                         "acceptanceRate":"33.2%"
                     }
                 },
@@ -2062,7 +2062,7 @@ config={
                         "SJRQuadrant":"Q4",
                         "H-Index":"0",
                         "submissionToFirstDecision":"24",
-                        "acceptanceToPublication":" ",
+                        "acceptanceToPublication":"",
                         "acceptanceRate":"51.4%"
                     }
                 },
@@ -2114,7 +2114,7 @@ config={
                         "SJRQuadrant":"Q1",
                         "H-Index":"100",
                         "submissionToFirstDecision":"19",
-                        "acceptanceToPublication":" ",
+                        "acceptanceToPublication":"",
                         "acceptanceRate":"36.4%"
                     }
                 }
@@ -2670,7 +2670,7 @@ config={
                     "publishedSince":null,
                     "description":"An open access journal publishing original research articles and review articles in all areas of dentistry, including periodontal diseases, dental implants, oral pathology, as well as oral and maxillofacial surgery. ",
                     "oa":"Open Access", 
-                    "formatFree":false,
+                    "formatFree":true,
                     "metrics":{ 
                         "impact":"", 
                         "SJR":"0.610",
@@ -2696,7 +2696,7 @@ config={
                     "publishedSince":null,
                     "description":"Case Reports in Dentistry is a peer-reviewed, Open Access journal that publishes case reports and case series in all areas of dentistry, including periodontal diseases, dental implants, oral pathology, as well as oral and maxillofacial surgery.",
                     "oa":"Open Access", 
-                    "formatFree":false,
+                    "formatFree":true,
                     "metrics":{ 
                         "impact":"", 
                         "SJR":"0.221",
@@ -3248,7 +3248,7 @@ config={
                     "publishedSince":null,
                     "description":"An open access platform for researchers and clinicians working in cognitive neuroscience, neuropsychology, and neuropsychiatry.",
                     "oa":"Open Access", 
-                    "formatFree":"FALSE",
+                    "formatFree":true,
                     "metrics":{ 
                         "impact":"3.342", 
                         "SJR":"0.859",
@@ -3300,7 +3300,7 @@ config={
                     "publishedSince":null,
                     "description":"An open access journal focusing on diseases of the nervous system, as well as normal neurological functioning. Research includes basic, translational, and clinical research, including animal models.",
                     "oa":"Open Access", 
-                    "formatFree":"TRUE",
+                    "formatFree":true,
                     "metrics":{ 
                         "impact":"", 
                         "SJR":"0.365",
