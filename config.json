@@ -1260,6 +1260,7 @@ config={
                     "publishingBrand":"Hindawi, A Wiley Brand",
                     "publishedSince":"",
                     "description":"An open access journal covering infectious diseases in women’s health. Topics include diagnosis and treatment of sexually transmitted diseases, urinary tract infections, and infections in pregnancy. Research and review articles will be considered. ", 
+                    "oa":"Open Access", 
                     "formatFree":true,
                     "metrics":{ 
                         "impact":"-", 
@@ -1687,9 +1688,9 @@ config={
         {
             "participantid":"lamos@cmh.edu",
             "MSID":"12345",
-            "manuscriptTitle":"Haemophilia",
+            "manuscriptTitle":"Variations in Hospital Management of Adolescents with Heavy Menstrual Bleeding",
             "feederJournal":"Haemophilia",
-            "authorName":"Variations in Hospital Management of Adolescents with Heavy Menstrual Bleeding",
+            "authorName":"Lauren Amos",
             "authorEmail":"lamos@cmh.edu",
             "results":[
                 {
@@ -2130,32 +2131,6 @@ config={
             "results":[
                 {
                     
-                    "journalTitle":"Journal of Parenteral and Enteral Nutrition",
-                    "issns":"01486071,19412444,01486071",
-                    "journalCode": "JPEN",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/19412444",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/19412444/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/19412444/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
-                    "publishingBrand":"Wiley",
-                    "publishedSince":"2018",
-                    "description":"The premier scientific journal of nutrition and metabolic support. It publishes original peer-reviewed studies that define the cutting edge of basic and clinical research in the field. It explores the science of optimizing the care of patients receiving enteral or IV therapies. Also included: reviews, techniques, brief reports, case reports, and abstracts.",
-                    "oa":"Subscription or Open Access", 
-                    "formatFree":false,
-                    "metrics":{ 
-                        "impact":"4.016", 
-                        "SJR":"0.935",
-                        "SJRQuadrant":"Q2",
-                        "H-Index":"98",
-                        "submissionToFirstDecision":"31",
-                        "acceptanceToPublication":"43",
-                        "acceptanceRate":"44.3%"
-                    }
-                },
-                {
-                    
                     "journalTitle":"Journal of Renal Care",
                     "issns":"17556678,17556678,17556686",
                     "journalCode": "JORC",
@@ -2352,27 +2327,27 @@ config={
                 {
             
                     "journalTitle":"British Education Research Journal",
-                    "issns":"17508592,17508606,17508592",
-                    "journalCode": "CDEP",
+                    "issns":"01411926,14693518,01411926",
+                    "journalCode": "BERJ",
                     "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/17508606",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/17508606/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/17508606/homepage/forauthors.html",
+                        "homepage": "https://onlinelibrary.wiley.com/journal/14693518",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/14693518/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14693518/homepage/forauthors.html",
                         "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
                     },
                     "publishingBrand":"Wiley",
-                    "publishedSince":"2007",
-                    "description":"Publishes brief articles spanning the entire spectrum of modern developmental science and its applications. Features brief, well synthesized reviews of research, typically focusing on emerging lines of inquiry in developmental science. The journal sometimes publishes essays on policy, statistics and methods, and on other topics suitable for the readership. Papers are welcome from all fields that inform modern developmental science. ",
+                    "publishedSince":"2013",
+                    "description":"An international peer reviewed medium for the publication of articles of interest to researchers in education and has rapidly become a major focal point for the publication of educational research from throughout the world. Includes reports of case studies, experiments and surveys, discussions of conceptual and methodological issues and of underlying assumptions in educational research. This journal offers free format submission, so you will not need to reformat your manuscript. ",
                     "oa":"Subscription or Open Access", 
                     "formatFree":false,
                     "metrics":{ 
-                        "impact":"6.221", 
-                        "SJR":"3.000",
+                        "impact":"2.752", 
+                        "SJR":"1.71",
                         "SJRQuadrant":"Q1",
-                        "H-Index":"71",
-                        "submissionToFirstDecision":"26",
-                        "acceptanceToPublication":"34",
-                        "acceptanceRate":"57.9%"
+                        "H-Index":"89",
+                        "submissionToFirstDecision":"34",
+                        "acceptanceToPublication":"28",
+                        "acceptanceRate":"15.4%"
                     }
                 },
                 {
@@ -2389,6 +2364,7 @@ config={
                     "publishingBrand":"Wiley",
                     "publishedSince":"2011",
                     "description":"The British Journal of Educational Psychology publishes psychological research that makes a significant contribution to the understanding and practice of education as well as advances the field in terms of theory related to educational psychology.", 
+                    "oa":"Open Access", 
                     "formatFree":false,
                     "metrics":{ 
                         "impact":"3.241", 
