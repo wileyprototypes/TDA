@@ -1687,9 +1687,9 @@ config={
         {
             "participantid":"lamos@cmh.edu",
             "MSID":"12345",
-            "manuscriptTitle":"Haemophilia",
+            "manuscriptTitle":"Variations in Hospital Management of Adolescents with Heavy Menstrual Bleeding",
             "feederJournal":"Haemophilia",
-            "authorName":"Variations in Hospital Management of Adolescents with Heavy Menstrual Bleeding",
+            "authorName":"Lauren Amos",
             "authorEmail":"lamos@cmh.edu",
             "results":[
                 {
