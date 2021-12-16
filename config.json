@@ -1561,7 +1561,7 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/18651682",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/18651682/homepage/ProductInformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/18651682/homepage/ForAuthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/18651682/homepage/FundedAccess.html",
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/18651682/homepage/FundedAccess.html"
                     },
                     "publishingBrand":"Wiley",
                     "publishedSince":"2003",
@@ -1587,7 +1587,7 @@ config={
                         "homepage": "https://www.hindawi.com/journals/ijmicro/",
                         "aims": "https://www.hindawi.com/journals/ijmicro/about/",
                         "guidelines": "https://www.hindawi.com/journals/ijmicro/guidelines/",
-                        "oa": "https://www.hindawi.com/journals/ijmicro/apc/",
+                        "oa": "https://www.hindawi.com/journals/ijmicro/apc/"
                     },
                     "publishingBrand":"Hindawi, A Wiley Brand",
                     "publishedSince":null,
@@ -1613,7 +1613,7 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/1472765X",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/1472765X/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/1472765X/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
                     },
                     "publishingBrand":"Wiley",
                     "publishedSince":"2003",
@@ -1639,7 +1639,7 @@ config={
                         "homepage": "https://www.hindawi.com/journals/jeph/",
                         "aims": "https://www.hindawi.com/journals/jeph/about/",
                         "guidelines": "https://www.hindawi.com/journals/jeph/guidelines/",
-                        "oa": "https://www.hindawi.com/journals/jeph/apc/",
+                        "oa": "https://www.hindawi.com/journals/jeph/apc/"
                     },
                     "publishingBrand":"Hindawi, A Wiley Brand",
                     "publishedSince":"2008",
@@ -1665,7 +1665,7 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/17497345",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/17497345/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/17497345/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
                     },
                     "publishingBrand":"Wiley",
                     "publishedSince":"2003",
@@ -1702,8 +1702,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/13653016",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/13653016/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/13653016/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1987",
                     "description":"An international, peer reviewed journal that crosses the boundaries between epidemiologists, paediatricians, developmental psychologists, environmental specialists, obstetricians, child health specialists and genetic epidemiologists. The primary focus is to ensure that the most important paediatric, reproductive, obstetric and perinatal studies, as well as cutting-edge epidemiologic methods reach those researchers and clinicians for whom the findings are especially relevant.",
@@ -1728,8 +1728,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/1442200X",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/1442200X/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/1442200X/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1993",
                     "description":"Publishing articles of scientific excellence in pediatrics and child health delivery,\u00a0this journal aims to encourage those involved in the research, practice and delivery of child health to share their experiences, ideas and achievements.",
@@ -1754,8 +1754,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/10968652",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/10968652/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/10968652/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1976",
                     "description":"Publishes original contributions in non-malignant and malignant hematological diseases including clinical and basic studies in hemostasis and thrombosis, immunology, blood banking, and stem cell biology.",
@@ -1780,8 +1780,8 @@ config={
                         "homepage": "https://www.hindawi.com/journals/ogi/",
                         "aims": "https://www.hindawi.com/journals/ogi/about/",
                         "guidelines": "https://www.hindawi.com/journals/ogi/guidelines/",
-                        "oa": "https://www.hindawi.com/journals/ogi/apc/",
-                    },
+                        "oa": "https://www.hindawi.com/journals/ogi/apc/"
+					},
                     "publishingBrand":"Hindawi, A Wiley Brand",
                     "publishedSince":null,
                     "description":"An open access journal publishing research and review articles related to obstetrics, maternal-fetal medicine, gynecologic oncology, uro-gynecology, reproductive medicine, infertility, reproductive endocrinology, and sexual medicine.",
@@ -1868,8 +1868,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/16165195",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/16165195/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/16165195/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/16165195/homepage/2127_onlineopen.html",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/16165195/homepage/2127_onlineopen.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2001",
                     "description":"A leading, Medline-listed journal at the intersection of polymer/materials science with life science and medicine. Topics covered by the journal include drug delivery, nanomedicine, (bio)macromolecules, hydrogels, tissue engineering, and other bio-applications. Macromolecular Bioscience is ranked among the top biomaterials and polymer journals - the journal of choice for your best contributions at the intersection of polymer and life sciences.",
@@ -1894,8 +1894,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/10991344",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/10991344/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/10991344/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1965",
                     "description":"Publishes all aspects of research dealing with labeled compound preparation and applications of these compounds. This includes tracer methods used in medical, pharmacological, biological, biochemical and chemical research in vitro and in vivo.",
@@ -1920,8 +1920,8 @@ config={
                         "homepage": "https://www.hindawi.com/journals/jnm/",
                         "aims": "https://www.hindawi.com/journals/jnm/about/",
                         "guidelines": "https://www.hindawi.com/journals/jnm/guidelines/",
-                        "oa": "https://www.hindawi.com/journals/jnm/apc/",
-                    },
+                        "oa": "https://www.hindawi.com/journals/jnm/apc/"
+					},
                     "publishingBrand":"Hindawi, A Wiley Brand",
                     "publishedSince":null,
                     "description":"An open access journal for researchers and practicing engineers focusing on the science and application of nanoscale and nanostructured materials. Research and review articles will be considered. ",
@@ -1946,8 +1946,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/21922659",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/21922659/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/21922659/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/21922659/homepage/2087_onlineopen.html",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/21922659/homepage/2087_onlineopen.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2012",
                     "description":"An international, interdisciplinary forum for peer-reviewed papers on high-impact materials, devices, and technologies for improving human health including: biomaterials, as well as inorganic materials for biomedical applications; biointerfaces; nanomedicine and nanotechnology; tissue engineering and regenerative medicine; biofabrication technologies, devices for healthcare applications.",
@@ -1972,8 +1972,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/17511097",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/17511097/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/17511097/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2007",
                     "description":"Publishes original research articles and reviews on current topics in photoscience.\u00a0 Topics span from the primary interaction of light with molecules, cells, and tissue to the subsequent biological responses, representing disciplinary and interdisciplinary research in the fields of chemistry, physics, biology, and medicine.",
@@ -1998,8 +1998,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/14397633",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/14397633/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/14397633/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/hub/journal/14397633/onlineopen",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/hub/journal/14397633/onlineopen"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2000",
                     "description":"ChemBioChem showcases vital ground-breaking science combining chemistry and biology across the world.  ChemBioChem is a society journal of Chemistry Europe, an association of 16 chemical societies from 15 European countries, representing over 75,000 chemists.",
@@ -2024,8 +2024,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/15213927",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/15213927/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/15213927/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/15213927/homepage/2263_onlineopen.html",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/15213927/homepage/2263_onlineopen.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1996",
                     "description":"Macromolecular Rapid Communications publishes original research in polymer science, ranging from chemistry and physics of polymers to polymers in materials science and life sciences. With fast reviewing and publication times, Macromolecular Rapid Communications is your journal of choice for fast publication of high-priority results.",
@@ -2050,8 +2050,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/23663987",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/23663987/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/23663987/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/23663987/homepage/2313_onlineopen.html",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/23663987/homepage/2313_onlineopen.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2018",
                     "description":"A premium journal for outstanding research on the next generation of therapeutics, including basic, translational, and clinical research. The journal provides a unique, international, interdisciplinary forum covering key topics as targeted drug delivery, drug discovery, cellular, genetic, and immunotherapies, personalized and precision medicines, theranostics, pharmacology, and toxicology.",
@@ -2076,8 +2076,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/21983844",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/21983844/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/21983844/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/21983844/homepage/2749_onlineopen.html",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/21983844/homepage/2749_onlineopen.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2015",
                     "description":"An interdisciplinary premium open access journal covering fundamental and applied research in materials science, physics and chemistry, medical and life sciences, as well as engineering. Institutions, countries, and other factors may result in partial or full coverage of the APC. Visit http://bit.ly/WileyOAFunding to determine what funding is available.",
@@ -2102,8 +2102,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/18607187",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/18607187/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/18607187/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/hub/journal/18607187/onlineopen",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/hub/journal/18607187/onlineopen"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2006",
                     "description":"ChemMedChem publishes high-impact articles on medicinal chemistry and drug discovery, from small molecules to new modalities, showcasing the breadth of international research.  ChemMedChem is a society journal of Chemistry Europe, an association of 16 chemical societies from 15 European countries, representing over 75,000 chemists. ",
@@ -2138,8 +2138,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/17556686",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/17556686/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/17556686/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/17556686/homepage/open-access",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/17556686/homepage/open-access"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2008",
                     "description":"Publishes original research articles, literature reviews, case reports, case studies, policy reports, letters to the Editor, book reviews, and analyses and descriptions of professional practice initiatives in chronic kidney disease and associated topics.",
@@ -2164,8 +2164,8 @@ config={
                         "homepage": "https://www.hindawi.com/journals/ijn/",
                         "aims": "https://www.hindawi.com/journals/ijn/about/",
                         "guidelines": "https://www.hindawi.com/journals/ijn/guidelines/",
-                        "oa": "https://www.hindawi.com/journals/ijn/apc/",
-                    },
+                        "oa": "https://www.hindawi.com/journals/ijn/apc/"
+					},
                     "publishingBrand":"Hindawi, A Wiley Brand",
                     "publishedSince":"2008",
                     "description":"An open access journal publishing research articles and review articles on the prevention, diagnosis, and management of kidney diseases and associated disorders. ", 
@@ -2216,8 +2216,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/17449987",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/17449987/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/17449987/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1997",
                     "description":"Publishing content spanning medicine, biology, biophysics, and engineering with a particular emphasis on how they converge in the development of new apheresis and dialysis technologies and treatments resulting in improved patient outcomes.  ",
@@ -2255,8 +2255,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/14679752",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/14679752/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/14679752/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1995",
                     "description":"Publishes articles representing a wide variety of philosophical traditions. They vary from examination of fundamental philosophical issues in their connection with education, to detailed critical engagement with current educational practice or policy from a philosophical point of view. This journal offers free format submission, so you will not need to reformat your manuscript.",
@@ -2281,8 +2281,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/14653435",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/14653435/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/14653435/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2000",
                     "description":"An international, peer reviewed journal that presents high quality, recent research and policy analysis with a primary focus on Europe, placed in an international perspective. The Journal publishes the results of European research projects and explores key topics of concern to policy makers and international organisations in Europe and further afield. The Editorial Board brings together academics and policy analysts from different European countries and major international organisations.",
@@ -2307,8 +2307,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/17508606",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/17508606/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/17508606/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2007",
                     "description":"Publishes brief articles spanning the entire spectrum of modern developmental science and its applications. Features brief, well synthesized reviews of research, typically focusing on emerging lines of inquiry in developmental science. The journal sometimes publishes essays on policy, statistics and methods, and on other topics suitable for the readership. Papers are welcome from all fields that inform modern developmental science. ",
@@ -2333,8 +2333,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/14693518",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/14693518/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/14693518/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2013",
                     "description":"An international peer reviewed medium for the publication of articles of interest to researchers in education and has rapidly become a major focal point for the publication of educational research from throughout the world. Includes reports of case studies, experiments and surveys, discussions of conceptual and methodological issues and of underlying assumptions in educational research. This journal offers free format submission, so you will not need to reformat your manuscript. ",
@@ -2359,8 +2359,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/20448279",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/20448279/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/20448279/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2011",
                     "description":"The British Journal of Educational Psychology publishes psychological research that makes a significant contribution to the understanding and practice of education as well as advances the field in terms of theory related to educational psychology.", 
@@ -2396,8 +2396,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/17502659",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/17502659/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/17502659/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/17502659/homepage/open_access_licence_and_copyright.htm",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/17502659/homepage/open_access_licence_and_copyright.htm"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2007",
                     "description":"An open access journal that specializes exclusively on influenza and other respiratory viruses and strives to play a key role in the dissemination of information in this broad and challenging field. If accepted, an Article Publication Charge (APC) may apply.  Institutions, countries, and other factors may result in partial or full coverage of the APC. Visit http://bit.ly/WileyOAFunding to determine what funding is available.",
@@ -2422,8 +2422,8 @@ config={
                         "homepage": "https://www.hindawi.com/journals/ijclp/",
                         "aims": "https://www.hindawi.com/journals/ijclp/about/",
                         "guidelines": "https://www.hindawi.com/journals/ijclp/guidelines/",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
                     "publishingBrand":"Hindawi, A Wiley Brand",
                     "publishedSince":"2004",
                     "description":"An open access journal prioritising clinical work in a wide variety of therapeutic areas that have international appeal.",
@@ -2448,8 +2448,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/10969071",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/10969071/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/10969071/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/10969071/open-access",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/10969071/open-access"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1977",
                     "description":"Provides a means of rapid publication of original scientific papers on fundamental as well as applied research concerning viruses affecting humans. These include reports describing the characterization, diagnosis, epidemiology, immunology and pathogenesis of human virus infections, as well as basic studies on virus morphology, genetics, replication and host-cell interactions.",
@@ -2474,8 +2474,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/10991751",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/10991751/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/10991751/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/17502659/homepage/open_access_licence_and_copyright.htm",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/17502659/homepage/open_access_licence_and_copyright.htm"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1986",
                     "description":"A forum for publications which direct attention to major issues in health policy, planning and management. The intention is to maintain a balance between theory and practice, from a variety of disciplines, fields and perspectives. The Journal is explicitly international and multidisciplinary in scope and appeal: articles about policy, planning and management in countries at various stages of political, social, cultural and economic development are welcomed, as are those directed at the different levels (national, regional, local) of the health sector. ",
@@ -2500,8 +2500,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/1467825X",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/1467825X/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/1467825X/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/17502659/homepage/open_access_licence_and_copyright.htm",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/17502659/homepage/open_access_licence_and_copyright.htm"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1991",
                     "description":"Africa Research Bulletin has been a leading research service on Africa since 1964, providing impartial summaries of, and extensive reports on, political and economic developments throughout the continent.  ",
@@ -2562,8 +2562,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/1478596X",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/1478596x/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/1478596x/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/1478596x/homepage/fundedaccess.html",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/1478596x/homepage/fundedaccess.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2006",
                     "description":"International Journal of Medical Robotics and Computer Assisted Surgery is a cross-disciplinary journal presenting the latest developments in robotics and computer assisted technologies for medical applications.",
@@ -2588,8 +2588,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/16000579",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/16000579/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/16000579/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/16000579/homepage/fundedaccess.html",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/16000579/homepage/fundedaccess.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2003",
                     "description":"European Journal of Dental Education publishes original articles and commentaries concerning curriculum development, teaching methodologies, assessment strategies or techniques, and quality assurance in the fields of dental undergraduate and postgraduate education and dental auxiliary personnel training.",
@@ -2614,8 +2614,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/1532849x",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/1532849x/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/1532849x/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2004",
                     "description":"Promotes the advanced study and practice of prosthodontics, implant, esthetic and reconstructive dentistry.  It is the official journal of the American College of Prosthodontists, the American Dental Association-recognized voice of the Specialty of Prosthodontics.   The Journal of Prosthodontics serves both researchers and practicing clinicians by providing a forum for the presentation and discussion of evidence-based prosthodontic research, techniques, and procedures.",
@@ -2640,8 +2640,8 @@ config={
                         "homepage": "https://www.hindawi.com/journals/ijd/",
                         "aims": "https://www.hindawi.com/journals/ijd/about/",
                         "guidelines": "https://www.hindawi.com/journals/ijd/guidelines/",
-                        "oa": "https://www.hindawi.com/journals/ijd/apc/",
-                    },
+                        "oa": "https://www.hindawi.com/journals/ijd/apc/"
+					},
                     "publishingBrand":"Hindawi, A Wiley Brand",
                     "publishedSince":null,
                     "description":"An open access journal publishing original research articles and review articles in all areas of dentistry, including periodontal diseases, dental implants, oral pathology, as well as oral and maxillofacial surgery. ",
@@ -2666,8 +2666,8 @@ config={
                         "homepage": "https://www.hindawi.com/journals/crid/",
                         "aims": "https://www.hindawi.com/journals/crid/about/",
                         "guidelines": "https://www.hindawi.com/journals/crid/guidelines/",
-                        "oa": "https://www.hindawi.com/journals/crid/apc/",
-                    },
+                        "oa": "https://www.hindawi.com/journals/crid/apc/"
+					},
                     "publishingBrand":"Hindawi, A Wiley Brand",
                     "publishedSince":null,
                     "description":"Case Reports in Dentistry is a peer-reviewed, Open Access journal that publishes case reports and case series in all areas of dentistry, including periodontal diseases, dental implants, oral pathology, as well as oral and maxillofacial surgery.",
@@ -2692,8 +2692,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/16000501",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/16000501/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/16000501/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/16000501/homepage/fundedaccess.html",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/16000501/homepage/fundedaccess.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2003",
                     "description":"Clinical Oral Implants Research conveys scientific progress in the field of implant dentistry and its related areas to clinicians, teachers and researchers concerned with the application of this information for the benefit of patients in need of oral implants. The journal addresses itself to clinicians, general practitioners, periodontists, oral and maxillofacial surgeons and prosthodontists, as well as to teachers, academicians and scholars involved in the education of professionals and in the scientific promotion of the field of implant dentistry.",
@@ -2718,8 +2718,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/17088240",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/17088240/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/17088240/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/17088240/homepage/fundedaccess.html",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/17088240/homepage/fundedaccess.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1988",
                     "description":"The Journal of Esthetic and Restorative Dentistry is the longest standing peer-reviewed journal devoted solely to advancing the knowledge and practice of esthetic dentistry.  Its goal is to provide the very latest evidence-based information in the realm of contemporary interdisciplinary esthetic dentistry through high quality clinical papers, sound research reports and educational features. ",
@@ -2744,8 +2744,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/17088208",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/17088208/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/17088208/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/17088208/homepage/fundedaccess.html",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/17088208/homepage/fundedaccess.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1999",
                     "description":"Clinical Implant Dentistry and Related Research aims to advance the scientific and technical developments within clinical implant dentistry and related subjects. The journal addresses itself to clinicians, researchers, teachers and students using and/or studying osseointegrated implants in the oral & maxillofacial areas. ",
@@ -2780,8 +2780,8 @@ config={
                         "homepage": "https://wildlife.onlinelibrary.wiley.com/journal/19372817",
                         "aims": "https://wildlife.onlinelibrary.wiley.com/hub/journal/19372817/productinformation.html",
                         "guidelines": "https://wildlife.onlinelibrary.wiley.com/hub/journal/19372817/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2011",
                     "description":"The Journal of Wildlife Management (and Wildlife Monographs, its supplemental series) publish manuscripts containing information from original research that contributes to basic wildlife science. Suitable topics include investigations into the biology and ecology of wildlife and their habitats that has direct or indirect implications for wildlife management and conservation.",
@@ -2806,8 +2806,8 @@ config={
                         "homepage": "https://esajournals.onlinelibrary.wiley.com/journal/15409309",
                         "aims": "https://esajournals.onlinelibrary.wiley.com/hub/journal/15409309/productinformation.html",
                         "guidelines": "https://esajournals.onlinelibrary.wiley.com/hub/journal/15409309/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/hub/journal/15409309/open-access",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/hub/journal/15409309/open-access"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2016",
                     "description":"International in scope and interdisciplinary in approach, Frontiers in Ecology and the Environment focuses on current ecological issues and environmental challenges.",
@@ -2832,8 +2832,8 @@ config={
                         "homepage": "https://esj-journals.onlinelibrary.wiley.com/journal/14401703",
                         "aims": "https://esj-journals.onlinelibrary.wiley.com/hub/journal/14401703/productinformation.html",
                         "guidelines": "https://esj-journals.onlinelibrary.wiley.com/hub/journal/14401703/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/hub/journal/14401703/homepage/open-access",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/hub/journal/14401703/homepage/open-access"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2019",
                     "description":"The official English language journal of The Ecological Society of Japan launched in 1986. The journal publishes original research papers, reviews, technical reports, notes and comments, and data papers covering all aspects of ecology and ecological sciences.",
@@ -2858,8 +2858,8 @@ config={
                         "homepage": "https://zslpublications.onlinelibrary.wiley.com/journal/20563485",
                         "aims": "https://zslpublications.onlinelibrary.wiley.com/hub/journal/20563485/productinformation.html",
                         "guidelines": "https://zslpublications.onlinelibrary.wiley.com/hub/journal/20563485/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/hub/journal/20563485/open-access-license-and-copyright",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/hub/journal/20563485/open-access-license-and-copyright"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2015",
                     "description":"A fully open access journal from Wiley and the Zoological Society of London. Remote sensing has enormous potential as to provide information on the state of, and pressures on, biological diversity and ecosystem services, at multiple spatial and temporal scales. This publication provides a forum for multidisciplinary research in remote sensing science, ecological research and conservation science. If accepted, an Article Publication Charge (APC) may apply. Institutions, countries, and other factors may result in partial or full coverage of the APC. Visit http://bit.ly/WileyOAFunding to determine what funding is available.?",
@@ -2884,8 +2884,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/13652699",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/13652699/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/13652699/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1974",
                     "description":"Publishes research at the intersection of biology and geography that is scientifically important and of broad general interest. ",
@@ -2910,8 +2910,8 @@ config={
                         "homepage": "https://www.hindawi.com/journals/tswj/",
                         "aims": "https://www.hindawi.com/journals/tswj/about/",
                         "guidelines": "https://www.hindawi.com/journals/tswj/guidelines/",
-                        "oa": "https://www.hindawi.com/journals/tswj/apc/",
-                    },
+                        "oa": "https://www.hindawi.com/journals/tswj/apc/"
+					},
                     "publishingBrand":"Hindawi, A Wiley Brand",
                     "publishedSince":"",
                     "description":"An open access journal covering a wide range of subjects in science, technology, and medicine. Research and review articles will be considered.", 
@@ -2946,8 +2946,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/15322998",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/15322998/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/15322998/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1985",
                     "description":"Provides an international forum for disseminating cutting-edge theoretical and empirical research that significantly advances understanding of the relationship between stress and health and well-being in humans.",
@@ -2972,8 +2972,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/13697625",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/13697625/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/13697625/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/13697625/homepage/open_access_license_and_copyright.htm",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/13697625/homepage/open_access_license_and_copyright.htm"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1998",
                     "description":"An open access journal that promotes critical thinking and informed debate about all aspects of patient and public involvement and engagement (PPIE) in health and social care, health policy and health services research. If accepted, an Article Publication Charge (APC) may apply.  Institutions, countries, and other factors may result in partial or full coverage of the APC. Visit http://bit.ly/WileyOAFunding to determine what funding is available.",
@@ -2998,8 +2998,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/14680432",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/14680432/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/14680432/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/14680432/homepage/fundedaccess.html",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/14680432/homepage/fundedaccess.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1994",
                     "description":"Launched in 1994, Gender, Work & Organization was the first journal to provide an arena dedicated to debate and analysis of gender relations, the organization of gender and the gendering of organizations. Since then Gender, Work & Organization has published multi-disciplinary, high quality qualitative empirical research on gendered power relations and identities in the study of work and organization exploring issues of inclusion and exclusion. It has also published quantitative work guided by critical epistemologies on issues such as the gender pay gap, flexible work, career patterns, women on boards and access to leadership positions.",
@@ -3024,8 +3024,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/13652524",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/13652524/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/13652524/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/13697625/homepage/open_access_license_and_copyright.htm",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/13697625/homepage/open_access_license_and_copyright.htm"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2003",
                     "description":"An essential journal for anyone involved in nursing, social work, physiotherapy, occupational therapy, general practice, health psychology, health economy, primary health care and the promotion of health.",
@@ -3051,8 +3051,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/13652206",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/13652206/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/13652206/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/13697625/homepage/open_access_license_and_copyright.htm",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/13697625/homepage/open_access_license_and_copyright.htm"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1996",
                     "description":"Child & Family Social Work publishes original and distinguished contributions on matters of research, theory, policy and practice in the field of social work with children and their families.",
@@ -3077,8 +3077,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/15206629",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/15206629/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/15206629/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/13697625/homepage/open_access_license_and_copyright.htm",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/13697625/homepage/open_access_license_and_copyright.htm"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1996",
                     "description":"A peer-reviewed journal devoted to research, evaluation, assessment, and intervention. Although review articles that deal with human behavior in community settings are occasionally accepted, the journal’s primary emphasis is on empirical work that is based in or informs studies to understand community factors that influence, positively and negatively, human development, interaction, and functioning.",
@@ -3103,8 +3103,8 @@ config={
                         "homepage": "https://www.hindawi.com/journals/aph/",
                         "aims": "https://www.hindawi.com/journals/aph/about/",
                         "guidelines": "https://www.hindawi.com/journals/aph/guidelines/",
-                        "oa": "hhttps://www.hindawi.com/journals/aph/apc/",
-                    },
+                        "oa": "hhttps://www.hindawi.com/journals/aph/apc/"
+					},
                     "publishingBrand":"Hindawi, A Wiley Brand",
                     "publishedSince":"",
                     "description":"An open access journal publishing research and review articles in all areas of public health.",
@@ -3140,8 +3140,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/16000447",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/16000447/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/16000447/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/16000447/homepage/fundedaccess.html",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/16000447/homepage/fundedaccess.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1961",
                     "description":"Publishes peer-reviewed original articles, systematic reviews and research letter on all aspects of clinical and translational psychiatry. ",
@@ -3166,8 +3166,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/15318249",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/15318249/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/15318249/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2001",
                     "description":"No description available",
@@ -3192,8 +3192,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/14401819",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/14401819/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/14401819/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1995",
                     "description":"Psychiatry and Clinical Neurosciences, the official international journal of the Japanese Society of Psychiatry and Neurology, publishes papers in all fields of psychiatry and related neurosciences. The journal plays an important role as a hub of academic exchanges between Eastern and Western psychiatrists.",
@@ -3218,8 +3218,8 @@ config={
                         "homepage": "https://www.hindawi.com/journals/bn/",
                         "aims": "https://www.hindawi.com/journals/bn/about/",
                         "guidelines": "https://www.hindawi.com/journals/bn/guidelines/",
-                        "oa": "https://www.hindawi.com/journals/bn/apc/",
-                    },
+                        "oa": "https://www.hindawi.com/journals/bn/apc/"
+					},
                     "publishingBrand":"Hindawi, A Wiley Brand",
                     "publishedSince":null,
                     "description":"An open access platform for researchers and clinicians working in cognitive neuroscience, neuropsychology, and neuropsychiatry.",
@@ -3244,8 +3244,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/19393806",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/19393806/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/19393806/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html",
-                    },
+                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"2008",
                     "description":"Covers research relevant to ASD and closely related neurodevelopmental disorders. The journal focuses on genetic, neurobiological, immunological, epidemiological and psychological mechanisms and how these influence developmental processes in ASD.",
@@ -3270,8 +3270,8 @@ config={
                         "homepage": "https://www.hindawi.com/journals/nri/",
                         "aims": "https://www.hindawi.com/journals/nri/about/",
                         "guidelines": "https://www.hindawi.com/journals/nri/guidelines/",
-                        "oa": "https://www.hindawi.com/journals/nri/apc/",
-                    },
+                        "oa": "https://www.hindawi.com/journals/nri/apc/"
+					},
                     "publishingBrand":"Hindawi, A Wiley Brand",
                     "publishedSince":null,
                     "description":"An open access journal focusing on diseases of the nervous system, as well as normal neurological functioning. Research includes basic, translational, and clinical research, including animal models.",
@@ -3297,8 +3297,8 @@ config={
                         "homepage": "https://onlinelibrary.wiley.com/journal/10982302",
                         "aims": "https://onlinelibrary.wiley.com/page/journal/10982302/homepage/productinformation.html",
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/10982302/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/10982302/homepage/fundedaccess.html",
-                    },
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/10982302/homepage/fundedaccess.html"
+					},
                     "publishingBrand":"Wiley",
                     "publishedSince":"1968",
                     "description":"Developmental Psychobiology is a peer-reviewed journal that publishes original research papers from the disciplines of psychology, biology, neuroscience, and medicine that contribute to an understanding of behavior development.",
@@ -3316,31 +3316,6 @@ config={
                 }
             ]
         }
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-         
-
 
     ]
 }
