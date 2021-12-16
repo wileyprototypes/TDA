@@ -2159,14 +2159,14 @@ config={
                     
                     "journalTitle":"International Journal of Nephrology",
                     "issns":"17556678,17556678,17556686",
-                    "journalCode": "JORC",
+                    "journalCode": "JORC2",
                     "links": {
                         "homepage": "https://www.hindawi.com/journals/ijn/",
                         "aims": "https://www.hindawi.com/journals/ijn/about/",
                         "guidelines": "https://www.hindawi.com/journals/ijn/guidelines/",
                         "oa": "https://www.hindawi.com/journals/ijn/apc/",
                     },
-                    "publishingBrand":"Hindawi, a Wiley Brand",
+                    "publishingBrand":"Hindawi, A Wiley Brand",
                     "publishedSince":"2008",
                     "description":"An open access journal publishing research articles and review articles on the prevention, diagnosis, and management of kidney diseases and associated disorders. ", 
                     "oa":"Open Access",
