@@ -267,7 +267,7 @@
         <a href="" style="color:#005274; text-decoration: underline;">Click here</a> to stop receiving future transfer offers for all submissions</mj-text>
         </mj-column>
     </mj-section>  
-    <mj-section>
+    <mj-section background-color="#D7D9DA">
         <mj-column>
    
     <mj-image padding-bottom="30px" width="141px" src=" https://wileyprototypes.github.io/TDA/img/wiley.png" />
