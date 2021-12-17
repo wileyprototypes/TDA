@@ -54,9 +54,7 @@
                         <div class="right-details rightbtn">                            
                             {{#if_eq this.publishingBrand 'Wiley'}}
                             <a class="transfer-button" href="proto.html?userid={{../participantid}}&journaltitle={{this.journalTitle}}">Start your transfer<span class="arrow"><img src="img/arrow.png"/></span></a>
-                            {{/if_eq}}
-
-                            {{#if_eq this.publishingBrand 'Hindawi, A Wiley Brand'}}
+                            {{else}}
                             <a class="transfer-button" href="protoh.html?userid={{../participantid}}&journaltitle={{this.journalTitle}}">Start your transfer<span class="arrow"><img src="img/arrow.png"/></span></a>
                             {{/if_eq}}
 
