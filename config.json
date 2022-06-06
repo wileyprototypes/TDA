@@ -406,7 +406,7 @@ config={
         {
             "participantid":"participant@gmail.com",
             "MSID":"1231455",
-            "manuscriptTitle":" Predicting the risk of chemotherapy toxicity in older patients: The Chemotherapy Risk Assessment Scale for High‐Age Patients (CRASH) score",
+            "manuscriptTitle":" Predicting the risk of chemotherapy toxicity in older patients: The Chemotherapy Risk Assessment Scale for High-Age Patients (CRASH) score",
             "feederJournal":"CA: A Cancer Journal for Clinicians",
             "authorName":"Demo Participant",
             "authorEmail":"participant@gmail.com",
@@ -478,7 +478,7 @@ config={
         {
             "participantid":"user1@gmail.com",
             "MSID":"1231455",
-            "manuscriptTitle":" Predicting the risk of chemotherapy toxicity in older patients: The Chemotherapy Risk Assessment Scale for High‐Age Patients (CRASH) score",
+            "manuscriptTitle":" Predicting the risk of chemotherapy toxicity in older patients: The Chemotherapy Risk Assessment Scale for High-Age Patients (CRASH) score",
             "feederJournal":"CA: A Cancer Journal for Clinicians",
             "authorName":"Demo Participant",
             "authorEmail":"user1@gmail.com",
@@ -549,7 +549,7 @@ config={
         {
             "participantid":"user2@gmail.com",
             "MSID":"1231455",
-            "manuscriptTitle":" Predicting the risk of chemotherapy toxicity in older patients: The Chemotherapy Risk Assessment Scale for High‐Age Patients (CRASH) score",
+            "manuscriptTitle":" Predicting the risk of chemotherapy toxicity in older patients: The Chemotherapy Risk Assessment Scale for High-Age Patients (CRASH) score",
             "feederJournal":"CA: A Cancer Journal for Clinicians",
             "authorName":"Demo Participant",
             "authorEmail":"user2@gmail.com",
@@ -620,7 +620,7 @@ config={
         {
             "participantid":"user3@gmail.com",
             "MSID":"1231455",
-            "manuscriptTitle":" Predicting the risk of chemotherapy toxicity in older patients: The Chemotherapy Risk Assessment Scale for High‐Age Patients (CRASH) score",
+            "manuscriptTitle":" Predicting the risk of chemotherapy toxicity in older patients: The Chemotherapy Risk Assessment Scale for High-Age Patients (CRASH) score",
             "feederJournal":"CA: A Cancer Journal for Clinicians",
             "authorName":"Demo Participant",
             "authorEmail":"user3@gmail.com",
@@ -725,6 +725,32 @@ config={
                 {
                     
                     "journalTitle":"International Journal of Psychology",
+                    "issns":"00207594,1464066X,00207594",
+                    "journalCode": "IJOP",
+                    "links": {
+                        "homepage": "https://onlinelibrary.wiley.com/journal/1464066X",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/1464066X/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/1464066X/homepage/forauthors.html",
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/1464066x/homepage/publishopenaccess.htm"
+					},
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2014",
+                    "description":"Advances psychological research of interest and relevance for the human condition around the world and serves as the outlet for internationally relevant basic and applied research in scientific psychology. Contributions are encouraged from all fields of psychology, especially those that address new developments and pursue innovative approaches.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":false,
+                    "metrics":{ 
+                        "impact":"2", 
+                        "SJR":"0.750",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"62",
+                        "submissionToFirstDecision":"39",
+                        "acceptanceToPublication":"22",
+                        "acceptanceRate":"14.4%"
+                    }
+                },
+                {
+                    
+                    "journalTitle":"fgdssdfg",
                     "issns":"00207594,1464066X,00207594",
                     "journalCode": "IJOP",
                     "links": {
