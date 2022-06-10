@@ -6,401 +6,89 @@ config={
         {
             "participantid":"test@gmail.com",
             "MSID":"1231455",
-            "manuscriptTitle":"Effect of integrated weed control methods on weed and maize (Zea mays L.) growth and yield in Kunar, Afghanistan",
-            "feederJournal":"ABC",
-            "authorName":"Test User",
+            "manuscriptTitle":"Social Media in Mainland China",
+            "feederJournal":"Journal of Public Affairs",
+            "authorName":"Zhang Wei",
             "authorEmail":"test@gmail.com",
             "results":[
                 {
                     
-                    "journalTitle":"Weed Research",
+                    "journalTitle":"Journal of Community Psychology",
                     "issns":"00431737,00431737,13653180",
                     "journalCode": "WRE",
                     "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/13653180",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/13653180/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/13653180/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
+                        "homepage": "https://onlinelibrary.wiley.com/journal/15206629",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/15206629/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/15206629/homepage/forauthors.html",
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/15206629/homepage/fundedaccess.html"
                     },
                     "publishingBrand":"Wiley",
-                    "publishedSince":"2003",
-                    "description":"An international peer-reviewed journal that publishes topical and innovative papers on all aspects of weeds, defined as plants that impact adversely on economic, aesthetic or environmental aspects of any system.",
+                    "publishedSince":"1996",
+                    "description":"A peer-reviewed journal devoted to research, evaluation, assessment, and intervention. Although review articles that deal with human behavior in community settings are occasionally accepted, the journal’s primary emphasis is on empirical work that is based in or informs studies to understand community factors that influence, positively and negatively, human development, interaction, and functioning.",
                     "oa":"Subscription or Open Access", 
                     "formatFree":false,
                     "metrics":{ 
-                        "impact":"2.424", 
-                        "SJR":"0.693",
-                        "SJRQuadrant":"Q1",
-                        "H-Index":"74",
-                        "submissionToFirstDecision":"37",
-                        "acceptanceToPublication":"30",
-                        "acceptanceRate":"18.8%"
+                        "impact":"2.282", 
+                        "SJR":"0.585",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"86",
+                        "submissionToFirstDecision":"31",
+                        "acceptanceToPublication":"17",
+                        "acceptanceRate":"46.3%"
                     }
                 },
                 {
                     
-                    "journalTitle":"Crop Science",
+                    "journalTitle":"Complexity",
                     "issns":"14350653,14350653,0011183X",
                     "journalCode": "CSC2",
                     "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/14350653",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/14350653/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14350653/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/hub/journal/14350653/openaccess"
+                        "homepage": "https://www.hindawi.com/journals/complexity/",
+                        "aims": "https://www.hindawi.com/journals/complexity/about/#aims-and-scope",
+                        "guidelines": "https://www.hindawi.com/journals/complexity/guidelines/",
+                        "oa": "https://www.hindawi.com/journals/complexity/apc/"
                     },
-                    "publishingBrand":"Wiley",
-                    "publishedSince":"2020",
-                    "description":"Crop Science, the flagship publication of CSSA, is a top international journal in the fields of crop breeding and genetics, crop physiology, and crop production and is a critical outlet for articles describing plant germplasm collections and their use.",
-                    "oa":"Subscription or Open Access", 
-                    "formatFree":false,
+                    "publishingBrand":"Hindawi, A Wiley Brand",
+                    "publishedSince":"1995",
+                    "description":"Complexity publishes original research and review articles across a broad range of disciplines with the purpose of reporting important advances in the scientific study of complex systems.",                   
+		    "oa":"Open Access", 
+                    "formatFree":true,
                     "metrics":{ 
-                        "impact":"2.319", 
-                        "SJR":"0.760",
+                        "impact":"2.833", 
+                        "SJR":"0.447",
                         "SJRQuadrant":"Q1",
-                        "H-Index":"147",
-                        "submissionToFirstDecision":"23",
-                        "acceptanceToPublication":"62",
-                        "acceptanceRate":"29.4%"
+                        "H-Index":"61",
+                        "submissionToFirstDecision":"63",
+                        "acceptanceToPublication":"20",
+                        "acceptanceRate":"43.0%"
                     }
                 },
                 {
                     
-                    "journalTitle":"Applied and Environmental Soil Science",
+                    "journalTitle":"Asia & the Pacific Policy Studies",
                     "issns":"16877667, 16877675,16877667",
                     "journalCode": "EBAC26585",
                     "links": {
-                        "homepage": "https://www.hindawi.com/journals/aess/",
-                        "aims": "https://www.hindawi.com/journals/aess/about/",
-                        "guidelines": "https://www.hindawi.com/journals/aess/guidelines/",
-                        "oa": "https://www.hindawi.com/journals/aess/apc/"
+                        "homepage": "https://onlinelibrary.wiley.com/journal/20502680",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/20502680/homepage/productinformation.html",
+                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/20502680/homepage/forauthors.html",
+                        "oa": "https://onlinelibrary.wiley.com/page/journal/20502680/homepage/fundedaccess.html"
                     },
-                    "publishingBrand":"Hindawi, A Wiley Brand",
-                    "publishedSince":"",
-                    "description":"An open access journal publishing research and review articles in the field of soil science, reflecting the discipline\u0027s multidisciplinary nature, especially the dynamics \u0026 spatial heterogeneity of processes in soil.",
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2014",
+                    "description":"Asia & the Pacific Policy Studies is the flagship journal of the Crawford School of Public Policy at The Australian National University. It is a peer-reviewed journal that targets policy-relevant research in Australia, Asia and the Pacific. Its disciplinary focus includes economics, political science, governance and development studies, and environmental management.",
                     "oa":"Open Access", 
-                    "formatFree":true,
-                    "metrics":{ 
-                        "impact":"", 
-                        "SJR":"0.431",
-                        "SJRQuadrant":"Q2",
-                        "H-Index":"23",
-                        "submissionToFirstDecision":"93",
-                        "acceptanceToPublication":"48",
-                        "acceptanceRate":"22.0%"
-                    }
-                },
-                {
-                    
-                    "journalTitle":"Agricultural and Forest Entomology",
-                    "issns":"14619555,14619555,14619563",
-                    "journalCode": "AFE",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/14619563",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/14619563/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14619563/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
-					},
-                    "publishingBrand":"Wiley",
-                    "publishedSince":"1999",
-                    "description":"Provides a multi-disciplinary and international forum in which researchers can present their work on all aspects of agricultural and forest entomology to other researchers, policy makers and professionals.",
-                    "oa":"Subscription or Open Access", 
                     "formatFree":false,
                     "metrics":{ 
-                        "impact":"2.509", 
-                        "SJR":"0.755",
+                        "impact":"2.014", 
+                        "SJR":"0.529",
                         "SJRQuadrant":"Q1",
-                        "H-Index":"55",
-                        "submissionToFirstDecision":"26",
-                        "acceptanceToPublication":"17",
-                        "acceptanceRate":"25.8%"
-                    }
-                },
-                {
-                    
-                    "journalTitle":"Starch",
-                    "issns":"1521379X",
-                    "journalCode": "2041",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/1521379X",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/1521379X/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/1521379X/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/1521379x/homepage/2041_onlineopen.html"
-					},
-                    "publishingBrand":"Wiley",
-                    "publishedSince":"",
-                    "description":"The premier point of reference for modern starch and non-starch carbohydrate related research and knowledge, having evolved from a focus on traditional processing of starches and their industrial applications.",
-                    "oa":"Subscription or Open Access", 
-                    "formatFree":false,
-                    "metrics":{ 
-                        "impact":"2.741", 
-                        "SJR":"0.620",
-                        "SJRQuadrant":"Q2",
-                        "H-Index":"82",
-                        "submissionToFirstDecision":"",
-                        "acceptanceToPublication":"",
-                        "acceptanceRate":"59.1%"
-                    }
-                },
-                {
-                    
-                    "journalTitle":"Annals of Applied Biology",
-                    "issns":"00034746,17447348,00034746",
-                    "journalCode": "AAB",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/17447348",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/17447348/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/17447348/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
-					},
-                    "publishingBrand":"Wiley",
-                    "publishedSince":"2003",
-                    "description":"Publishes original research papers on all aspects of applied research on crop production, crop protection and the cropping ecosystem, integrated pest management, animal health and welfare, including the interaction with both wildlife and farmland animals and birds.",
-                    "oa":"Subscription or Open Access", 
-                    "formatFree":false,
-                    "metrics":{ 
-                        "impact":"2.75", 
-                        "SJR":"0.677",
-                        "SJRQuadrant":"Q1",
-                        "H-Index":"80",
-                        "submissionToFirstDecision":"22",
-                        "acceptanceToPublication":"25",
-                        "acceptanceRate":"17.9%"
-                    }
-                },
-                {
-                    
-                    "journalTitle":"Austral Entomology",
-                    "issns":"2052174X,2052174X,20521758",
-                    "journalCode": "AEN",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/20521758",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/20521758/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/20521758/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
-					},
-                    "publishingBrand":"Wiley",
-                    "publishedSince":"1998",
-                    "description":"This journal is a scientific journal of entomology for the Southern Hemisphere.  It publishes Original Articles that are peer-reviewed research papers from the study of the behaviour, biology, biosystematics, conservation biology, ecology, evolution, forensic and medical entomology, molecular biology, public health, urban entomology, physiology and the use and control of insects, arachnids and myriapods.",
-                    "oa":"Subscription or Open Access", 
-                    "formatFree":false,
-                    "metrics":{ 
-                        "impact":"1.667", 
-                        "SJR":"0.502",
-                        "SJRQuadrant":"Q2",
-                        "H-Index":"39",
-                        "submissionToFirstDecision":"26",
-                        "acceptanceToPublication":"34",
-                        "acceptanceRate":"27.1%"
-                    }
-                },
-                {
-                    
-                    "journalTitle":"Journal of Agronomy and Crop Science",
-                    "issns":"09312250,1439037X,09312250",
-                    "journalCode": "JAC",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/1439037x",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/1439037x/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/1439037x/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
-					},
-                    "publishingBrand":"Wiley",
-                    "publishedSince":"2004",
-                    "description":"Publishes original papers and reviews on the general and special science of abiotic plant stress. Specific topics include:\u00a0drought, including water-use efficiency, such as\u00a0salinity,\u00a0alkaline and acidic stress, extreme temperatures since\u00a0heat,\u00a0cold and chilling stress\u00a0limit the cultivation of crops,\u00a0flooding and oxidative stress, and means of restricting them. In this context, stress refers to extreme conditions under which crops and forages grow.\u00a0",
-                    "oa":"Subscription or Open Access", 
-                    "formatFree":false,
-                    "metrics":{ 
-                        "impact":"3.473", 
-                        "SJR":"1.095",
-                        "SJRQuadrant":"Q1",
-                        "H-Index":"74",
-                        "submissionToFirstDecision":"23",
-                        "acceptanceToPublication":"33",
-                        "acceptanceRate":"19.5%"
-                    }
-                },
-                {
-                    
-                    "journalTitle":"International Journal of Agronomy",
-                    "issns":"16878159, 16878167,16878159",
-                    "journalCode": "EBAC32976",
-                    "links": {
-                        "homepage": "https://www.hindawi.com/journals/ija/",
-                        "aims": "https://www.hindawi.com/journals/ija/about/",
-                        "guidelines": "https://www.hindawi.com/journals/ija/guidelines/",
-                        "oa": "https://www.hindawi.com/journals/ija/apc/"
-					},
-                    "publishingBrand":"Hindawi, A Wiley Brand",
-                    "publishedSince":null,
-                    "description":"An open access journal focusing on crop production and management, crop science and physiology, crop disease and protection, and agroclimatology and soil science. Research and review articles considered. ",
-                    "oa":"Open Access", 
-                    "formatFree":true,
-                    "metrics":{ 
-                        "impact":"", 
-                        "SJR":"0.493",
-                        "SJRQuadrant":"Q2",
-                        "H-Index":"16",
-                        "submissionToFirstDecision":"61",
-                        "acceptanceToPublication":"41",
-                        "acceptanceRate":"23.0%"
-                    }
-                },
-                {
-                    
-                    "journalTitle":"Journal of Food Biochemistry",
-                    "issns":"01458884,17454514,01458884",
-                    "journalCode": "JFBC",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/17454514",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/17454514/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/17454514/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/page/journal/17454514/homepage/fundedaccess.html"
-					},
-                    "publishingBrand":"Wiley",
-                    "publishedSince":"2005",
-                    "description":"The Journal of Food Biochemistry publishes fully peer-reviewed original research and review papers on the effects of handling, storage, and processing on the biochemical aspects of food tissues, systems, and bioactive compounds in the diet.",
-                    "oa":"Subscription or Open Access", 
-                    "formatFree":false,
-                    "metrics":{ 
-                        "impact":"2.72", 
-                        "SJR":"0.507",
-                        "SJRQuadrant":"Q2",
-                        "H-Index":"47",
-                        "submissionToFirstDecision":"17",
-                        "acceptanceToPublication":"19",
-                        "acceptanceRate":"27.4%"
-                    }
-                },
-                {
-                    
-                    "journalTitle":"Journal of Systematics and Evolution",
-                    "issns":"16744918,17596831,16744918",
-                    "journalCode": "JSE",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/17596831",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/17596831/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/17596831/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
-					},
-                    "publishingBrand":"Wiley",
-                    "publishedSince":"2009",
-                    "description":"A plant-based international journal newly dedicated to the description and understanding of the biological diversity. It covers: description of new taxa, monographic revision, phylogenetics, molecular evolution and genome evolution, evolutionary developmental biology, evolutionary ecology, population biology, conservation biology, biogeography, paleobiology, evolutionary theories, and related subjects.",
-                    "oa":"Subscription or Open Access", 
-                    "formatFree":false,
-                    "metrics":{ 
-                        "impact":"4.098", 
-                        "SJR":"1.249",
-                        "SJRQuadrant":"Q1",
-                        "H-Index":"46",
-                        "submissionToFirstDecision":"37",
-                        "acceptanceToPublication":"65",
-                        "acceptanceRate":"57.7%"
-                    }
-                },
-                {
-                    
-                    "journalTitle":"Ecological Research",
-                    "issns":"09123814,14401703,09123814",
-                    "journalCode": "ERE",
-                    "links": {
-                        "homepage": "https://esj-journals.onlinelibrary.wiley.com/journal/14401703",
-                        "aims": "https://esj-journals.onlinelibrary.wiley.com/hub/journal/14401703/productinformation.html",
-                        "guidelines": "https://esj-journals.onlinelibrary.wiley.com/hub/journal/14401703/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/hub/journal/14401703/homepage/open-access"
-					},
-                    "publishingBrand":"Wiley",
-                    "publishedSince":"2019",
-                    "description":"The official English language journal of The Ecological Society of Japan launched in 1986. The journal publishes original research papers, reviews, technical reports, notes and comments, and data papers covering all aspects of ecology and ecological sciences.",
-                    "oa":"Subscription or Open Access", 
-                    "formatFree":false,
-                    "metrics":{ 
-                        "impact":"1.917", 
-                        "SJR":"0.628",
-                        "SJRQuadrant":"Q2",
-                        "H-Index":"68",
-                        "submissionToFirstDecision":"36",
-                        "acceptanceToPublication":"22",
-                        "acceptanceRate":"34.7%"
-                    }
-                },
-                {
-                    
-                    "journalTitle":"Agronomy Journal",
-                    "issns":"14350645,00021962,14350645",
-                    "journalCode": "AGJ2",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/14350645",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/14350645/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14350645/homepage/forauthors.html",
-                        "oa": "https://onlinelibrary.wiley.com/hub/journal/14350645/openaccess"
-					},
-                    "publishingBrand":"Wiley",
-                    "publishedSince":"2020",
-                    "description":"Agronomy Journal is the flagship journal of ASA. Articles convey original research in agriculture, natural resources, soil science, crop science, agroclimatology, agronomic modeling, production agriculture, and instrumentation.",
-                    "oa":"Subscription or Open Access", 
-                    "formatFree":false,
-                    "metrics":{ 
-                        "impact":"2.24", 
-                        "SJR":"0.752",
-                        "SJRQuadrant":"Q1",
-                        "H-Index":"131",
-                        "submissionToFirstDecision":"37",
+                        "H-Index":"14",
+                        "submissionToFirstDecision":"12",
                         "acceptanceToPublication":"58",
-                        "acceptanceRate":"34.7%"
+                        "acceptanceRate":"6.1%"
                     }
                 },
-                {
-                    
-                    "journalTitle":"Plant Breeding",
-                    "issns":"01799541,14390523,01799541",
-                    "journalCode": "PBR",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/14390523",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/14390523/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/14390523/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
-					},
-                    "publishingBrand":"Wiley",
-                    "publishedSince":"2003",
-                    "description":"Publishes full-length original manuscripts and review articles by internationally recognized scientists, covering all areas of plant breeding, including plant genetics, plant physiology, plant pathology, and plant development. The journal focuses on crop plants and is therefore of interest to seed companies and the plant breeding industry as well as to researchers and teachers in this field.",
-                    "oa":"Subscription or Open Access", 
-                    "formatFree":false,
-                    "metrics":{ 
-                        "impact":"1.832", 
-                        "SJR":"0.583",
-                        "SJRQuadrant":"Q2",
-                        "H-Index":"71",
-                        "submissionToFirstDecision":"22",
-                        "acceptanceToPublication":"40",
-                        "acceptanceRate":"21.1%"
-                    }
-                },
-                {
-                    
-                    "journalTitle":"Grassland Science",
-                    "issns":"17446961,1744697X,17446961",
-                    "journalCode": "GRS",
-                    "links": {
-                        "homepage": "https://onlinelibrary.wiley.com/journal/1744697X",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/1744697X/homepage/productinformation.html",
-                        "guidelines": "https://onlinelibrary.wiley.com/page/journal/1744697X/homepage/forauthors.html",
-                        "oa": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html"
-					},
-                    "publishingBrand":"Wiley",
-                    "publishedSince":"2005",
-                    "description":"The official English language journal of the Japanese Society of Grassland Science. Publishes original research papers, review articles and short reports in all aspects of grassland science, with an aim of presenting and sharing knowledge, ideas and philosophies on better management and use of grasslands, forage crops and turf plants for both agricultural and non-agricultural purposes across the world.",
-                    "oa":"Subscription or Open Access", 
-                    "formatFree":false,
-                    "metrics":{ 
-                        "impact":"1.65", 
-                        "SJR":"0.388",
-                        "SJRQuadrant":"Q2",
-                        "H-Index":"19",
-                        "submissionToFirstDecision":"48",
-                        "acceptanceToPublication":"58",
-                        "acceptanceRate":"39.1%"
-                    }
-                }
             ]
         },    
         {
