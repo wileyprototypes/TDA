@@ -22,7 +22,7 @@ config={
                         "guidelines": "https://onlinelibrary.wiley.com/page/journal/15206629/homepage/forauthors.html",
                         "oa": "https://onlinelibrary.wiley.com/page/journal/15206629/homepage/fundedaccess.html"
                     },
-		{
+		
                     "publishingBrand":"Wiley",
                     "publishedSince":"1996",
                     "description":"A peer-reviewed journal devoted to research, evaluation, assessment, and intervention. Although review articles that deal with human behavior in community settings are occasionally accepted, the journal’s primary emphasis is on empirical work that is based in or informs studies to understand community factors that influence, positively and negatively, human development, interaction, and functioning.",
