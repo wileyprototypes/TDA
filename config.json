@@ -91,7 +91,122 @@ config={
                     }
                 },
             ]
-        },    
+        }, 
+        {
+            "participantid":"china-user@163.com",
+            "MSID":"1231455",
+            "manuscriptTitle":"Papillomaviruses and cancer",
+            "feederJournal":"CA: A Cancer Journal for Clinicians",
+            "authorName":"Cheng Long",
+            "authorEmail":"china-user@163.com",
+            "results":[
+                {
+                    "journalTitle":"International Joural of Cancer",
+                    "links":{
+                        "homepage":"https://onlinelibrary.wiley.com/journal/14401797",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/14401797/homepage/productinformation.html",
+                        "guidelines":"https://onlinelibrary.wiley.com/page/journal/14401797/homepage/forauthors.html"
+                    },
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1960",
+                    "description":"The International Journal of Cancer (IJC) is the official journal of the Union for International Cancer Control (UICC). IJC has a global readership and publishes under a broad scope of topics relevant to experimental and clinical cancer research. We invite and encourage original Research Articles and Short Reports.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":true,
+                    "metrics":{ 
+                        "impact":"7.369", 
+                        "SJR":"2.06",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"242",
+                        "submissionToFirstDecision":"12"
+                    }           
+                },
+                {
+                    "journalTitle":"Journal of Medical Virology",
+                    "links":{
+                        "homepage":"https://bpspubs.onlinelibrary.wiley.com/journal/13652125",
+                        "aims": "https://bpspubs.onlinelibrary.wiley.com/hub/journal/13652125/productinformation.html",
+                        "guidelines":"https://bpspubs.onlinelibrary.wiley.com/hub/journal/13652125/forauthors.html"
+                    },
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1977",
+                    "description":"Journal of Medical Virology provides a means of rapid publication of original scientific papers on fundamental as well as applied research concerning viruses affecting humans. ",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":false, 
+                    "metrics":{ 
+                        "impact":"2.327", 
+                        "SJR":"2.66",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"137",
+                        "submissionToFirstDecision":"33",
+                        "acceptanceToPublication":"27"
+                    }           
+                },
+                {
+                    "journalTitle":"Reviews in Medical Virology",
+                    "links":{
+                        "homepage":"https://www.hindawi.com/journals/jsc/",
+                        "aims": "https://www.hindawi.com/journals/jsc/about/",
+                        "guidelines":"https://www.hindawi.com/journals/jsc/guidelines/"
+                    },
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1991",
+                    "description":"Publishes articles reviewing conceptual or technological advances in diverse areas of virology. Topics covered will include the molecular biology, cell biology, replication, pathogenesis, immunology, immunization, epidemiology, diagnosis or treatment of viruses of medical importance and COVID-19 research.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":true, 
+                    "metrics":{ 
+                        "impact":"6.989", 
+                        "SJR":"2.37",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"96",
+                        "submissionToFirstDecision":"33",
+                        "acceptanceToPublication":"27"
+                    }           
+                },
+                {
+                    "journalTitle":"Cancer Medicine",
+                    "links":{
+                        "homepage":"https://www.hindawi.com/journals/jsc/",
+                        "aims": "https://www.hindawi.com/journals/jsc/about/",
+                        "guidelines":"https://www.hindawi.com/journals/jsc/guidelines/"
+                    },
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2012",
+                    "description":"Cancer Medicine is a peer-reviewed, open access, interdisciplinary journal providing rapid publication of research from global biomedical researchers across the cancer sciences, in the areas of, but not limited to, cancer biology, clinical cancer research, and cancer prevention.",
+                    "oa":"Open Access", 
+                    "formatFree":false, 
+                    "metrics":{ 
+                        "impact":"4.452", 
+                        "SJR":"1.14",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"65",
+                        "submissionToFirstDecision":"33",
+                        "acceptanceToPublication":"27"
+                    }           
+                },
+                {
+                    "journalTitle":"Journal of Oncolody",
+                    "links":{
+                        "homepage":"https://www.hindawi.com/journals/jsc/",
+                        "aims": "https://www.hindawi.com/journals/jsc/about/",
+                        "guidelines":"https://www.hindawi.com/journals/jsc/guidelines/"
+                    },
+                    "publishingBrand":"Hindawi, A Wiley Brand",
+                    "publishedSince":"1974",
+                    "description":"Journal of Oncology publishes research related to breast cancer, lung cancer, gastrointestinal cancer, skin cancer, head and neck cancer, paediatric oncology, neurooncology as well as genitourinary cancer.",
+                    "oa":"Open Access", 
+                    "formatFree":true, 
+                    "metrics":{ 
+                        "impact":"4.375", 
+                        "SJR":"0.92",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"59",
+                        "submissionToFirstDecision":"58",
+                        "acceptanceToPublication":"22",
+                        "acceptanceRate":"27%"
+                    }           
+                }
+            ]
+        },   
         {
             "participantid":"participant@gmail.com",
             "MSID":"1231455",
