@@ -234,7 +234,7 @@ config={
                         "H-Index":"100",
                         "submissionToFirstDecision":"18",
                         "acceptanceToPublication":"51",
-                        "acceptanceRate":"16.7"
+                        "acceptanceRate":"16.7%"
                     }           
                 },
                 {
@@ -255,7 +255,7 @@ config={
                         "SJRQuadrant":"Q1",
                         "H-Index":"322",
                         "submissionToFirstDecision":"16",
-                        "acceptanceRate":"19.2"
+                        "acceptanceRate":"19.2%"
                     }           
                 },
                 {
@@ -277,7 +277,7 @@ config={
                         "H-Index":"95",
                         "submissionToFirstDecision":"27",
                         "acceptanceToPublication":"18",
-                        "acceptanceRate":"38.1"
+                        "acceptanceRate":"38.1%"
                     }           
                 },
                 {
