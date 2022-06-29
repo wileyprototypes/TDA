@@ -444,7 +444,127 @@ config={
                     }                   
                 }
             ]
-        },   
+        }, 
+ 	{
+        "participantid":"hjyu@simm.ac.cn",
+        "MSID":"advmat-S-21-12032",
+        "manuscriptTitle":"Tumor Microenvironment-Activatable Bioorthogonal Prodrug Nanoplatform Potentiates Immunotherapy of the Immune-Excluded Tumor",
+        "feederJournal":"Advanced Materials",
+        "authorName":"Haijun Yu",
+        "authorEmail":"hjyu@simm.ac.cn",
+        "results":[
+            {
+                "journalTitle":"Angewandte Chemie",
+                "links":{
+                    "homepage":"https://onlinelibrary.wiley.com/journal/15213757",
+                    "aims": "https://onlinelibrary.wiley.com/page/journal/15213757/homepage/productinformation.html",
+                    "guidelines":"https://onlinelibrary.wiley.com/page/journal/15213757/homepage/forauthors.html"
+                },
+                "publishingBrand":"Wiley",
+                "publishedSince":"1888",
+                "description":"Angewandte Chemie is a journal of the German Chemical Society (GDCh). It is one of the prime chemistry journals in the world. It is the only journal in the field delivering a stimulating mixture of Review-type articles, Highlights, Communications, and Research Articles. New articles appear online almost every day.",
+                "oa":"Subscription or Open Access", 
+                "formatFree":false,
+                "metrics":{ 
+                    "impact":"15.336", 
+                    "SJR":"5.126",
+                    "SJRQuadrant":"",
+                    "H-Index":"579",
+                    "submissionToFirstDecision":"12",
+                    "acceptanceToPublication":"",
+                    "acceptanceRate":"19.3"
+                }           
+            },
+            {
+                "journalTitle":"Advanced Science",
+                "links":{
+                    "homepage":"https://onlinelibrary.wiley.com/journal/21983844",
+                    "aims": "https://onlinelibrary.wiley.com/page/journal/21983844/homepage/productinformation.html",
+                    "guidelines":"https://onlinelibrary.wiley.com/page/journal/21983844/homepage/forauthors.html"
+                },
+                "publishingBrand":"Wiley",
+                "publishedSince":"2015",
+                "description":"An interdisciplinary premium open access journal covering fundamental and applied research in materials science, physics and chemistry, medical and life sciences, as well as engineering. Institutions, countries, and other factors may result in partial or full coverage of the APC. Visit http://bit.ly/WileyOAFunding to determine what funding is available.",
+                "oa":"Open Access", 
+                "formatFree":true,
+                "metrics":{ 
+                    "impact":"16.806", 
+                    "SJR":"5.388",
+                    "SJRQuadrant":"Q1",
+                    "H-Index":"100",
+                    "submissionToFirstDecision":"18",
+                    "acceptanceToPublication":"51",
+                    "acceptanceRate":"16.7"
+                }           
+            },
+            {
+                "journalTitle":"Advanced Healthcare Materials",
+                "links":{
+                    "homepage":"https://onlinelibrary.wiley.com/journal/21922659",
+                    "aims": "https://onlinelibrary.wiley.com/page/journal/21922659/homepage/productinformation.html",
+                    "guidelines":"https://onlinelibrary.wiley.com/page/journal/21922659/homepage/forauthors.html"
+                },
+                "publishingBrand":"Wiley",
+                "publishedSince":"2012",
+                "description":"An international, interdisciplinary forum for peer-reviewed papers on high-impact materials, devices, and technologies for improving human health including: biomaterials, as well as inorganic materials for biomedical applications; biointerfaces; nanomedicine and nanotechnology; tissue engineering and regenerative medicine; biofabrication technologies, devices for healthcare applications.",
+                "oa":"Subscription or Open Access", 
+                "formatFree":true, 
+                "metrics":{ 
+                    "impact":"9.933", 
+                    "SJR":"2.288",
+                    "SJRQuadrant":"Q1",
+                    "H-Index":"90",
+                    "submissionToFirstDecision":"18",
+                    "acceptanceToPublication":"",
+                    "acceptanceRate":"25.4%"
+                }           
+            },  
+            {
+                "journalTitle":"Journal of Nanomaterials",
+                "links":{
+                    "homepage":"https://www.hindawi.com/journals/jnm/",
+                    "aims": "https://www.hindawi.com/journals/jnm/about/",
+                    "guidelines":"https://www.hindawi.com/journals/jnm/guidelines/"
+                },
+                "publishingBrand":"Hindawi, a Wiley Brand",
+                "publishedSince":"2005",
+                "description":"An open access journal for researchers and practicing engineers focusing on the science and application of nanoscale and nanostructured materials. Research and review articles will be considered. Journal of Nanomaterials is published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS.",
+                "oa":"Open Access", 
+                "formatFree":true, 
+                "metrics":{ 
+                    "impact":"2.986", 
+                    "SJR":"0.463",
+                    "SJRQuadrant":"Q2",
+                    "H-Index":"66",
+                    "submissionToFirstDecision":"69",
+                    "acceptanceToPublication":"29",
+                    "acceptanceRate":"49%"
+                }                   
+            },
+            {
+                "journalTitle":"Biomed Research International",
+                "links":{
+                    "homepage":"https://www.hindawi.com/journals/bmri/",
+                    "aims": "https://www.hindawi.com/journals/bmri/about/",
+                    "guidelines":"https://www.hindawi.com/journals/bmri/guidelines/"
+                },
+                "publishingBrand":"Hindawi, a Wiley Brand",
+                "publishedSince":"2020",
+                "description":"An open access journal covering a broad scope of biomedical subject areas and led by dedicated Section Editors. Research and review articles will be considered. BioMed Research International is published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS.",
+                "oa":"Open Access", 
+                "formatFree":true, 
+                "metrics":{ 
+                    "impact":"3.411", 
+                    "SJR":"0.772",
+                    "SJRQuadrant":"Q2",
+                    "H-Index":"126",
+                    "submissionToFirstDecision":"67",
+                    "acceptanceToPublication":"30",
+                    "acceptanceRate":"31%"
+                }                   
+            }
+        ]
+    },  
         {
             "participantid":"participant@gmail.com",
             "MSID":"1231455",
