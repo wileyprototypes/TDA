@@ -352,7 +352,7 @@ config={
                         "H-Index":"579",
                         "submissionToFirstDecision":"12",
                         "acceptanceToPublication":"",
-                        "acceptanceRate":"19.3"
+                        "acceptanceRate":"19.3%"
                     }           
                 },
                 {
@@ -374,7 +374,7 @@ config={
                         "H-Index":"100",
                         "submissionToFirstDecision":"18",
                         "acceptanceToPublication":"51",
-                        "acceptanceRate":"16.7"
+                        "acceptanceRate":"16.7%"
                     }           
                 },
                 {
@@ -396,7 +396,7 @@ config={
                         "H-Index":"42",
                         "submissionToFirstDecision":"71",
                         "acceptanceToPublication":"29",
-                        "acceptanceRate":"33"
+                        "acceptanceRate":"33%"
                     }                   
                 },
                 {
@@ -440,7 +440,7 @@ config={
                         "H-Index":"",
                         "submissionToFirstDecision":"",
                         "acceptanceToPublication":"",
-                        "acceptanceRate":"72.5"
+                        "acceptanceRate":"72.5%"
                     }                   
                 }
             ]
