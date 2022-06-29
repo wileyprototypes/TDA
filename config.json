@@ -325,6 +325,126 @@ config={
                 }
             ]
         },   
+	{
+            "participantid":"ying.zhang@jiangnan.edu.cn",
+            "MSID":"advmat-S-22-04471",
+            "manuscriptTitle":"Synergistic Cu+/Cu0 on Cu2O-Cu interfaces for efficient and selective C2+ production in electrocatalytic CO2 conversion",
+            "feederJournal":"Advanced Materials",
+            "authorName":"Ying Zhang",
+            "authorEmail":"ying.zhang@jiangnan.edu.cn",
+            "results":[
+                {
+                    "journalTitle":"Angewandte Chemie",
+                    "links":{
+                        "homepage":"https://onlinelibrary.wiley.com/journal/15213757",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/15213757/homepage/productinformation.html",
+                        "guidelines":"https://onlinelibrary.wiley.com/page/journal/15213757/homepage/forauthors.html"
+                    },
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"1888",
+                    "description":"Angewandte Chemie is a journal of the German Chemical Society (GDCh). It is one of the prime chemistry journals in the world. It is the only journal in the field delivering a stimulating mixture of Review-type articles, Highlights, Communications, and Research Articles. New articles appear online almost every day.",
+                    "oa":"Subscription or Open Access", 
+                    "formatFree":false,
+                    "metrics":{ 
+                        "impact":"15.336", 
+                        "SJR":"5.126",
+                        "SJRQuadrant":"",
+                        "H-Index":"579",
+                        "submissionToFirstDecision":"12",
+                        "acceptanceToPublication":"",
+                        "acceptanceRate":"19.3"
+                    }           
+                },
+                {
+                    "journalTitle":"Advanced Science",
+                    "links":{
+                        "homepage":"https://onlinelibrary.wiley.com/journal/21983844",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/21983844/homepage/productinformation.html",
+                        "guidelines":"https://onlinelibrary.wiley.com/page/journal/21983844/homepage/forauthors.html"
+                    },
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2015",
+                    "description":"An interdisciplinary premium open access journal covering fundamental and applied research in materials science, physics and chemistry, medical and life sciences, as well as engineering. Institutions, countries, and other factors may result in partial or full coverage of the APC. Visit http://bit.ly/WileyOAFunding to determine what funding is available.",
+                    "oa":"Open Access", 
+                    "formatFree":true,
+                    "metrics":{ 
+                        "impact":"16.806", 
+                        "SJR":"5.388",
+                        "SJRQuadrant":"Q1",
+                        "H-Index":"100",
+                        "submissionToFirstDecision":"18",
+                        "acceptanceToPublication":"51",
+                        "acceptanceRate":"16.7"
+                    }           
+                },
+                {
+                    "journalTitle":"Advances in Materials Science and Engineering",
+                    "links":{
+                        "homepage":"https://www.hindawi.com/journals/amse/",
+                        "aims": "https://www.hindawi.com/journals/amse/about/",
+                        "guidelines":"https://www.hindawi.com/journals/amse/guidelines/"
+                    },
+                    "publishingBrand":"Hindawi, a Wiley Brand",
+                    "publishedSince":"2008",
+                    "description":"An open access journal covering all areas of materials science and engineering, including the synthesis, properties, and application of materials in engineering. Advances in Materials Science and Engineering is published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit:  https://bit.ly/2TpD9TS.",
+                    "oa":"Open Access", 
+                    "formatFree":false, 
+                    "metrics":{ 
+                        "impact":"1.726", 
+                        "SJR":"0.356",
+                        "SJRQuadrant":"Q2",
+                        "H-Index":"42",
+                        "submissionToFirstDecision":"71",
+                        "acceptanceToPublication":"29",
+                        "acceptanceRate":"33"
+                    }                   
+                },
+                {
+                    "journalTitle":"SmartMat",
+                    "links":{
+                        "homepage":"https://onlinelibrary.wiley.com/journal/2688819X",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/2688819X/homepage/productinformation.html",
+                        "guidelines":"https://onlinelibrary.wiley.com/page/journal/2688819X/homepage/forauthors.html"
+                    },
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2020",
+                    "description":"A new open access journal addressing the growing scientific interests in developing intelligent materials that can change significantly in a controlled fashion to external stimuli across the entire spectrum of materials science and engineering.",
+                    "oa":"Open Access", 
+                    "formatFree":false, 
+                    "metrics":{ 
+                        "impact":"", 
+                        "SJR":"",
+                        "SJRQuadrant":"",
+                        "H-Index":"",
+                        "submissionToFirstDecision":"",
+                        "acceptanceToPublication":"21",
+                        "acceptanceRate":""
+                    }           
+                },
+                {
+                    "journalTitle":"Electrochemical Science Advances",
+                    "links":{
+                        "homepage":"https://onlinelibrary.wiley.com/journal/26985977",
+                        "aims": "https://onlinelibrary.wiley.com/page/journal/26985977/homepage/productinformation.html",
+                        "guidelines":"https://onlinelibrary.wiley.com/page/journal/26985977/homepage/forauthors.html"
+                    },
+                    "publishingBrand":"Wiley",
+                    "publishedSince":"2020",
+                    "description":"Electrochemical Science Advances (ELSA) is an open-access journal published on behalf of Chemistry Europe, an association of 16 European chemical societies. ELSA is published by Wiley-VCH and is a sister journal of Angewandte Chemie, Chemistry—A European Journal, and the other Chemistry Europe journals. ELSA covers all fundamental and applied aspects of electrochemistry and related fields, including interdisciplinary and new emerging areas. The journal offers a platform where researchers from diverse backgrounds communicate via an array of electrochemical approaches and techniques.",
+                    "oa":"Open Access", 
+                    "formatFree":false, 
+                    "metrics":{ 
+                        "impact":"", 
+                        "SJR":"",
+                        "SJRQuadrant":"",
+                        "H-Index":"",
+                        "submissionToFirstDecision":"",
+                        "acceptanceToPublication":"",
+                        "acceptanceRate":"72.5"
+                    }                   
+                }
+            ]
+        },   
         {
             "participantid":"participant@gmail.com",
             "MSID":"1231455",
