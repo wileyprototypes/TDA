@@ -565,6 +565,148 @@ config={
             }
         ]
     },  
+{
+    "participantid":"hj_huangjin@126.com",
+    "MSID":"solar-rrl-S-22-00262",
+    "manuscriptTitle":"Benzol tetramintetrahydrochlorid-MA0.6FA0.4PbI3-xClx unsymmetrical perovskite for superior stable solar cell with over 23%",
+    "feederJournal":"Solar RRL",
+    "authorName":"Jin Huang",
+    "authorEmail":"hj_huangjin@126.com",
+    "results":[
+        {
+            "journalTitle":"Angewandte Chemie",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/15213757",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/15213757/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/15213757/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"1888",
+            "description":"Angewandte Chemie is a journal of the German Chemical Society (GDCh). It is one of the prime chemistry journals in the world. It is the only journal in the field delivering a stimulating mixture of Review-type articles, Highlights, Communications, and Research Articles. New articles appear online almost every day.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":false,
+            "metrics":{ 
+                "impact":"15.336", 
+                "SJR":"5.126",
+                "SJRQuadrant":"",
+                "H-Index":"579",
+                "submissionToFirstDecision":"12",
+                "acceptanceToPublication":"",
+                "acceptanceRate":"19.3"
+            }           
+        },
+        {
+            "journalTitle":"Advanced Functional Materials",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/16163028",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/16163028/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/16163028/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2001",
+            "description":"Firmly established as a top-tier materials science journal, reporting breakthrough research in all aspects of materials science, including nanotechnology, chemistry, physics, and biology every week. The journal is known for its rapid and fair peer review, quality content, and high impact, making it the first choice of the international materials science community.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":true,
+            "metrics":{ 
+                "impact":"18.808", 
+                "SJR":"6.069",
+                "SJRQuadrant":"Q1",
+                "H-Index":"322",
+                "submissionToFirstDecision":"16",
+                "acceptanceToPublication":"",
+                "acceptanceRate":"19.2"
+            }           
+        },
+        {
+            "journalTitle":"International Journal of Energy Research",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/1099114X",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/1099114X/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/1099114X/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"1977",
+            "description":"The International Journal of Energy Research is dedicated to providing a multidisciplinary platform for the discussion of issues arising in energy research without the constraints imposed by aiming at a restricted audience. It aims to reach all researchers, scientists, engineers, technology developers, planners and policy makers working in the areas of energy management, production, conversion, conservation, systems, technologies and applications, and their impact on the environment and sustainable development.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":false, 
+            "metrics":{ 
+                "impact":"5.164", 
+                "SJR":"0.808",
+                "SJRQuadrant":"Q1",
+                "H-Index":"95",
+                "submissionToFirstDecision":"27",
+                "acceptanceToPublication":"18",
+                "acceptanceRate":"38.1%"
+            }           
+        },  
+        {
+            "journalTitle":"Energy Science & Engineering",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/20500505",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/20500505/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/20500505/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2012",
+            "description":"Energy Science & Engineering is a peer reviewed, open access journal dedicated to fundamental and applied research on energy and supply and use. Published as a co-operative venture of Wiley and SCI (Society of Chemical Industry), the journal offers authors a fast route to publication and the ability to share their research with the widest possible audience of scientists, professionals and other interested people across the globe.",
+            "oa":"Open Access", 
+            "formatFree":false, 
+            "metrics":{ 
+                "impact":"4.17", 
+                "SJR":"0.638",
+                "SJRQuadrant":"Q2",
+                "H-Index":"29",
+                "submissionToFirstDecision":"28",
+                "acceptanceToPublication":"22",
+                "acceptanceRate":"22.5%"
+            }           
+        },  
+        {
+            "journalTitle":"International Journal of Photoenergy",
+            "links":{
+                "homepage":"https://www.hindawi.com/journals/ijp/",
+                "aims": "https://www.hindawi.com/journals/ijp/about/",
+                "guidelines":"https://www.hindawi.com/journals/ijp/guidelines/"
+            },
+            "publishingBrand":"Hindawi, a Wiley Brand",
+            "publishedSince":"1999",
+            "description":"An open access journal focusing on all areas of photoenergy, including photochemistry and solar energy utilization. Research and review articles will be considered. Published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS.",
+            "oa":"Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"2.113", 
+                "SJR":"0.426",
+                "SJRQuadrant":"Q2",
+                "H-Index":"51",
+                "submissionToFirstDecision":"64",
+                "acceptanceToPublication":"34",
+                "acceptanceRate":"46%"
+            }                   
+        },
+        {
+            "journalTitle":"Energy Technology",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/21944296",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/21944296/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/21944296/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2013",
+            "description":"Provides a forum for researchers and engineers from all relevant disciplines concerned with the generation, conversion, storage, and distribution of energy. This new journal shall publish articles covering all technical aspects of energy process engineering from different perspectives,Energy Technology provides a forum for researchers and engineers from all relevant disciplines concerned with the generation, conversion, storage, and distribution of energy.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":false, 
+            "metrics":{ 
+                "impact":"3.631", 
+                "SJR":"0.910",
+                "SJRQuadrant":"Q2",
+                "H-Index":"44",
+                "submissionToFirstDecision":"24",
+                "acceptanceToPublication":"",
+                "acceptanceRate":"30.9%"
+            }                   
+        }
+    ]
+},  
         {
             "participantid":"participant@gmail.com",
             "MSID":"1231455",
