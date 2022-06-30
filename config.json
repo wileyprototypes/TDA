@@ -988,6 +988,168 @@ config={
         }     
     ]
 },   
+{
+    "participantid":"houyi@iccas.ac.cn",
+    "MSID":"ANIE-S-22-03870",
+    "manuscriptTitle":"An Enzyme-like Activity Nanoprobe Based on Fe(III)-Rutin Hydrate Biomineral for MR Imaging and Therapy of Triple Negative Breast Cancer",
+    "feederJournal":"Angewandte Chemie",
+    "authorName":"Yi Hu",
+    "authorEmail":"houyi@iccas.ac.cn",
+    "results":[
+        {
+            "journalTitle":"Advanced Materials",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/15214095",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/15214095/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/15214095/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"1989",
+            "description":"Bringing you the latest progress in materials science every week for over 30 years. Read carefully selected, top-quality reviews, progress reports, communications, and research news at the cutting edge of the chemistry and physics of functional materials. One key to the success of Advanced Materials is its pronounced interdisciplinarity.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"30.849", 
+                "SJR":"10.707",
+                "SJRQuadrant":"Q1",
+                "H-Index":"527",
+                "submissionToFirstDecision":"17",
+                "acceptanceRate":"17%"
+            }           
+        },
+        {
+            "journalTitle":"Advanced Functional Materials",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/16163028",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/16163028/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/16163028/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2001",
+            "description":"Firmly established as a top-tier materials science journal, reporting breakthrough research in all aspects of materials science, including nanotechnology, chemistry, physics, and biology every week. The journal is known for its rapid and fair peer review, quality content, and high impact, making it the first choice of the international materials science community.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"18.808", 
+                "SJR":"6.069",
+                "SJRQuadrant":"Q1",
+                "H-Index":"322",
+                "submissionToFirstDecision":"16",
+                "acceptanceRate":"19.2"
+            }           
+        },
+        {
+            "journalTitle":"Advanced Science",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/21983844",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/21983844/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/21983844/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2015",
+            "description":"An interdisciplinary premium open access journal covering fundamental and applied research in materials science, physics and chemistry, medical and life sciences, as well as engineering. Institutions, countries, and other factors may result in partial or full coverage of the APC. Visit http://bit.ly/WileyOAFunding to determine what funding is available.",
+            "oa":"Open Access", 
+            "formatFree":true,
+            "metrics":{ 
+                "impact":"16.806", 
+                "SJR":"5.388",
+                "SJRQuadrant":"Q1",
+                "H-Index":"100",
+                "submissionToFirstDecision":"18",
+                "acceptanceToPublication":"51",
+                "acceptanceRate":"16.7"
+            }           
+        },
+        {
+            "journalTitle":"Advanced Healthcare Materials",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/21922659",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/21922659/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/21922659/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2012",
+            "description":"An international, interdisciplinary forum for peer-reviewed papers on high-impact materials, devices, and technologies for improving human health including: biomaterials, as well as inorganic materials for biomedical applications; biointerfaces; nanomedicine and nanotechnology; tissue engineering and regenerative medicine; biofabrication technologies, devices for healthcare applications.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"9.933", 
+                "SJR":"2.288",
+                "SJRQuadrant":"Q1",
+                "H-Index":"90",
+                "submissionToFirstDecision":"18",
+                "acceptanceToPublication":"",
+                "acceptanceRate":"25.4%"
+            }           
+        },
+        {
+            "journalTitle":"Journal of Nanomaterials",
+            "links":{
+                "homepage":"https://www.hindawi.com/journals/jnm/",
+                "aims": "https://www.hindawi.com/journals/jnm/about/",
+                "guidelines":"https://www.hindawi.com/journals/jnm/guidelines/"
+            },
+            "publishingBrand":"Hindawi, a Wiley Brand",
+            "publishedSince":"2005",
+            "description":"An open access journal for researchers and practicing engineers focusing on the science and application of nanoscale and nanostructured materials. Research and review articles will be considered. Journal of Nanomaterials is published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS.",
+            "oa":"Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"2.986", 
+                "SJR":"0.463",
+                "SJRQuadrant":"Q2",
+                "H-Index":"66",
+                "submissionToFirstDecision":"69",
+                "acceptanceToPublication":"29",
+                "acceptanceRate":"49%"
+            }                   
+        },
+        {
+            "journalTitle":"Biomed Research International",
+            "links":{
+                "homepage":"https://www.hindawi.com/journals/bmri/",
+                "aims": "https://www.hindawi.com/journals/bmri/about/",
+                "guidelines":"https://www.hindawi.com/journals/bmri/guidelines/"
+            },
+            "publishingBrand":"Hindawi, a Wiley Brand",
+            "publishedSince":"2001",
+            "description":"An open access journal covering a broad scope of biomedical subject areas and led by dedicated Section Editors. Research and review articles will be considered. BioMed Research International is published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS.",
+            "oa":"Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"3.411", 
+                "SJR":"0.772",
+                "SJRQuadrant":"Q2",
+                "H-Index":"126",
+                "submissionToFirstDecision":"67",
+                "acceptanceToPublication":"21",
+                "acceptanceRate":"23%"
+            }                   
+        },
+        {
+            "journalTitle":"Advanced Nanobiomed Research",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/26999307",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/26999307/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/26999307/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2020",
+            "description":"An open access home for cutting-edge nanotechnology, engineering, and (bio)materials research aimed at improving human health, capturing the broad spectrum of man-made technologies. If accepted, an Article Publication Charge (APC) may apply. Institutions, countries, and other factors may result in partial or full coverage of the APC. Visit http://bit.ly/WileyOAFunding to determine what funding is available.",
+            "oa":"Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"", 
+                "SJR":"",
+                "SJRQuadrant":"",
+                "H-Index":"",
+                "submissionToFirstDecision":"",
+                "acceptanceToPublication":"",
+                "acceptanceRate":""
+            } 
+        }     
+    ]
+},   
         {
             "participantid":"participant@gmail.com",
             "MSID":"1231455",
