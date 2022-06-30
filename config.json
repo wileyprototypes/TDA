@@ -870,6 +870,124 @@ config={
         }     
     ]
 },   
+	{
+    "participantid":"binruiwu@foxmail.com",
+    "MSID":"PES-22-0144",
+    "manuscriptTitle":"Rational introduction of hydrophobic microparticles to improve durability of superhydrophobic coating",
+    "feederJournal":"Polymer Engineering & Science",
+    "authorName":"Binrui Wu",
+    "authorEmail":"binruiwu@foxmail.com",
+    "results":[
+        {
+            "journalTitle":"Advanced Functional Materials",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/16163028",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/16163028/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/16163028/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2001",
+            "description":"Firmly established as a top-tier materials science journal, reporting breakthrough research in all aspects of materials science, including nanotechnology, chemistry, physics, and biology every week. The journal is known for its rapid and fair peer review, quality content, and high impact, making it the first choice of the international materials science community.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"18.808", 
+                "SJR":"6.069",
+                "SJRQuadrant":"Q1",
+                "H-Index":"322",
+                "submissionToFirstDecision":"16",
+                "acceptanceRate":"19.2"
+            }           
+        },
+        {
+            "journalTitle":"Advanced Materials Interfaces",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/21967350",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/21967350/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/21967350/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2014",
+            "description":"Publishes applied, top-level research on functional interfaces and surfaces and their specific applications, driving forward our understanding of interfacial processes. Considering that interfaces between solids, liquids, and gases play an essential role in virtually all materials and devices, the journal’s scope encourages an interdisciplinary blend of physics, chemistry, materials science, and life sciences.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"6.147", 
+                "SJR":"1.671",
+                "SJRQuadrant":"Q1",
+                "H-Index":"65",
+                "submissionToFirstDecision":"19",
+                "acceptanceRate":"29.2%"
+            }           
+        },
+        {
+            "journalTitle":"Journal of Applied Polymer Science",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/10974628",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/10974628/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/10974628/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"1959",
+            "description":"Featuring research articles and compact reviews, the journal covers all applications of polymers, including membranes, energy conversion and storage, and biomedical implants; as well as all types of polymeric materials, from polysaccharides, to composites, to biodegradable polymers. This journal offers free format submission, so you will not need to reformat your manuscript.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"3.125", 
+                "SJR":"0.575",
+                "SJRQuadrant":"Q1",
+                "H-Index":"166",
+                "submissionToFirstDecision":"31",
+                "acceptanceToPublication":"15",
+                "acceptanceRate":"43.9%"
+            }           
+        },
+        {
+            "journalTitle":"Journal of Nanomaterials",
+            "links":{
+                "homepage":"https://www.hindawi.com/journals/jnm/",
+                "aims": "https://www.hindawi.com/journals/jnm/about/",
+                "guidelines":"https://www.hindawi.com/journals/jnm/guidelines/"
+            },
+            "publishingBrand":"Hindawi, a Wiley Brand",
+            "publishedSince":"2005",
+            "description":"An open access journal for researchers and practicing engineers focusing on the science and application of nanoscale and nanostructured materials. Research and review articles will be considered. Journal of Nanomaterials is published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS.",
+            "oa":"Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"2.986", 
+                "SJR":"0.463",
+                "SJRQuadrant":"Q2",
+                "H-Index":"66",
+                "submissionToFirstDecision":"69",
+                "acceptanceToPublication":"29",
+                "acceptanceRate":"49%"
+            }                   
+        },
+        {
+            "journalTitle":"Biosurface and Biotribology",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/24054518",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/24054518/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/24054518/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2021",
+            "description":"A new to Wiley Gold open access journal that publishes original research articles, topical reviews, and communications focusing on the surfaces and tribology associated with biological systems.",
+            "oa":"Open Access", 
+            "formatFree":false, 
+            "metrics":{ 
+                "impact":"", 
+                "SJR":"0.497",
+                "SJRQuadrant":"Q2",
+                "H-Index":"4",
+                "submissionToFirstDecision":"45",
+                "acceptanceToPublication":"19",
+                "acceptanceRate":"88%"
+            } 
+        }     
+    ]
+},   
         {
             "participantid":"participant@gmail.com",
             "MSID":"1231455",
