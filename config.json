@@ -562,6 +562,28 @@ config={
                     "acceptanceToPublication":"30",
                     "acceptanceRate":"31%"
                 }                   
+            },
+	    {
+                "journalTitle":"Advanced Nanobiomed Research",
+                "links":{
+                    "homepage":"https://onlinelibrary.wiley.com/journal/26999307",
+                    "aims": "https://onlinelibrary.wiley.com/page/journal/26999307/homepage/productinformation.html",
+                    "guidelines":"https://onlinelibrary.wiley.com/page/journal/26999307/homepage/forauthors.html"
+                },
+                "publishingBrand":"Wiley",
+                "publishedSince":"2020",
+                "description":"An open access home for cutting-edge nanotechnology, engineering, and (bio)materials research aimed at improving human health, capturing the broad spectrum of man-made technologies. If accepted, an Article Publication Charge (APC) may apply. Institutions, countries, and other factors may result in partial or full coverage of the APC. Visit http://bit.ly/WileyOAFunding to determine what funding is available.",
+                "oa":"Open Access", 
+                "formatFree":true, 
+                "metrics":{ 
+                    "impact":"", 
+                    "SJR":"",
+                    "SJRQuadrant":"",
+                    "H-Index":"",
+                    "submissionToFirstDecision":"",
+                    "acceptanceToPublication":"",
+                    "acceptanceRate":""
+                }                   
             }
         ]
     },  
