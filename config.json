@@ -1150,6 +1150,146 @@ config={
         }     
     ]
 },   
+{
+    "participantid":"hqzhao@cigit.ac.cn",
+    "MSID":"advopticalmat-S-22-00320",
+    "manuscriptTitle":"Substantially Enhanced Properties of 2D WS2 by High Concentration of Erbium Doping against Tungsten Vacancy Formation",
+    "feederJournal":"Advanced Optical Materials",
+    "authorName":"Hong-Quan Zhao",
+    "authorEmail":"hqzhao@cigit.ac.cn",
+    "results":[
+        {
+            "journalTitle":"Advanced Materials",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/15214095",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/15214095/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/15214095/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"1989",
+            "description":"Bringing you the latest progress in materials science every week for over 30 years. Read carefully selected, top-quality reviews, progress reports, communications, and research news at the cutting edge of the chemistry and physics of functional materials. One key to the success of Advanced Materials is its pronounced interdisciplinarity.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"30.849", 
+                "SJR":"10.707",
+                "SJRQuadrant":"Q1",
+                "H-Index":"527",
+                "submissionToFirstDecision":"17",
+                "acceptanceRate":"17%"
+            }           
+        },
+        {
+            "journalTitle":"Advanced Functional Materials",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/16163028",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/16163028/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/16163028/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2001",
+            "description":"Firmly established as a top-tier materials science journal, reporting breakthrough research in all aspects of materials science, including nanotechnology, chemistry, physics, and biology every week. The journal is known for its rapid and fair peer review, quality content, and high impact, making it the first choice of the international materials science community.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"18.808", 
+                "SJR":"6.069",
+                "SJRQuadrant":"Q1",
+                "H-Index":"322",
+                "submissionToFirstDecision":"16",
+                "acceptanceRate":"19.2%"
+            }           
+        },
+        {
+            "journalTitle":"Advanced Materials Technologies",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/2365709X",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/2365709X/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/2365709X/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2016",
+            "description":"The new home for all technology-related materials applications research, with particular focus on advanced device design, fabrication and integration, as well as new technologies based on novel materials. It bridges the gap between fundamental laboratory research and industry.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":true,
+            "metrics":{ 
+                "impact":"7.848", 
+                "SJR":"2.184",
+                "SJRQuadrant":"Q1",
+                "H-Index":"42",
+                "submissionToFirstDecision":"20",
+                "acceptanceToPublication":"",
+                "acceptanceRate":"29.9%"
+            }           
+        },
+        {
+            "journalTitle":"Small Science",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/26884046",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/26884046/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/26884046/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2020",
+            "description":"An open access journal dedicated to publishing the most impactful research from all areas of nanoscience and nanotechnology. If accepted, an Article Publication Charge (APC) may apply. Institutions, countries, and other factors may result in partial or full coverage of the APC. Visit http://bit.ly/WileyOAFunding to determine what funding is available.",
+            "oa":"Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"", 
+                "SJR":"",
+                "SJRQuadrant":"",
+                "H-Index":"",
+                "submissionToFirstDecision":"",
+                "acceptanceToPublication":"",
+                "acceptanceRate":""
+            }           
+        },
+        {
+            "journalTitle":"Journal of Biophotonics",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/18640648",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/18640648/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/18640648/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2008",
+            "description":"Publishes original articles and reviews from the exciting field of biophotonics, i.e. the development and application of photonic technologies in particular for (bio)medicine, but also life- and environmental sciences. The journal offers a platform where technology developers (physicists, chemists, engineers, etc.) communicate with endusers (in particular research clinicians) and where the clinical practitioner learns about the latest tools for the diagnosis and therapy of diseases.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":false, 
+            "metrics":{ 
+                "impact":"3.207", 
+                "SJR":"0.877",
+                "SJRQuadrant":"Q1",
+                "H-Index":"66",
+                "submissionToFirstDecision":"69",
+                "acceptanceToPublication":"29",
+                "acceptanceRate":"48.1%"
+            }                   
+        },
+        {
+            "journalTitle":"Advances in Materials Science & Engineering",
+            "links":{
+                "homepage":"https://www.hindawi.com/journals/amse/",
+                "aims": "https://www.hindawi.com/journals/amse/about/",
+                "guidelines":"https://www.hindawi.com/journals/amse/guidelines/"
+            },
+            "publishingBrand":"Hindawi, a Wiley Brand",
+            "publishedSince":"2008",
+            "description":"An open access journal covering all areas of materials science and engineering, including the synthesis, properties, and application of materials in engineering. Advances in Materials Science and Engineering is published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit:  https://bit.ly/2TpD9TS.",
+            "oa":"Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"2.098", 
+                "SJR":"0.356",
+                "SJRQuadrant":"Q2",
+                "H-Index":"42",
+                "submissionToFirstDecision":"63",
+                "acceptanceToPublication":"19",
+                "acceptanceRate":"33%"
+            }                   
+        }     
+    ]
+},   
         {
             "participantid":"participant@gmail.com",
             "MSID":"1231455",
