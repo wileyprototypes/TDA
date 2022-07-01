@@ -1692,6 +1692,148 @@ config={
         }     
     ]
 },   
+{
+    "participantid":"ivenjiantong@126.com",
+    "MSID":"IJP-REA-22-128",
+    "manuscriptTitle":"Residential mobility and psychological transformation in China: From relational to institutional trust",
+    "feederJournal":"International Journal of Psychology",
+    "authorName":"Yachao Wang",
+    "authorEmail":"ivenjiantong@126.com",
+    "results":[
+        {
+            "journalTitle":"Journal of Community & Applied Social Psychology",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/10991298",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/10991298/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/10991298/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"1990",
+            "description":"In aiming to advancing the contribution of psychology to understanding and addressing community and social issues, this journal accepts contributions that test scientific hypotheses in naturalistic settings and provide theoretical contributions to the field of community psychology and social psychology.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"2.366", 
+                "SJR":"1.042",
+                "SJRQuadrant":"Q1",
+                "H-Index":"63",
+                "submissionToFirstDecision":"25",
+                "acceptanceToPublication":"22",
+                "acceptanceRate":"43.8%"
+            }           
+        },
+        {
+            "journalTitle":"Scandanavian Journal of Psychology",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/14679450",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/14679450/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/14679450/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"1997",
+            "description":"Publishes high-quality manuscripts covering most areas of psychology and the interface of psychology with other areas such as behavioral sciences. Sought are submissions covering experimental, applied and clinical psychology with implications for psychological theory, research, and practice.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"2.343", 
+                "SJR":"0.743",
+                "SJRQuadrant":"Q1",
+                "H-Index":"72",
+                "submissionToFirstDecision":"54",
+                "acceptanceToPublication":"34",
+                "acceptanceRate":"25.9%"
+            }           
+        },
+        {
+            "journalTitle":"Journal of Applied Social Psychology",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/15591816",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/15591816/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/15591816/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2015",
+            "description":"A monthly publication devoted to applications of experimental behavioral science research to problems of society (e.g., organizational and leadership psychology, safety, health, and gender issues; perceptions of war and natural hazards; jury deliberation; performance, AIDS, cancer, heart disease, exercise, and sports). This journal offers free format submission, so you will not need to reformat your manuscript.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":true,
+            "metrics":{ 
+                "impact":"2.122", 
+                "SJR":"0.822",
+                "SJRQuadrant":"Q2",
+                "H-Index":"111",
+                "submissionToFirstDecision":"26",
+                "acceptanceToPublication":"21",
+                "acceptanceRate":"16.6%"
+            }                                    
+        },     
+        {
+            "journalTitle":"Journal of Community Psychology",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/15206629",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/15206629/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/15206629/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"1996",
+            "description":"A peer-reviewed journal devoted to research, evaluation, assessment, and intervention. Although review articles that deal with human behavior in community settings are occasionally accepted, the journal’s primary emphasis is on empirical work that is based in or informs studies to understand community factors that influence, positively and negatively, human development, interaction, and functioning.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"2.282", 
+                "SJR":"0.585",
+                "SJRQuadrant":"Q2",
+                "H-Index":"86",
+                "submissionToFirstDecision":"31",
+                "acceptanceToPublication":"17",
+                "acceptanceRate":"46.3%"
+            }           
+        },
+        {
+            "journalTitle":"The Scientific World Journal",
+            "links":{
+                "homepage":"https://www.hindawi.com/journals/tswj/",
+                "aims": "https://www.hindawi.com/journals/tswj/about/",
+                "guidelines":"https://www.hindawi.com/journals/tswj/guidelines/"
+            },
+            "publishingBrand":"Hindawi, a Wiley Brand",
+            "publishedSince":"2001",
+            "description":"An open access journal covering a wide range of subjects in science, technology, and medicine. Research and review articles will be considered. Published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS.",
+            "oa":"Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"2.29", 
+                "SJR":"0.398",
+                "SJRQuadrant":"Q4",
+                "H-Index":"12",
+                "submissionToFirstDecision":"",
+                "acceptanceToPublication":"19",
+                "acceptanceRate":"21%"
+            }                                           
+        },
+        {
+            "journalTitle":"Personality and Mental Health",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/1932863X",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/1932863X/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/1932863X/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2007",
+            "description":"The journal encourages the following submissions: Reviews and original research articles, including rapid communications; Clinical case studies, with commentaries by, for example, lawyers, ethicists, service users, etc.; Ideas for relevant special issues; and Commentaries. This journal offers free format submission, so you will not need to reformat your manuscript.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"3.816", 
+                "SJR":"1.193",
+                "SJRQuadrant":"Q1",
+                "H-Index":"22",
+                "submissionToFirstDecision":"23",
+                "acceptanceToPublication":"23",
+                "acceptanceRate":"30.3%"
+            }           
+        }     
+    ]
+},   
         {
             "participantid":"participant@gmail.com",
             "MSID":"1231455",
