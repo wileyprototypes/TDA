@@ -1551,6 +1551,147 @@ config={
         }     
     ]
 },   
+{
+    "participantid":"yjchen@nuc.edu.cn",
+    "MSID":"afm-journal-S-22-04144",
+    "manuscriptTitle":"Unraveling the modified regulation of ternary substitution on Na3V2(PO4)3 for sodium ion battery",
+    "feederJournal":"Advanced Functional Materials",
+    "authorName":"Yanjun Chen",
+    "authorEmail":"yjchen@nuc.edu.cn",
+    "results":[
+        {
+            "journalTitle":"Advanced Materials",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/15214095",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/15214095/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/15214095/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"1989",
+            "description":"Bringing you the latest progress in materials science every week for over 30 years. Read carefully selected, top-quality reviews, progress reports, communications, and research news at the cutting edge of the chemistry and physics of functional materials. One key to the success of Advanced Materials is its pronounced interdisciplinarity.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"30.849", 
+                "SJR":"10.707",
+                "SJRQuadrant":"Q1",
+                "H-Index":"527",
+                "submissionToFirstDecision":"17",
+                "acceptanceRate":"17%"
+            }           
+        },
+        {
+            "journalTitle":"Advanced Science",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/21983844",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/21983844/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/21983844/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2015",
+            "description":"An interdisciplinary premium open access journal covering fundamental and applied research in materials science, physics and chemistry, medical and life sciences, as well as engineering. Institutions, countries, and other factors may result in partial or full coverage of the APC. Visit http://bit.ly/WileyOAFunding to determine what funding is available.",
+            "oa":"Open Access", 
+            "formatFree":true,
+            "metrics":{ 
+                "impact":"16.806", 
+                "SJR":"5.388",
+                "SJRQuadrant":"Q1",
+                "H-Index":"100",
+                "submissionToFirstDecision":"18",
+                "acceptanceToPublication":"51",
+                "acceptanceRate":"16.7%"
+            }                                    
+        }     
+        {
+            "journalTitle":"International Journal of Energy Research",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/1099114X",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/1099114X/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/1099114X/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"1977",
+            "description":"Concerned with the development and exploitation of both advanced traditional and new energy sources, systems, technologies and applications.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":false, 
+            "metrics":{ 
+                "impact":"5.164", 
+                "SJR":"0.808",
+                "SJRQuadrant":"Q1",
+                "H-Index":"95",
+                "submissionToFirstDecision":"27",
+                "acceptanceToPublication":"18",
+                "acceptanceRate":"38.1%"
+            }           
+        },
+        {
+            "journalTitle":"Advances in Materials Science and Engineering",
+            "links":{
+                "homepage":"https://www.hindawi.com/journals/amse/",
+                "aims": "https://www.hindawi.com/journals/amse/about/",
+                "guidelines":"https://www.hindawi.com/journals/amse/guidelines/"
+            },
+            "publishingBrand":"Hindawi, a Wiley Brand",
+            "publishedSince":"2008",
+            "description":"An open access journal covering all areas of materials science and engineering, including the synthesis, properties, and application of materials in engineering. Advances in Materials Science and Engineering is published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit:  https://bit.ly/2TpD9TS.",
+            "oa":"Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"1.726", 
+                "SJR":"0.356",
+                "SJRQuadrant":"Q2",
+                "H-Index":"42",
+                "submissionToFirstDecision":"71",
+                "acceptanceToPublication":"29",
+                "acceptanceRate":"33"
+            }           
+        },
+        {
+            "journalTitle":"Journal of Nanomaterials",
+            "links":{
+                "homepage":"https://www.hindawi.com/journals/jnm/",
+                "aims": "https://www.hindawi.com/journals/jnm/about/",
+                "guidelines":"https://www.hindawi.com/journals/jnm/guidelines/"
+            },
+            "publishingBrand":"Hindawi, a Wiley Brand",
+            "publishedSince":"2005",
+            "description":"An open access journal for researchers and practicing engineers focusing on the science and application of nanoscale and nanostructured materials. Research and review articles will be considered. Journal of Nanomaterials is published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS.",
+            "oa":"Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"2.986", 
+                "SJR":"0.463",
+                "SJRQuadrant":"Q2",
+                "H-Index":"66",
+                "submissionToFirstDecision":"69",
+                "acceptanceToPublication":"29",
+                "acceptanceRate":"49%"
+            }                                           
+        },
+        {
+            "journalTitle":"Small Science",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/26884046",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/26884046/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/26884046/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2020",
+            "description":"An open access journal dedicated to publishing the most impactful research from all areas of nanoscience and nanotechnology. If accepted, an Article Publication Charge (APC) may apply. Institutions, countries, and other factors may result in partial or full coverage of the APC. Visit http://bit.ly/WileyOAFunding to determine what funding is available.",
+            "oa":"Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"", 
+                "SJR":"",
+                "SJRQuadrant":"",
+                "H-Index":"",
+                "submissionToFirstDecision":"",
+                "acceptanceToPublication":"",
+                "acceptanceRate":""
+            }           
+        }     
+    ]
+},   
         {
             "participantid":"participant@gmail.com",
             "MSID":"1231455",
