@@ -587,7 +587,7 @@ config={
             }
         ]
     },  
-{
+    {
     "participantid":"hj_huangjin@126.com",
     "MSID":"solar-rrl-S-22-00262",
     "manuscriptTitle":"Benzol tetramintetrahydrochlorid-MA0.6FA0.4PbI3-xClx unsymmetrical perovskite for superior stable solar cell with over 23%",
@@ -870,7 +870,7 @@ config={
         }     
     ]
 },   
-	{
+{
     "participantid":"binruiwu@foxmail.com",
     "MSID":"PES-22-0144",
     "manuscriptTitle":"Rational introduction of hydrophobic microparticles to improve durability of superhydrophobic coating",
