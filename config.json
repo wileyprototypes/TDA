@@ -1409,7 +1409,7 @@ config={
         }
     ]
 },   
-	    {
+{
     "participantid":"zhengzhongzheng@catb.org.cn",
     "MSID":"BJH-2022-00307",
     "manuscriptTitle":"A large multi-centre retrospective analysis comparing HLA alleles and genotypes between patients with various immune-related diseases and donors in China",
@@ -1459,8 +1459,8 @@ config={
                 "submissionToFirstDecision":"19",
                 "acceptanceToPublication":"37",
                 "acceptanceRate":""
-            }                                    
-        },     
+            }           
+        },
         {
             "journalTitle":"Advances in Hematology",
             "links":{
@@ -1503,29 +1503,7 @@ config={
                 "submissionToFirstDecision":"23",
                 "acceptanceToPublication":"29",
                 "acceptanceRate":""
-            }           
-        },
-        {
-            "journalTitle":"Biomed Research International",
-            "links":{
-                "homepage":"https://www.hindawi.com/journals/bmri/",
-                "aims": "https://www.hindawi.com/journals/bmri/about/",
-                "guidelines":"https://www.hindawi.com/journals/bmri/guidelines/"
-            },
-            "publishingBrand":"Hindawi, a Wiley Brand",
-            "publishedSince":"2020",
-            "description":"An open access journal covering a broad scope of biomedical subject areas and led by dedicated Section Editors. Research and review articles will be considered. BioMed Research International is published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS.",
-            "oa":"Open Access", 
-            "formatFree":true, 
-            "metrics":{ 
-                "impact":"3.411", 
-                "SJR":"0.772",
-                "SJRQuadrant":"Q2",
-                "H-Index":"126",
-                "submissionToFirstDecision":"67",
-                "acceptanceToPublication":"30",
-                "acceptanceRate":"31%"
-            }                                           
+            }                   
         },
         {
             "journalTitle":"HLA",
@@ -1547,10 +1525,32 @@ config={
                 "submissionToFirstDecision":"9",
                 "acceptanceToPublication":"21",
                 "acceptanceRate":"85.1%"
-            }           
-        }     
+            }                   
+        },
+        {
+            "journalTitle":"Biomed Research International",
+            "links":{
+                "homepage":"https://www.hindawi.com/journals/bmri/",
+                "aims": "https://www.hindawi.com/journals/bmri/about/",
+                "guidelines":"https://www.hindawi.com/journals/bmri/guidelines/"
+            },
+            "publishingBrand":"Hindawi, a Wiley Brand",
+            "publishedSince":"2020",
+            "description":"An open access journal covering a broad scope of biomedical subject areas and led by dedicated Section Editors. Research and review articles will be considered. BioMed Research International is published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS.",
+            "oa":"Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"3.411", 
+                "SJR":"0.772",
+                "SJRQuadrant":"Q2",
+                "H-Index":"126",
+                "submissionToFirstDecision":"67",
+                "acceptanceToPublication":"30",
+                "acceptanceRate":"31%"
+            }                                  
+        }
     ]
-},
+},   
         {
             "participantid":"participant@gmail.com",
             "MSID":"1231455",
