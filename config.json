@@ -1408,7 +1408,149 @@ config={
             }                                  
         }
     ]
-},   	   
+},   
+	    {
+    "participantid":"zhengzhongzheng@catb.org.cn",
+    "MSID":"BJH-2022-00307",
+    "manuscriptTitle":"A large multi-centre retrospective analysis comparing HLA alleles and genotypes between patients with various immune-related diseases and donors in China",
+    "feederJournal":"British Journal of Haematology",
+    "authorName":"ZhongZheng Zheng",
+    "authorEmail":"zhengzhongzheng@catb.org.cn",
+    "results":[
+        {
+            "journalTitle":"The American Journal of Hematology",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/10968652",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/10968652/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/10968652/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"1976",
+            "description":"The American Journal of Hematology provides broad coverage of experimental and clinical features of blood diseases in humans and in animal models of human disease.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":false,
+            "metrics":{ 
+                "impact":"10.047", 
+                "SJR":"2.456",
+                "SJRQuadrant":"Q1",
+                "H-Index":"105",
+                "submissionToFirstDecision":"7",
+                "acceptanceToPublication":"21",
+                "acceptanceRate":"18.1%"
+            }           
+        },
+        {
+            "journalTitle":"The FASEB Journal",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/15306860",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/15306860/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/15306860/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2020",
+            "description":"The FASEB Journal publishes high quality and impactful multidisciplinary research covering biology and biomedical sciences at every level of organization: atomic, molecular, cell, tissue, organ, organismic, and population. The journal’s scope includes the spectrum of biological and biomedical sciences as well as interdisciplinary research cutting across multiple fields and extending in related areas.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":false,
+            "metrics":{ 
+                "impact":"5.191", 
+                "SJR":"1.709",
+                "SJRQuadrant":"Q1",
+                "H-Index":"277",
+                "submissionToFirstDecision":"19",
+                "acceptanceToPublication":"37",
+                "acceptanceRate":""
+            }                                    
+        },     
+        {
+            "journalTitle":"Advances in Hematology",
+            "links":{
+                "homepage":"https://www.hindawi.com/journals/ah/",
+                "aims": "https://www.hindawi.com/journals/ah/about/",
+                "guidelines":"https://www.hindawi.com/journals/ah/guidelines/"
+            },
+            "publishingBrand":"Hindawi, a Wiley Brand",
+            "publishedSince":"2009",
+            "description":"An open access journal publishing original research articles and review articles in all areas of hematology. Published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS.",
+            "oa":"Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"1.84", 
+                "SJR":"0.371",
+                "SJRQuadrant":"Q3",
+                "H-Index":"31",
+                "submissionToFirstDecision":"",
+                "acceptanceToPublication":"17",
+                "acceptanceRate":""
+            }           
+        },
+        {
+            "journalTitle":"Journal of Leukocyte Biology",
+            "links":{
+                "homepage":"https://jlb.onlinelibrary.wiley.com/journal/19383673",
+                "aims": "https://jlb.onlinelibrary.wiley.com/hub/journal/19383673/productinformation.html",
+                "guidelines":"https://jlb.onlinelibrary.wiley.com/hub/journal/19383673/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2018",
+            "description":"JLB is a peer-reviewed, academic journal published by the Society for Leukocyte Biology for its members and the community of immunobiologists.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"4.962", 
+                "SJR":"1.819",
+                "SJRQuadrant":"Q1",
+                "H-Index":"191",
+                "submissionToFirstDecision":"23",
+                "acceptanceToPublication":"29",
+                "acceptanceRate":""
+            }           
+        },
+        {
+            "journalTitle":"Biomed Research International",
+            "links":{
+                "homepage":"https://www.hindawi.com/journals/bmri/",
+                "aims": "https://www.hindawi.com/journals/bmri/about/",
+                "guidelines":"https://www.hindawi.com/journals/bmri/guidelines/"
+            },
+            "publishingBrand":"Hindawi, a Wiley Brand",
+            "publishedSince":"2020",
+            "description":"An open access journal covering a broad scope of biomedical subject areas and led by dedicated Section Editors. Research and review articles will be considered. BioMed Research International is published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS.",
+            "oa":"Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"3.411", 
+                "SJR":"0.772",
+                "SJRQuadrant":"Q2",
+                "H-Index":"126",
+                "submissionToFirstDecision":"67",
+                "acceptanceToPublication":"30",
+                "acceptanceRate":"31%"
+            }                                           
+        },
+        {
+            "journalTitle":"HLA",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/20592310",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/20592310/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/20592310/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2003",
+            "description":"HLA publishes full-length original articles, brief communications, commentaries and occasional reviews on research in: immunogenetics of cell surface antigens; ontogeny and phylogeny of the immune system; immunogenetics of cell interactions; functional aspects of cell surface molecules and their natural ligands, such as cytokines, adhesion molecules and activation antigens; role of tissue antigens in immune reactions in vitro and in vivo, including experimental and clinical transplantation; and relationships between normal tissue antigens and tumor-associated antigens.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":false,
+            "metrics":{ 
+                "impact":"4.513", 
+                "SJR":"0.347",
+                "SJRQuadrant":"Q4",
+                "H-Index":"99",
+                "submissionToFirstDecision":"9",
+                "acceptanceToPublication":"21",
+                "acceptanceRate":"85.1%"
+            }           
+        }     
+    ]
+},
         {
             "participantid":"participant@gmail.com",
             "MSID":"1231455",
