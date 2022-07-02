@@ -1291,7 +1291,7 @@ config={
     ]
 },  
 {
-    "participantid":"iosuyang@163.com",
+    "participantid":"iosuyang@163.comn",
     "MSID":"Cellprol-7165-22",
     "manuscriptTitle":"Pyroptosis in Platelets: Thrombocytopenia and Inflammation",
     "feederJournal":"Cell Proliferation",
@@ -1340,8 +1340,8 @@ config={
                 "submissionToFirstDecision":"53",
                 "acceptanceToPublication":"29",
                 "acceptanceRate":"36%"
-            }                                    
-        }     
+            }           
+        },
         {
             "journalTitle":"FEBS Open Bio",
             "links":{
@@ -1383,7 +1383,7 @@ config={
                 "submissionToFirstDecision":"23",
                 "acceptanceToPublication":"29",
                 "acceptanceRate":""
-            }           
+            }                   
         },
         {
             "journalTitle":"Biomed Research International",
@@ -1405,8 +1405,8 @@ config={
                 "submissionToFirstDecision":"67",
                 "acceptanceToPublication":"30",
                 "acceptanceRate":"31%"
-            }                                           
-        }     
+            }                                  
+        }
     ]
 },   
         {
