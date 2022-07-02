@@ -1289,7 +1289,126 @@ config={
             }                   
         }
     ]
-},   
+},
+	    {
+    "participantid":"iosuyang@163.com",
+    "MSID":"Cellprol-7165-22",
+    "manuscriptTitle":"Pyroptosis in Platelets: Thrombocytopenia and Inflammation",
+    "feederJournal":"Cell Proliferation",
+    "authorName":"Yang Su",
+    "authorEmail":"iosuyang@163.com",
+    "results":[
+        {
+            "journalTitle":"Immunity, Inflammation and Disease",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/20504527",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/20504527/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/20504527/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2013",
+            "description":"Immunity, Inflammation and Disease is a peer-reviewed, open access, interdisciplinary journal providing rapid publication of research across the broad field of immunology. Immunity, Inflammation and Disease gives rapid consideration to papers in all areas of clinical and basic research.",
+            "oa":"Open Access", 
+            "formatFree":false,
+            "metrics":{ 
+                "impact":"2.239", 
+                "SJR":"0.918",
+                "SJRQuadrant":"Q2",
+                "H-Index":"18",
+                "submissionToFirstDecision":"14",
+                "acceptanceToPublication":"25",
+                "acceptanceRate":"19.2%"
+            }           
+        },
+        {
+            "journalTitle":"Mediators of Inflammation",
+            "links":{
+                "homepage":"https://www.hindawi.com/journals/mi/",
+                "aims": "https://www.hindawi.com/journals/mi/about/",
+                "guidelines":"https://www.hindawi.com/journals/mi/guidelines/"
+            },
+            "publishingBrand":"Hindawi, a Wiley Brand",
+            "publishedSince":"1992",
+            "description":"An open access journal covering all types of inflammatory mediators. Research and review articles will be considered. Mediators of Inflammation is published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS.",
+            "oa":"Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"4.711", 
+                "SJR":"1.370",
+                "SJRQuadrant":"Q2",
+                "H-Index":"97",
+                "submissionToFirstDecision":"53",
+                "acceptanceToPublication":"29",
+                "acceptanceRate":"36%"
+            }           
+        },
+        {
+            "journalTitle":"FEBS Open Bio",
+            "links":{
+                "homepage":"https://febs.onlinelibrary.wiley.com/journal/22115463",
+                "aims": "https://febs.onlinelibrary.wiley.com/hub/journal/22115463/productinformation.html",
+                "guidelines":"https://febs.onlinelibrary.wiley.com/hub/journal/22115463/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2016",
+            "description":"An open access journal that publishes original research in the fields of biochemistry, biophysics, and cell & molecular biology. All submissions, including descriptive, theoretical, exploratory, and confirmatory studies, are considered provided they make a meaningful contribution to the scientific community and are based on robust methodology, sound ethical standards, and careful interpretation of data. The journal publishes Research articles, Methods, Hypotheses, Education articles, and Reviews.",
+            "oa":"Open Access", 
+            "formatFree":false, 
+            "metrics":{ 
+                "impact":"2.693", 
+                "SJR":"0.718",
+                "SJRQuadrant":"Q2",
+                "H-Index":"31",
+                "submissionToFirstDecision":"",
+                "acceptanceRate":"21.3%"
+            }           
+        },
+        {
+            "journalTitle":"Journal of Leukocyte Biology",
+            "links":{
+                "homepage":"https://jlb.onlinelibrary.wiley.com/journal/19383673",
+                "aims": "https://jlb.onlinelibrary.wiley.com/hub/journal/19383673/productinformation.html",
+                "guidelines":"https://jlb.onlinelibrary.wiley.com/hub/journal/19383673/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2018",
+            "description":"JLB is a peer-reviewed, academic journal published by the Society for Leukocyte Biology for its members and the community of immunobiologists.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"4.962", 
+                "SJR":"1.819",
+                "SJRQuadrant":"Q1",
+                "H-Index":"191",
+                "submissionToFirstDecision":"23",
+                "acceptanceToPublication":"29",
+                "acceptanceRate":""
+            }                   
+        },
+        {
+            "journalTitle":"Biomed Research International",
+            "links":{
+                "homepage":"https://www.hindawi.com/journals/bmri/",
+                "aims": "https://www.hindawi.com/journals/bmri/about/",
+                "guidelines":"https://www.hindawi.com/journals/bmri/guidelines/"
+            },
+            "publishingBrand":"Hindawi, a Wiley Brand",
+            "publishedSince":"2020",
+            "description":"An open access journal covering a broad scope of biomedical subject areas and led by dedicated Section Editors. Research and review articles will be considered. BioMed Research International is published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS.",
+            "oa":"Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"3.411", 
+                "SJR":"0.772",
+                "SJRQuadrant":"Q2",
+                "H-Index":"126",
+                "submissionToFirstDecision":"67",
+                "acceptanceToPublication":"30",
+                "acceptanceRate":"31%"
+            }                                  
+        }
+    ]
+},   	   
         {
             "participantid":"participant@gmail.com",
             "MSID":"1231455",
