@@ -1460,7 +1460,7 @@ config={
                 "acceptanceToPublication":"37",
                 "acceptanceRate":""
             }                                    
-        }     
+        },     
         {
             "journalTitle":"Advances in Hematology",
             "links":{
@@ -1601,7 +1601,7 @@ config={
                 "acceptanceToPublication":"51",
                 "acceptanceRate":"16.7%"
             }                                    
-        }     
+        },     
         {
             "journalTitle":"International Journal of Energy Research",
             "links":{
