@@ -1150,7 +1150,7 @@ config={
         }     
     ]
 },
-	    {
+{
     "participantid":"hqzhao@cigit.ac.cn",
     "MSID":"advopticalmat-S-22-00320",
     "manuscriptTitle":"Substantially Enhanced Properties of 2D WS2 by High Concentration of Erbium Doping against Tungsten Vacancy Formation",
@@ -1242,28 +1242,6 @@ config={
                 "submissionToFirstDecision":"",
                 "acceptanceToPublication":"",
                 "acceptanceRate":""
-            }           
-        },
-        {
-            "journalTitle":"Journal of Biophotonics",
-            "links":{
-                "homepage":"https://onlinelibrary.wiley.com/journal/18640648",
-                "aims": "https://onlinelibrary.wiley.com/page/journal/18640648/homepage/productinformation.html",
-                "guidelines":"https://onlinelibrary.wiley.com/page/journal/18640648/homepage/forauthors.html"
-            },
-            "publishingBrand":"Wiley",
-            "publishedSince":"2008",
-            "description":"Publishes original articles and reviews from the exciting field of biophotonics, i.e. the development and application of photonic technologies in particular for (bio)medicine, but also life- and environmental sciences. The journal offers a platform where technology developers (physicists, chemists, engineers, etc.) communicate with endusers (in particular research clinicians) and where the clinical practitioner learns about the latest tools for the diagnosis and therapy of diseases.",
-            "oa":"Subscription or Open Access", 
-            "formatFree":false, 
-            "metrics":{ 
-                "impact":"3.207", 
-                "SJR":"0.877",
-                "SJRQuadrant":"Q1",
-                "H-Index":"66",
-                "submissionToFirstDecision":"69",
-                "acceptanceToPublication":"29",
-                "acceptanceRate":"48.1%"
             }                   
         },
         {
@@ -1287,9 +1265,31 @@ config={
                 "acceptanceToPublication":"19",
                 "acceptanceRate":"33%"
             }                   
-        }     
+        },
+        {
+            "journalTitle":"Journal of Biophotonics",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/18640648",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/18640648/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/18640648/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2008",
+            "description":"Publishes original articles and reviews from the exciting field of biophotonics, i.e. the development and application of photonic technologies in particular for (bio)medicine, but also life- and environmental sciences. The journal offers a platform where technology developers (physicists, chemists, engineers, etc.) communicate with endusers (in particular research clinicians) and where the clinical practitioner learns about the latest tools for the diagnosis and therapy of diseases.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":false, 
+            "metrics":{ 
+                "impact":"3.207", 
+                "SJR":"0.877",
+                "SJRQuadrant":"Q1",
+                "H-Index":"66",
+                "submissionToFirstDecision":"69",
+                "acceptanceToPublication":"29",
+                "acceptanceRate":"48.1%"
+            }                   
+        }
     ]
-}, 
+},   
         {
             "participantid":"participant@gmail.com",
             "MSID":"1231455",
