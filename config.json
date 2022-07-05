@@ -610,6 +610,28 @@ config={
                 }                   
             },
 	    {
+            "journalTitle":"Asia-Pacific Journal of Clinical Oncology",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/17437563",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/17437563/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/17437563/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2005",
+            "description":"A multidisciplinary journal of oncology that aims to be a forum for facilitating collaboration and exchanging information on what is happening in different countries of the Asia Pacific region in relation to cancer treatment and care. The Journal publishes pre-clinical studies, translational research, clinical trials and epidemiological studies, describing new findings of clinical significance.  Clinical studies, particularly prospectively designed clinical trials, are encouraged.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":true, 
+            "metrics":{ 
+                "impact":"2.601", 
+                "SJR":"0.730",
+                "SJRQuadrant":"Q2",
+                "H-Index":"29",
+                "submissionToFirstDecision":"40",
+                "acceptanceToPublication":"61",
+                "acceptanceRate":"11%"
+            	}           
+           },   
+	    {
                 "journalTitle":"Advanced Nanobiomed Research",
                 "links":{
                     "homepage":"https://onlinelibrary.wiley.com/journal/26999307",
