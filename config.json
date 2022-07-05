@@ -1461,6 +1461,50 @@ config={
                 "acceptanceRate":""
             }                   
         },
+	   {
+            "journalTitle":"Journal of Cellular Physiology",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/10974652",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/10974652/homepage/productinformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/10974652/homepage/forauthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"1932",
+            "description":"The Journal of Cellular Physiology publishes reports of high biological significance in areas of eukaryotic cell biology and physiology, focusing on those articles that adopt a molecular mechanistic approach to investigate cell structure and function. Additionally, the investigation of stem cells and changes that differentiate cancer cells from normal cells.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":false, 
+            "metrics":{ 
+                "impact":"6.384", 
+                "SJR":"1.529",
+                "SJRQuadrant":"Q1",
+                "H-Index":"174",
+                "submissionToFirstDecision":"16",
+                "acceptanceToPublication":"18",
+                "acceptanceRate":"14%"
+            }           
+        },
+	        {
+            "journalTitle":"Immunology & Cell Biology",
+            "links":{
+                "homepage":"https://onlinelibrary.wiley.com/journal/14401711",
+                "aims": "https://onlinelibrary.wiley.com/page/journal/14401711/homepage/ProductInformation.html",
+                "guidelines":"https://onlinelibrary.wiley.com/page/journal/14401711/homepage/ForAuthors.html"
+            },
+            "publishingBrand":"Wiley",
+            "publishedSince":"2018",
+            "description":"Immunology & Cell Biology focuses on the general functioning of the immune system in its broadest sense, with a particular emphasis on its cell biology.",
+            "oa":"Subscription or Open Access", 
+            "formatFree":false, 
+            "metrics":{ 
+                "impact":"5.126", 
+                "SJR":"1.999",
+                "SJRQuadrant":"Q1",
+                "H-Index":"104",
+                "submissionToFirstDecision":"15",
+                "acceptanceToPublication":"33",
+                "acceptanceRate":"30.1%"
+            }           
+        },   
         {
             "journalTitle":"Biomed Research International",
             "links":{
