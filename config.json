@@ -1676,52 +1676,8 @@ config={
                 "H-Index":"42",
                 "submissionToFirstDecision":"71",
                 "acceptanceToPublication":"29",
-                "acceptanceRate":"33"
-            }                   
-        },
-        {
-            "journalTitle":"Journal of Nanomaterials",
-            "links":{
-                "homepage":"https://www.hindawi.com/journals/jnm/",
-                "aims": "https://www.hindawi.com/journals/jnm/about/",
-                "guidelines":"https://www.hindawi.com/journals/jnm/guidelines/"
-            },
-            "publishingBrand":"Hindawi, a Wiley Brand",
-            "publishedSince":"2005",
-            "description":"An open access journal for researchers and practicing engineers focusing on the science and application of nanoscale and nanostructured materials. Research and review articles will be considered. Journal of Nanomaterials is published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS.",
-            "oa":"Open Access", 
-            "formatFree":true, 
-            "metrics":{ 
-                "impact":"2.986", 
-                "SJR":"0.463",
-                "SJRQuadrant":"Q2",
-                "H-Index":"66",
-                "submissionToFirstDecision":"69",
-                "acceptanceToPublication":"29",
-                "acceptanceRate":"49%"
-            }                   
-        },
-        {
-            "journalTitle":"Small Science",
-            "links":{
-                "homepage":"https://onlinelibrary.wiley.com/journal/26884046",
-                "aims": "https://onlinelibrary.wiley.com/page/journal/26884046/homepage/productinformation.html",
-                "guidelines":"https://onlinelibrary.wiley.com/page/journal/26884046/homepage/forauthors.html"
-            },
-            "publishingBrand":"Wiley",
-            "publishedSince":"2020",
-            "description":"An open access journal dedicated to publishing the most impactful research from all areas of nanoscience and nanotechnology. If accepted, an Article Publication Charge (APC) may apply. Institutions, countries, and other factors may result in partial or full coverage of the APC. Visit http://bit.ly/WileyOAFunding to determine what funding is available.",
-            "oa":"Open Access", 
-            "formatFree":true, 
-            "metrics":{ 
-                "impact":"", 
-                "SJR":"",
-                "SJRQuadrant":"",
-                "H-Index":"",
-                "submissionToFirstDecision":"",
-                "acceptanceToPublication":"",
-                "acceptanceRate":""
-            }                                  
+                "acceptanceRate":"33%"
+            }                                                  
         }
     ]
 },   
