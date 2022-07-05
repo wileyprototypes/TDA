@@ -1679,6 +1679,28 @@ config={
                 "acceptanceRate":"38.1%"
             }           
         },
+	    {
+   		 "journalTitle":"ChemElectroChem",
+   		 "links":{
+      		  "homepage":"https://onlinelibrary.wiley.com/journal/21960216",
+       		  "aims": "https://onlinelibrary.wiley.com/page/journal/21960216/homepage/productinformation.html",
+       		  "guidelines":"https://onlinelibrary.wiley.com/page/journal/21960216/homepage/forauthors.html"
+    			},
+   		 "publishingBrand":"Wiley",
+    		 "publishedSince":"2014",
+    		 "description":"ChemElectroChem showcases exceptional international research over the entire scope of electrochemistry. It is published on behalf of Chemistry Europe, an association of 16 European chemical societies.",
+    		 "oa":"Subscription or Open Access", 
+   		 "formatFree":false,
+   		 "metrics":{ 
+      		  "impact":"4.59", 
+       		  "SJR":"1.182",
+        	  "SJRQuadrant":"Q1",
+        	  "H-Index":"59",
+        	  "submissionToFirstDecision":"14",
+        	  "acceptanceToPublication":"",
+       		  "acceptanceRate":"36.6%"
+    }           
+},
         {
             "journalTitle":"Advances in Materials Science and Engineering",
             "links":{
