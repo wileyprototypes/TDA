@@ -255,6 +255,7 @@ config={
                         "SJRQuadrant":"Q1",
                         "H-Index":"322",
                         "submissionToFirstDecision":"16",
+			"acceptanceToPublication":"",
                         "acceptanceRate":"19.2%"
                     }           
                 },
@@ -320,6 +321,7 @@ config={
                         "SJRQuadrant":"Q2",
                         "H-Index":"104",
                         "submissionToFirstDecision":"24",
+			"acceptanceToPublication":"",
                         "acceptanceRate":"41.8%"
                     }                   
                 }
@@ -777,6 +779,7 @@ config={
                 "SJRQuadrant":"Q2",
                 "H-Index":"34",
                 "submissionToFirstDecision":"18",
+		"acceptanceToPublication":"",
                 "acceptanceRate":"34.3%"
             }           
         },
@@ -896,6 +899,7 @@ config={
                 "SJRQuadrant":"Q1",
                 "H-Index":"322",
                 "submissionToFirstDecision":"16",
+		"acceptanceToPublication":"",
                 "acceptanceRate":"19.2%"
             }           
         },
@@ -917,6 +921,7 @@ config={
                 "SJRQuadrant":"Q1",
                 "H-Index":"65",
                 "submissionToFirstDecision":"19",
+		"acceptanceToPublication":"",
                 "acceptanceRate":"29.2%"
             }           
         },
@@ -1014,6 +1019,7 @@ config={
                 "SJRQuadrant":"Q1",
                 "H-Index":"527",
                 "submissionToFirstDecision":"17",
+		"acceptanceToPublication":"",
                 "acceptanceRate":"17%"
             }           
         },
@@ -1035,6 +1041,7 @@ config={
                 "SJRQuadrant":"Q1",
                 "H-Index":"322",
                 "submissionToFirstDecision":"16",
+		"acceptanceToPublication":"",
                 "acceptanceRate":"19.2"
             }           
         },
@@ -1155,7 +1162,7 @@ config={
     "MSID":"advopticalmat-S-22-00320",
     "manuscriptTitle":"Substantially Enhanced Properties of 2D WS2 by High Concentration of Erbium Doping against Tungsten Vacancy Formation",
     "feederJournal":"Advanced Optical Materials",
-    "authorName":"Hong-Quan Zhao",
+    "authorName":"Hongquan Zhao",
     "authorEmail":"hqzhao@cigit.ac.cn",
     "results":[
         {
@@ -1176,6 +1183,7 @@ config={
                 "SJRQuadrant":"Q1",
                 "H-Index":"527",
                 "submissionToFirstDecision":"17",
+		"acceptanceToPublication":"",
                 "acceptanceRate":"17%"
             }           
         },
@@ -1197,6 +1205,7 @@ config={
                 "SJRQuadrant":"Q1",
                 "H-Index":"322",
                 "submissionToFirstDecision":"16",
+		"acceptanceToPublication":"",
                 "acceptanceRate":"19.2%"
             }           
         },
@@ -1360,6 +1369,7 @@ config={
                 "SJRQuadrant":"Q2",
                 "H-Index":"31",
                 "submissionToFirstDecision":"",
+		"acceptanceToPublication":"",
                 "acceptanceRate":"21.3%"
             }           
         },
@@ -1414,7 +1424,7 @@ config={
     "MSID":"BJH-2022-00307",
     "manuscriptTitle":"A large multi-centre retrospective analysis comparing HLA alleles and genotypes between patients with various immune-related diseases and donors in China",
     "feederJournal":"British Journal of Haematology",
-    "authorName":"ZhongZheng Zheng",
+    "authorName":"Zhongzheng Zheng",
     "authorEmail":"zhengzhongzheng@catb.org.cn",
     "results":[
         {
@@ -1577,6 +1587,7 @@ config={
                 "SJRQuadrant":"Q1",
                 "H-Index":"527",
                 "submissionToFirstDecision":"17",
+		"acceptanceToPublication":"",
                 "acceptanceRate":"17%"
             }           
         },
