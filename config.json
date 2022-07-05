@@ -446,28 +446,6 @@ config={
             }           
         },
                 {
-                    "journalTitle":"SmartMat",
-                    "links":{
-                        "homepage":"https://onlinelibrary.wiley.com/journal/2688819X",
-                        "aims": "https://onlinelibrary.wiley.com/page/journal/2688819X/homepage/productinformation.html",
-                        "guidelines":"https://onlinelibrary.wiley.com/page/journal/2688819X/homepage/forauthors.html"
-                    },
-                    "publishingBrand":"Wiley",
-                    "publishedSince":"2020",
-                    "description":"A new open access journal addressing the growing scientific interests in developing intelligent materials that can change significantly in a controlled fashion to external stimuli across the entire spectrum of materials science and engineering.",
-                    "oa":"Open Access", 
-                    "formatFree":false, 
-                    "metrics":{ 
-                        "impact":"", 
-                        "SJR":"",
-                        "SJRQuadrant":"",
-                        "H-Index":"",
-                        "submissionToFirstDecision":"",
-                        "acceptanceToPublication":"21",
-                        "acceptanceRate":""
-                    }           
-                },
-                {
                     "journalTitle":"Electrochemical Science Advances",
                     "links":{
                         "homepage":"https://onlinelibrary.wiley.com/journal/26985977",
