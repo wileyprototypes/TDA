@@ -500,28 +500,6 @@ config={
                 }           
             },
             {
-                "journalTitle":"Advanced Science",
-                "links":{
-                    "homepage":"https://onlinelibrary.wiley.com/journal/21983844",
-                    "aims": "https://onlinelibrary.wiley.com/page/journal/21983844/homepage/productinformation.html",
-                    "guidelines":"https://onlinelibrary.wiley.com/page/journal/21983844/homepage/forauthors.html"
-                },
-                "publishingBrand":"Wiley",
-                "publishedSince":"2015",
-                "description":"An interdisciplinary premium open access journal covering fundamental and applied research in materials science, physics and chemistry, medical and life sciences, as well as engineering. Institutions, countries, and other factors may result in partial or full coverage of the APC. Visit http://bit.ly/WileyOAFunding to determine what funding is available.",
-                "oa":"Open Access", 
-                "formatFree":true,
-                "metrics":{ 
-                    "impact":"16.806", 
-                    "SJR":"5.388",
-                    "SJRQuadrant":"Q1",
-                    "H-Index":"100",
-                    "submissionToFirstDecision":"18",
-                    "acceptanceToPublication":"51",
-                    "acceptanceRate":"16.7%"
-                }           
-            },
-            {
                 "journalTitle":"Advanced Healthcare Materials",
                 "links":{
                     "homepage":"https://onlinelibrary.wiley.com/journal/21922659",
@@ -543,28 +521,6 @@ config={
                     "acceptanceRate":"25.4%"
                 }           
             },  
-            {
-                "journalTitle":"Journal of Nanomaterials",
-                "links":{
-                    "homepage":"https://www.hindawi.com/journals/jnm/",
-                    "aims": "https://www.hindawi.com/journals/jnm/about/",
-                    "guidelines":"https://www.hindawi.com/journals/jnm/guidelines/"
-                },
-                "publishingBrand":"Hindawi, a Wiley Brand",
-                "publishedSince":"2005",
-                "description":"An open access journal for researchers and practicing engineers focusing on the science and application of nanoscale and nanostructured materials. Research and review articles will be considered. Journal of Nanomaterials is published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS.",
-                "oa":"Open Access", 
-                "formatFree":true, 
-                "metrics":{ 
-                    "impact":"2.986", 
-                    "SJR":"0.463",
-                    "SJRQuadrant":"Q2",
-                    "H-Index":"66",
-                    "submissionToFirstDecision":"69",
-                    "acceptanceToPublication":"29",
-                    "acceptanceRate":"49%"
-                }                   
-            },
             {
                 "journalTitle":"Biomed Research International",
                 "links":{
