@@ -1090,28 +1090,6 @@ config={
             }           
         },
         {
-            "journalTitle":"Journal of Nanomaterials",
-            "links":{
-                "homepage":"https://www.hindawi.com/journals/jnm/",
-                "aims": "https://www.hindawi.com/journals/jnm/about/",
-                "guidelines":"https://www.hindawi.com/journals/jnm/guidelines/"
-            },
-            "publishingBrand":"Hindawi, a Wiley Brand",
-            "publishedSince":"2005",
-            "description":"An open access journal for researchers and practicing engineers focusing on the science and application of nanoscale and nanostructured materials. Research and review articles will be considered. Journal of Nanomaterials is published by Hindawi, a Wiley brand. So you don't have to spend time reformatting your article, the journal team will do this for you as part of the transfer: https://bit.ly/2RULcYG. If accepted, an Article Processing Charge (APC) will apply. To find out more about APCs and our transparent waiver policy, visit: https://bit.ly/2TpD9TS.",
-            "oa":"Open Access", 
-            "formatFree":true, 
-            "metrics":{ 
-                "impact":"2.986", 
-                "SJR":"0.463",
-                "SJRQuadrant":"Q2",
-                "H-Index":"66",
-                "submissionToFirstDecision":"69",
-                "acceptanceToPublication":"29",
-                "acceptanceRate":"49%"
-            }                   
-        },
-        {
             "journalTitle":"Biomed Research International",
             "links":{
                 "homepage":"https://www.hindawi.com/journals/bmri/",
