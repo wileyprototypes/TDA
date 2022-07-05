@@ -1418,28 +1418,6 @@ config={
             }           
         },
         {
-            "journalTitle":"FEBS Open Bio",
-            "links":{
-                "homepage":"https://febs.onlinelibrary.wiley.com/journal/22115463",
-                "aims": "https://febs.onlinelibrary.wiley.com/hub/journal/22115463/productinformation.html",
-                "guidelines":"https://febs.onlinelibrary.wiley.com/hub/journal/22115463/forauthors.html"
-            },
-            "publishingBrand":"Wiley",
-            "publishedSince":"2016",
-            "description":"An open access journal that publishes original research in the fields of biochemistry, biophysics, and cell & molecular biology. All submissions, including descriptive, theoretical, exploratory, and confirmatory studies, are considered provided they make a meaningful contribution to the scientific community and are based on robust methodology, sound ethical standards, and careful interpretation of data. The journal publishes Research articles, Methods, Hypotheses, Education articles, and Reviews.",
-            "oa":"Open Access", 
-            "formatFree":false, 
-            "metrics":{ 
-                "impact":"2.693", 
-                "SJR":"0.718",
-                "SJRQuadrant":"Q2",
-                "H-Index":"31",
-                "submissionToFirstDecision":"",
-		"acceptanceToPublication":"",
-                "acceptanceRate":"21.3%"
-            }           
-        },
-        {
             "journalTitle":"Journal of Leukocyte Biology",
             "links":{
                 "homepage":"https://jlb.onlinelibrary.wiley.com/journal/19383673",
