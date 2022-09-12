@@ -1,4 +1,7 @@
 # TDA
+Prototypes to test TDA Email Offer Experience (UR0020 and UR0001)
+
+# Install
 npm i
 
 # to compile sass
